@@ -7,9 +7,9 @@ const PATH = "/service-areas/middlesex-county-ma";
 const towns = getLocationsByCounty("Middlesex County");
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Middlesex County MA | Cambridge, Somerville & Nearby",
+  title: "Cleaning Services Middlesex County MA",
   description:
-    "Residential cleaning in inner Middlesex County, MA: Cambridge, Somerville, Arlington, Medford, Watertown, and Belmont. Insured local teams, flat quotes, plant-based products on request.",
+    "Residential cleaning in inner Middlesex County, MA: Cambridge, Somerville, Arlington, Medford, Watertown, and Belmont.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

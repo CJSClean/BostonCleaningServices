@@ -22,9 +22,9 @@ const PATH = "/services/apartment-cleaning-boston-ma";
 const KEY = "apartment-cleaning";
 
 export const metadata: Metadata = {
-  title: "Apartment Cleaning Boston MA | Studios to 3-Bed, Flat Pricing",
+  title: "Apartment Cleaning Boston MA",
   description:
-    "Apartment cleaning in Boston, MA for walk-ups, triple-deckers, and high-rises. Insured employee cleaners, building access handled, flat quotes from $110. Book a same-week visit.",
+    "Apartment cleaning in Boston, MA for walk-ups, triple-deckers, and high-rises. Insured employee cleaners, building access handled, flat quotes from $110.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

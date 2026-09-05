@@ -10,9 +10,9 @@ import { SITE_CONFIG, SITE_URL } from "@/lib/constants";
 import { generateBreadcrumbSchema, generateContactPageSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Contact Boston Cleaning Services | Free Quote, Same-Week Booking",
+  title: "Contact Boston Cleaning Services",
   description:
-    "Call, text, or send a quick form to Boston Cleaning Services for a flat-rate quote. Coordinators reply within an hour, 7 days a week. Serving Boston, Cambridge, Somerville, Brookline & Newton.",
+    "Call, text, or send a quick form to Boston Cleaning Services for a flat-rate quote. Coordinators reply within an hour, 7 days a week.",
   alternates: { canonical: `${SITE_URL}/contact` },
 };
 

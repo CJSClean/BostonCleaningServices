@@ -22,9 +22,9 @@ const PATH = "/services/house-cleaning-boston-ma";
 const KEY = "house-cleaning";
 
 export const metadata: Metadata = {
-  title: "House Cleaning Boston MA | Recurring & One-Time Home Cleaning",
+  title: "House Cleaning Boston MA",
   description:
-    "Flat-rate house cleaning in Boston, MA from insured, background-checked employees. Weekly, biweekly, monthly, or one-time visits with a published checklist and 24-hour guarantee.",
+    "Flat-rate house cleaning in Boston, MA from insured, background-checked employees. Weekly, biweekly, monthly, or one-time visits with a 24-hour guarantee.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

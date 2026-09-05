@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("cambridge")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Cambridge MA | Apartment & House Cleaning",
+  title: "Cleaning Services Cambridge MA",
   description:
-    "House and apartment cleaning across Cambridge, MA: Harvard Square Victorians, Kendall condos, Cambridgeport triple-deckers. Insured local teams, flat pricing, same-week booking.",
+    "House and apartment cleaning across Cambridge, MA: Harvard Square Victorians, Kendall condos, Cambridgeport triple-deckers.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

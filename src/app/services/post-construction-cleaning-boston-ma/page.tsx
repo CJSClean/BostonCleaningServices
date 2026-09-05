@@ -21,9 +21,9 @@ const PATH = "/services/post-construction-cleaning-boston-ma";
 const KEY = "post-construction-cleaning";
 
 export const metadata: Metadata = {
-  title: "Post Construction Cleaning Boston MA | Renovation Dust Removal",
+  title: "Post Construction Cleaning Boston MA",
   description:
-    "Post-construction and post-renovation cleaning in Boston, MA. HEPA dust removal, adhesive and paint speck cleanup, multi-pass final cleans for homeowners and contractors. Project quotes.",
+    "Post-construction and post-renovation cleaning in Boston, MA. HEPA dust removal, adhesive and paint cleanup, and multi-pass final cleans for homeowners and GCs.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

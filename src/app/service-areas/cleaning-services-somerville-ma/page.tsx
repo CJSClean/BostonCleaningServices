@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("somerville")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Somerville MA | Apartment & Triple-Decker Cleaning",
+  title: "Cleaning Services Somerville MA",
   description:
-    "Apartment and house cleaning in Somerville, MA: Davis Square triple-deckers, Union Square condos, Assembly Row towers. Insured local teams, roommate-friendly pricing, same-week booking.",
+    "Apartment and house cleaning in Somerville, MA: Davis Square triple-deckers, Union Square condos, Assembly Row towers.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

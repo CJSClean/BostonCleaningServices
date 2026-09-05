@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     template: "%s | Boston Cleaning Services",
   },
   description:
-    "Boston Cleaning Services provides house cleaning, apartment cleaning, deep cleaning, and move-in/move-out cleaning across Boston, Cambridge, Somerville, Brookline, and Newton.",
+    "House, apartment, deep, and move-in/move-out cleaning across Boston, Cambridge, Somerville, Brookline, and Newton from an insured local team with flat quotes.",
   keywords: [
     "boston cleaning services",
     "cleaning services boston ma",

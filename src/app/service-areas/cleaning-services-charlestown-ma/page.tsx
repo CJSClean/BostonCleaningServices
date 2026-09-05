@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("charlestown")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Charlestown Boston | Townhouse & Navy Yard Condos",
+  title: "Cleaning Services Charlestown Boston",
   description:
-    "Home cleaning in Charlestown, Boston: Monument Square townhouses, Navy Yard waterfront condos, and Bunker Hill triple-deckers. Local insured teams, flat quotes, same-week booking.",
+    "Home cleaning in Charlestown, Boston: Monument Square townhouses, Navy Yard waterfront condos, and Bunker Hill triple-deckers.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

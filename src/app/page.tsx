@@ -16,9 +16,9 @@ import { SITE_URL } from "@/lib/constants";
 import { generateFAQSchema, generateLocalBusinessSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA",
+  title: { absolute: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA" },
   description:
-    "Boston Cleaning Services offers house cleaning, apartment cleaning, deep cleaning, and move-in/move-out cleaning across Boston, Cambridge, Somerville, Brookline & Newton. Get a free quote.",
+    "House, apartment, deep, and move cleaning across Boston, Cambridge, Somerville, Brookline & Newton. Insured local teams, flat quotes, same-week slots.",
   alternates: { canonical: SITE_URL },
   openGraph: {
     title: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA",

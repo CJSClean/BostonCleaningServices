@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("jamaica-plain")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Jamaica Plain Boston | House & Apartment Cleaning",
+  title: "Cleaning Services Jamaica Plain Boston",
   description:
-    "House and apartment cleaning in Jamaica Plain, Boston. Triple-deckers, Victorians near the Pond, and Forest Hills condos cleaned by insured local teams. Flat pricing, eco products available.",
+    "House and apartment cleaning in Jamaica Plain, Boston. Triple-deckers, Victorians near the Pond, and Forest Hills condos cleaned by insured local teams.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

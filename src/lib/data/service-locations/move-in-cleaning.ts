@@ -2,9 +2,9 @@ import type { ServiceLocationCopy } from "./index";
 
 export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
   "back-bay": {
-    title: "Move In Cleaning Back Bay Boston | Empty-Unit Clean Before You Unpack",
+    title: "Move In Cleaning Back Bay Boston",
     description:
-      "Move-in cleaning in Back Bay for brownstone units and full-service condos. Cabinets, closets, oven, fridge, and parquet cleaned before the movers arrive. Concierge coordination, flat quotes.",
+      "Move-in cleaning in Back Bay for brownstone units and full-service condos. Cabinets, closets, oven, fridge, and parquet cleaned before the movers arrive.",
     h1: "Move In Cleaning in Back Bay, MA",
     subtitle:
       "Between the key handoff and the moving truck, an empty Back Bay unit gets every cabinet, closet, and appliance cleaned inside and out. We coordinate with the concierge so you can be anywhere.",
@@ -40,9 +40,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, unit size, and key handoff time. We confirm a flat price and hold the slot.",
   },
   "beacon-hill": {
-    title: "Move In Cleaning Beacon Hill Boston | Historic Unit Move-In Clean",
+    title: "Move In Cleaning Beacon Hill Boston",
     description:
-      "Move-in cleaning on Beacon Hill for compact historic apartments and townhouse floors. Every cabinet, closet, and appliance interior cleaned before your boxes cross the threshold. Flat quotes.",
+      "Move-in cleaning on Beacon Hill for compact historic apartments and townhouse floors. Every cabinet, closet, and appliance cleaned inside before you unpack.",
     h1: "Move In Cleaning in Beacon Hill, MA",
     subtitle:
       "Tiny closets, galley kitchens, and cabinets with a century of use. A Beacon Hill move-in clean reaches every corner while the unit is empty and the corners can still be reached.",
@@ -78,9 +78,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the move date, unit size, and key details. A flat price and a held slot come back within the hour.",
   },
   brookline: {
-    title: "Move In Cleaning Brookline MA | Empty-Home Clean Before Moving Day",
+    title: "Move In Cleaning Brookline MA",
     description:
-      "Move-in cleaning in Brookline, MA for houses and apartments. Cabinets, closets, oven, fridge, and floors cleaned before the truck arrives, scheduled around closings and lease starts.",
+      "Move-in cleaning in Brookline, MA for houses and apartments. Cabinets, closets, oven, fridge, and floors cleaned before the truck arrives. Flat quotes.",
     h1: "Move In Cleaning in Brookline, MA",
     subtitle:
       "Closing on a Fisher Hill colonial or starting a lease near Coolidge Corner, the empty home gets every cabinet, closet, and appliance cleaned before a single box comes through the door.",
@@ -116,9 +116,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your closing or lease date, home size, and key details. A flat price and a held slot arrive within the hour.",
   },
   cambridge: {
-    title: "Move In Cleaning Cambridge MA | Sublets, Leases & New Homes",
+    title: "Move In Cleaning Cambridge MA",
     description:
-      "Move-in cleaning in Cambridge, MA for graduate leases, sublets, condos, and houses. Cabinet, closet, and appliance interiors cleaned before you unpack. September 1 slots held early.",
+      "Move-in cleaning in Cambridge, MA for graduate leases, sublets, condos, and houses. Cabinet, closet, and appliance interiors cleaned before you unpack.",
     h1: "Move In Cleaning in Cambridge, MA",
     subtitle:
       "A new lease near Central Square, a sublet in Cambridgeport, or a house in Huron Village. The empty home gets every interior surface cleaned before the boxes arrive, on Cambridge's crowded calendar.",
@@ -154,9 +154,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, unit size, and key details. A flat price and a held slot come back within the hour.",
   },
   charlestown: {
-    title: "Move In Cleaning Charlestown Boston | Townhouse & Condo Move-In Clean",
+    title: "Move In Cleaning Charlestown Boston",
     description:
-      "Move-in cleaning in Charlestown for Navy Yard condos and hillside townhouses. Cabinets, closets, oven, and fridge cleaned inside before the movers arrive. Elevator and key coordination.",
+      "Move-in cleaning in Charlestown for Navy Yard condos and hillside townhouses. Cabinets, closets, oven, and fridge cleaned inside before the movers arrive.",
     h1: "Move In Cleaning in Charlestown, MA",
     subtitle:
       "A Navy Yard condo with a freight elevator schedule or a Monument Square townhouse with four floors of closets. Either way, the empty home is cleaned inside and out before you unpack.",
@@ -192,9 +192,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, home size, and key details. A flat price and a held slot arrive within the hour.",
   },
   "jamaica-plain": {
-    title: "Move In Cleaning Jamaica Plain Boston | Triple-Decker & House Move-Ins",
+    title: "Move In Cleaning Jamaica Plain Boston",
     description:
-      "Move-in cleaning in Jamaica Plain for triple-decker floors, Victorians, and condos. Every cabinet, closet, and appliance cleaned inside before you unpack, with plant-based products on request.",
+      "Move-in cleaning in Jamaica Plain for triple-decker floors, Victorians, and condos. Cabinets and appliances cleaned inside, plant-based products on request.",
     h1: "Move In Cleaning in Jamaica Plain, MA",
     subtitle:
       "A triple-decker floor off Centre Street or a Victorian near the Pond, empty for one day. We use it to clean every cabinet, closet, oven, and fridge with the products you choose.",
@@ -230,9 +230,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, unit size, and product preferences. A flat price and a held slot arrive within the hour.",
   },
   newton: {
-    title: "Move In Cleaning Newton MA | Whole-House Clean After Closing",
+    title: "Move In Cleaning Newton MA",
     description:
-      "Move-in cleaning in Newton, MA for buyers closing on colonials, capes, and new builds. Every cabinet, closet, appliance, and floor on every level cleaned before the movers. Flat quotes.",
+      "Move-in cleaning in Newton, MA for buyers closing on colonials, capes, and new builds. Every cabinet, closet, and appliance cleaned before the movers arrive.",
     h1: "Move In Cleaning in Newton, MA",
     subtitle:
       "Close on Friday, clean on Saturday, move in Sunday. A Newton move-in clean covers every level of a large house, from the third-floor closets to the basement, while it is empty.",
@@ -268,9 +268,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your closing date, bedrooms, bathrooms, and finished levels. A flat price and a held slot arrive within the hour.",
   },
   somerville: {
-    title: "Move In Cleaning Somerville MA | September 1 Move-In Cleans",
+    title: "Move In Cleaning Somerville MA",
     description:
-      "Move-in cleaning in Somerville, MA for triple-decker floors, shared apartments, and condos. Cabinet, closet, and appliance interiors cleaned before the boxes arrive. Sept 1 capacity held.",
+      "Move-in cleaning in Somerville, MA for triple-decker floors, shared apartments, and condos. Interiors cleaned before the boxes arrive. Sept 1 capacity held.",
     h1: "Move In Cleaning in Somerville, MA",
     subtitle:
       "September 1 in Somerville is a citywide move. We hold capacity for it and clean the empty triple-decker floor between the last tenant's exit and your movers' arrival.",
@@ -306,9 +306,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, unit size, and key details. A flat price and a held slot come back within the hour.",
   },
   "south-boston": {
-    title: "Move In Cleaning South Boston | Seaport Condos & Southie Units",
+    title: "Move In Cleaning South Boston",
     description:
-      "Move-in cleaning in South Boston for Seaport condos, Fort Point lofts, and Southie three-deckers. Every cabinet, closet, and appliance cleaned inside before you unpack. Elevator coordination.",
+      "Move-in cleaning in South Boston for Seaport condos, Fort Point lofts, and Southie three-deckers. Interiors cleaned before you unpack, elevator coordination.",
     h1: "Move In Cleaning in South Boston, MA",
     subtitle:
       "A Seaport tower with a move-in elevator window or a three-decker floor off East Broadway. The empty unit gets every interior surface cleaned before your first box arrives.",
@@ -344,9 +344,9 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send your move date, building or street, and unit size. A flat price and a held slot arrive within the hour.",
   },
   "south-end": {
-    title: "Move In Cleaning South End Boston | Rowhouse & Loft Move-In Cleans",
+    title: "Move In Cleaning South End Boston",
     description:
-      "Move-in cleaning in Boston's South End for rowhouse units, SoWa lofts, and Ink Block condos. Cabinets, closets, oven, fridge, and floors cleaned before the movers. Seven-day scheduling.",
+      "Move-in cleaning in Boston's South End for rowhouse units, SoWa lofts, and Ink Block condos. Interiors cleaned before the movers. Seven-day scheduling.",
     h1: "Move In Cleaning in the South End, MA",
     subtitle:
       "A garden-level unit on Rutland Square or a loft in SoWa, empty for one day. We clean every cabinet, closet, and appliance inside and out before your boxes cross the threshold.",

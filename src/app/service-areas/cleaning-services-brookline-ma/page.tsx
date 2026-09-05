@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("brookline")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Brookline MA | House & Condo Cleaning",
+  title: "Cleaning Services Brookline MA",
   description:
-    "House and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured employee teams, flat pricing, weekly to monthly plans. Free quote.",
+    "House and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured local teams, flat pricing, weekly to monthly plans.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

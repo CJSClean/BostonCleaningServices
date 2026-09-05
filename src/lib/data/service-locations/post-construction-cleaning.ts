@@ -2,9 +2,9 @@ import type { ServiceLocationCopy } from "./index";
 
 export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> = {
   "back-bay": {
-    title: "Post Construction Cleaning Back Bay Boston | Renovation Dust Removal",
+    title: "Post Construction Cleaning Back Bay Boston",
     description:
-      "Post-construction cleaning in Back Bay after brownstone renovations and condo remodels. Plaster dust, grout haze, and adhesive removed with HEPA equipment. Building coordination, project quotes.",
+      "Post-construction cleaning in Back Bay after brownstone renovations and condo remodels. Plaster dust, grout haze, and adhesive removed with HEPA equipment.",
     h1: "Post Construction Cleaning in Back Bay, MA",
     subtitle:
       "Opening a Back Bay wall releases a century of plaster dust into a unit full of parquet and marble. Our post-construction clean captures it with HEPA equipment and protects the finishes that survived the work.",
@@ -40,9 +40,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote with the recommended number of passes comes back within the day.",
   },
   "beacon-hill": {
-    title: "Post Construction Cleaning Beacon Hill Boston | Historic Renovation Cleanup",
+    title: "Post Construction Cleaning Beacon Hill",
     description:
-      "Post-construction cleaning on Beacon Hill after kitchen, bath, and whole-unit renovations in historic townhouses. Plaster dust captured with HEPA equipment, antique finishes protected.",
+      "Post-construction cleaning on Beacon Hill after kitchen, bath, and whole-unit renovations in historic townhouses.",
     h1: "Post Construction Cleaning in Beacon Hill, MA",
     subtitle:
       "Renovating inside a Federal-era townhouse produces plaster dust in rooms full of irreplaceable surfaces. Our final clean captures the dust and leaves the two-hundred-year-old pine untouched.",
@@ -78,9 +78,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote arrives within the day.",
   },
   brookline: {
-    title: "Post Construction Cleaning Brookline MA | Kitchen & Whole-Home Renovation Cleanup",
+    title: "Post Construction Cleaning Brookline MA",
     description:
-      "Post-construction cleaning in Brookline, MA after kitchen remodels, additions, and whole-home renovations. HEPA dust removal, grout haze, adhesive, and a touch-up pass. Project quotes.",
+      "Post-construction cleaning in Brookline, MA after kitchen remodels, additions, and whole-home renovations. HEPA dust removal with a touch-up pass included.",
     h1: "Post Construction Cleaning in Brookline, MA",
     subtitle:
       "Kitchen gut renovations, additions on Fisher Hill, and whole-house refreshes before a family moves back in. Brookline projects are big and our final clean is sized to match.",
@@ -116,9 +116,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote with the recommended passes comes back within the day.",
   },
   cambridge: {
-    title: "Post Construction Cleaning Cambridge MA | Renovation & Condo Fit-Out Cleanup",
+    title: "Post Construction Cleaning Cambridge MA",
     description:
-      "Post-construction cleaning in Cambridge, MA after Victorian renovations, triple-decker condo conversions, and Kendall fit-outs. HEPA dust removal, eco products available, project quotes.",
+      "Post-construction cleaning in Cambridge, MA after Victorian renovations, triple-decker condo conversions, and Kendall fit-outs.",
     h1: "Post Construction Cleaning in Cambridge, MA",
     subtitle:
       "A Victorian kitchen gut in Agassiz, a triple-decker converted to condos in Cambridgeport, a new fit-out in Kendall. Cambridge projects vary widely and our final clean is planned for each.",
@@ -154,9 +154,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote arrives within the day.",
   },
   charlestown: {
-    title: "Post Construction Cleaning Charlestown Boston | Townhouse & Condo Renovation Cleanup",
+    title: "Post Construction Cleaning Charlestown",
     description:
-      "Post-construction cleaning in Charlestown after townhouse renovations on the hill and condo remodels in the Navy Yard. HEPA dust removal, film and adhesive cleanup, building coordination.",
+      "Post-construction cleaning in Charlestown after townhouse renovations on the hill and condo remodels in the Navy Yard.",
     h1: "Post Construction Cleaning in Charlestown, MA",
     subtitle:
       "Gut renovations of hillside townhouses and kitchen remodels in Navy Yard condos both leave fine dust on every surface. Our final clean captures it and protects brick, pine, glass, and stone.",
@@ -192,9 +192,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote with the recommended passes comes back within the day.",
   },
   "jamaica-plain": {
-    title: "Post Construction Cleaning Jamaica Plain Boston | Renovation & Conversion Cleanup",
+    title: "Post Construction Cleaning Jamaica Plain",
     description:
-      "Post-construction cleaning in Jamaica Plain after Victorian renovations, triple-decker condo conversions, and kitchen remodels. HEPA dust removal with plant-based products on request.",
+      "Post-construction cleaning in Jamaica Plain after Victorian renovations, triple-decker condo conversions, and kitchen remodels.",
     h1: "Post Construction Cleaning in Jamaica Plain, MA",
     subtitle:
       "Triple-decker condo conversions, Victorian kitchen guts near the Pond, and additions on Moss Hill. JP renovates constantly, and our final clean gets the dust out of the woodwork's grooves.",
@@ -230,9 +230,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote arrives within the day.",
   },
   newton: {
-    title: "Post Construction Cleaning Newton MA | New Builds & Whole-Home Renovation Cleanup",
+    title: "Post Construction Cleaning Newton MA",
     description:
-      "Post-construction cleaning in Newton, MA for new construction handovers, teardown rebuilds, additions, and kitchen remodels. HEPA dust removal across every level, contractor-ready paperwork.",
+      "Post-construction cleaning in Newton, MA for new construction handovers, teardown rebuilds, additions, and kitchen remodels.",
     h1: "Post Construction Cleaning in Newton, MA",
     subtitle:
       "Teardown rebuilds, second-story additions, and full kitchen guts across the villages. Newton projects are large, and our final clean covers every level before the family moves back in.",
@@ -268,9 +268,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote with the recommended passes comes back within the day.",
   },
   somerville: {
-    title: "Post Construction Cleaning Somerville MA | Conversion & Renovation Cleanup",
+    title: "Post Construction Cleaning Somerville MA",
     description:
-      "Post-construction cleaning in Somerville, MA after triple-decker condo conversions, kitchen remodels, and new builds near the Green Line. HEPA dust removal, tenant-ready final cleans.",
+      "Post-construction cleaning in Somerville, MA after triple-decker condo conversions, kitchen remodels, and new builds near the Green Line.",
     h1: "Post Construction Cleaning in Somerville, MA",
     subtitle:
       "Somerville is converting triple-deckers to condos and building new near every Green Line stop. Our final clean gets a renovated unit tenant-ready or buyer-ready, dust and all.",
@@ -306,9 +306,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote arrives within the day.",
   },
   "south-boston": {
-    title: "Post Construction Cleaning South Boston | Seaport Fit-Outs & Southie Renovations",
+    title: "Post Construction Cleaning South Boston",
     description:
-      "Post-construction cleaning in South Boston for Seaport condo fit-outs, Fort Point loft renovations, and Southie three-decker rebuilds. HEPA dust removal, film and adhesive cleanup.",
+      "Post-construction cleaning in South Boston for Seaport condo fit-outs, Fort Point loft renovations, and Southie three-decker rebuilds.",
     h1: "Post Construction Cleaning in South Boston, MA",
     subtitle:
       "New Seaport condos arrive covered in protective film and silica dust. Southie three-deckers get gutted to the studs. Our final clean handles both and works within each building's rules.",
@@ -344,9 +344,9 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     ctaDescription: "Send photos, square footage, and the scope of work. A project quote with the recommended passes comes back within the day.",
   },
   "south-end": {
-    title: "Post Construction Cleaning South End Boston | Rowhouse Renovation Cleanup",
+    title: "Post Construction Cleaning South End Boston",
     description:
-      "Post-construction cleaning in Boston's South End after rowhouse renovations, garden-level conversions, and SoWa loft build-outs. Plaster dust captured with HEPA equipment, marble protected.",
+      "Post-construction cleaning in Boston's South End after rowhouse renovations, garden-level conversions, and SoWa loft build-outs.",
     h1: "Post Construction Cleaning in the South End, MA",
     subtitle:
       "Renovating a Victorian bowfront releases plaster dust into rooms full of marble and ornament. Our final clean captures it with HEPA equipment and leaves the mantels and medallions intact.",

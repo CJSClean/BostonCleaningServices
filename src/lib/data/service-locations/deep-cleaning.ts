@@ -2,9 +2,9 @@ import type { ServiceLocationCopy } from "./index";
 
 export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
   "back-bay": {
-    title: "Deep Cleaning Back Bay Boston | Brownstone & Condo Deep Cleans",
+    title: "Deep Cleaning Back Bay Boston",
     description:
-      "Deep cleaning in Back Bay for brownstone units and full-service condos. Plaster mouldings, tall windows, hex tile, and parquet detailed by insured teams. Flat quotes from $200.",
+      "Deep cleaning in Back Bay for brownstone units and full-service condos. Plaster mouldings, tall windows, hex tile, and parquet detailed by insured teams.",
     h1: "Deep Cleaning in Back Bay, MA",
     subtitle:
       "Plaster ridges, tall Mall-facing windows, marble hearths, and parquet edges. A Back Bay deep clean is about the details that make these homes special and hard to maintain.",
@@ -40,9 +40,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the street, unit size, and how long since the last professional clean. A flat quote arrives within the hour.",
   },
   "beacon-hill": {
-    title: "Deep Cleaning Beacon Hill Boston | Historic Apartment Deep Cleans",
+    title: "Deep Cleaning Beacon Hill Boston",
     description:
-      "Deep cleaning on Beacon Hill for compact historic units and multi-level townhouses. Behind claw-foot tubs, atop built-ins, into hex-tile grout, gently on antique pine. Flat quotes from $200.",
+      "Deep cleaning on Beacon Hill for compact historic units and multi-level townhouses. Claw-foot tubs, hex-tile grout, and antique pine handled with care.",
     h1: "Deep Cleaning in Beacon Hill, MA",
     subtitle:
       "Compact layouts hide a lot: the top of a built-in, the space behind a claw-foot tub, the grout in a hex-tile floor. A Beacon Hill deep clean reaches all of it without harming anything two centuries old.",
@@ -78,9 +78,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the unit size, how long since the last deep clean, and how we get in. A flat quote arrives within the hour.",
   },
   brookline: {
-    title: "Deep Cleaning Brookline MA | Family Home Deep Cleans",
+    title: "Deep Cleaning Brookline MA",
     description:
-      "Deep cleaning in Brookline, MA for family homes and apartments. Baseboards, vents, grout, range hoods, and under furniture handled by insured teams. Seasonal and pre-hosting cleans.",
+      "Deep cleaning in Brookline, MA for family homes and apartments. Baseboards, vents, grout, range hoods, and under furniture handled by insured teams.",
     h1: "Deep Cleaning in Brookline, MA",
     subtitle:
       "Spring resets after a Norfolk County winter, late-summer cleans before school starts, and pre-holiday hosting. Brookline homes book deep cleans on a calendar, and we hold slots for it.",
@@ -116,9 +116,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send bedrooms, bathrooms, and how long since the last deep clean. A flat quote and open dates arrive within the hour.",
   },
   cambridge: {
-    title: "Deep Cleaning Cambridge MA | Victorians, Triple-Deckers & Condos",
+    title: "Deep Cleaning Cambridge MA",
     description:
-      "Deep cleaning in Cambridge, MA for Victorians, triple-decker floors, and Kendall condos. Radiators, baseboards, grout, and windows detailed with eco products on request. Flat quotes.",
+      "Deep cleaning in Cambridge, MA for Victorians, triple-decker floors, and Kendall condos. Radiators, grout, and windows detailed. Eco products available.",
     h1: "Deep Cleaning in Cambridge, MA",
     subtitle:
       "Radiator fins, built-in bookshelves, original tile, and a semester's worth of dust. A Cambridge deep clean resets the home before a term, after a sabbatical, or ahead of a defense celebration.",
@@ -154,9 +154,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the neighborhood, home size, and how long since the last deep clean. A flat quote arrives within the hour.",
   },
   charlestown: {
-    title: "Deep Cleaning Charlestown Boston | Townhouse & Navy Yard Deep Cleans",
+    title: "Deep Cleaning Charlestown Boston",
     description:
-      "Deep cleaning in Charlestown for hillside townhouses and Navy Yard condos. Exposed brick, high mouldings, harbor-facing glass, and grout detailed by insured teams. Flat quotes from $200.",
+      "Deep cleaning in Charlestown for hillside townhouses and Navy Yard condos. Exposed brick, high mouldings, harbor glass, and grout detailed by insured teams.",
     h1: "Deep Cleaning in Charlestown, MA",
     subtitle:
       "Exposed brick that sheds dust, ceiling medallions three floors up, harbor windows that show every streak. A Charlestown deep clean handles the hill and the water with equal care.",
@@ -192,9 +192,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the street or building, home size, and how long since the last deep clean. A flat quote arrives within the hour.",
   },
   "jamaica-plain": {
-    title: "Deep Cleaning Jamaica Plain Boston | Victorian & Triple-Decker Deep Cleans",
+    title: "Deep Cleaning Jamaica Plain Boston",
     description:
-      "Deep cleaning in Jamaica Plain for Victorians, triple-decker floors, and condos. Picture rails, wainscoting, rear kitchens, and back halls detailed with plant-based products on request.",
+      "Deep cleaning in Jamaica Plain for Victorians, triple-decker floors, and condos. Wainscoting and rear kitchens detailed, plant-based products on request.",
     h1: "Deep Cleaning in Jamaica Plain, MA",
     subtitle:
       "Ornate trim around the Pond, rear kitchens in triple-deckers, and a year of pollen from the Arboretum. A JP deep clean gets into the grooves with the products you choose.",
@@ -230,9 +230,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the home size, product preferences, and preferred day. A flat quote and open dates arrive within the hour.",
   },
   newton: {
-    title: "Deep Cleaning Newton MA | Whole-House Deep Cleans for Larger Homes",
+    title: "Deep Cleaning Newton MA",
     description:
-      "Deep cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Baseboards, vents, grout, range hoods, and under furniture on every floor. Flat quotes.",
+      "Deep cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Baseboards, vents, and grout on every floor. Flat quotes.",
     h1: "Deep Cleaning in Newton, MA",
     subtitle:
       "Every floor, including the basement playroom and the third-floor guest room. Newton deep cleans are scheduled for a full day so a large house is actually finished, not sampled.",
@@ -268,9 +268,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the village, bedrooms, bathrooms, and finished spaces. A flat quote and open dates arrive within the hour.",
   },
   somerville: {
-    title: "Deep Cleaning Somerville MA | Triple-Decker & Condo Deep Cleans",
+    title: "Deep Cleaning Somerville MA",
     description:
-      "Deep cleaning in Somerville, MA for triple-decker floors, shared apartments, and Assembly Row condos. Rear kitchens degreased, cast-iron tubs scrubbed, radiators dusted by hand. Flat quotes.",
+      "Deep cleaning in Somerville, MA for triple-decker floors, shared apartments, and Assembly Row condos. Rear kitchens degreased, tubs scrubbed, flat quotes.",
     h1: "Deep Cleaning in Somerville, MA",
     subtitle:
       "Grease at the back of a triple-decker kitchen, a ring in a cast-iron tub, a winter of dust on radiator fins. A Somerville deep clean resets a shared apartment or a renovated two-family in one visit.",
@@ -306,9 +306,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the square, unit size, and how long since the last deep clean. A flat quote arrives within the hour.",
   },
   "south-boston": {
-    title: "Deep Cleaning South Boston | Seaport Condos & Southie Deep Cleans",
+    title: "Deep Cleaning South Boston",
     description:
-      "Deep cleaning in South Boston for Seaport condos, Fort Point lofts, and Southie three-deckers. Harbor glass, stone counters, exposed brick, and cast-iron tubs detailed. Flat quotes.",
+      "Deep cleaning in South Boston for Seaport condos, Fort Point lofts, and Southie three-deckers. Harbor glass, brick, and cast-iron tubs detailed. Flat quotes.",
     h1: "Deep Cleaning in South Boston, MA",
     subtitle:
       "Salt film on harbor-facing glass, dust drifting from loft ceilings, grease in a three-decker kitchen. A South Boston deep clean handles the newest and oldest homes in the city.",
@@ -344,9 +344,9 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the building or street, unit size, and how long since the last deep clean. A flat quote arrives within the hour.",
   },
   "south-end": {
-    title: "Deep Cleaning South End Boston | Rowhouse & Loft Deep Cleans",
+    title: "Deep Cleaning South End Boston",
     description:
-      "Deep cleaning in Boston's South End for Victorian rowhouse units, SoWa lofts, and Ink Block condos. Marble, plaster, pocket doors, and tall windows detailed. Eco products available.",
+      "Deep cleaning in Boston's South End for Victorian rowhouse units, SoWa lofts, and Ink Block condos. Marble, plaster, pocket doors, and tall windows detailed.",
     h1: "Deep Cleaning in the South End, MA",
     subtitle:
       "Plaster medallions, marble mantels, pocket door tracks, and tall windows on the garden squares. A South End deep clean is a restoration-grade reset, with plant-based products on request.",

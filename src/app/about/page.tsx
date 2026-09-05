@@ -12,9 +12,9 @@ import { SITE_URL } from "@/lib/constants";
 import { generateAboutPageSchema, generateBreadcrumbSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "About Boston Cleaning Services | Local, Insured Cleaning Team",
+  title: "About Boston Cleaning Services",
   description:
-    "Meet Boston Cleaning Services: a locally run residential cleaning company with employee cleaners, flat pricing, and a 24-hour guarantee serving Boston and the inner suburbs.",
+    "Meet Boston Cleaning Services: a locally run residential cleaning company with employee cleaners, flat pricing, and a 24-hour guarantee serving Boston and...",
   alternates: { canonical: `${SITE_URL}/about` },
 };
 

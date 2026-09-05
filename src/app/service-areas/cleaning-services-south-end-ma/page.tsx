@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("south-end")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services South End Boston | Brownstone & Condo Cleaning",
+  title: "Cleaning Services South End Boston",
   description:
-    "Brownstone, condo, and loft cleaning in Boston's South End. Teams trained on Victorian woodwork, garden-level units, and SoWa lofts. Flat pricing, same-week slots, eco products available.",
+    "Brownstone, condo, and loft cleaning in Boston's South End. Teams trained on Victorian woodwork, garden-level units, and SoWa lofts.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

@@ -7,9 +7,9 @@ const PATH = "/service-areas/norfolk-county-ma";
 const towns = getLocationsByCounty("Norfolk County");
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Norfolk County MA | Brookline, Newton & Nearby",
+  title: "Cleaning Services Norfolk County MA",
   description:
-    "House cleaning in inner Norfolk County, MA: Brookline, Newton, Needham, Wellesley, Dedham, and Milton. Insured two-person teams sized for family homes, flat quotes, weekly to monthly plans.",
+    "House cleaning in inner Norfolk County, MA: Brookline, Newton, Needham, Wellesley, Dedham, and Milton. Insured teams sized for family homes, flat quotes.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

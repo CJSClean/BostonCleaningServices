@@ -2,9 +2,9 @@ import type { ServiceLocationCopy } from "./index";
 
 export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
   "back-bay": {
-    title: "House Cleaning Back Bay Boston | Brownstone Home Cleaning",
+    title: "House Cleaning Back Bay Boston",
     description:
-      "Recurring house cleaning for Back Bay brownstones and full-floor condos. Parquet, marble, and plaster handled correctly by insured local teams. Flat quotes, same-week slots.",
+      "Recurring house cleaning for Back Bay brownstones and full-floor condos. Parquet, marble, and plaster handled correctly by insured local teams.",
     h1: "House Cleaning in Back Bay, MA",
     subtitle:
       "Full-floor and multi-level homes on the Commonwealth Avenue grid need cleaners who respect parquet, marble, and plaster. Ours have been doing exactly that for years.",
@@ -40,9 +40,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the street, layout, and how we get in. A flat quote and open times arrive within the hour.",
   },
   "beacon-hill": {
-    title: "House Cleaning Beacon Hill Boston | Historic Townhouse Cleaning",
+    title: "House Cleaning Beacon Hill Boston",
     description:
-      "House cleaning for Beacon Hill townhouses and multi-level homes. Two-hundred-year-old pine floors, steep stairs, and tight rooms handled by trained teams. Flat pricing.",
+      "House cleaning for Beacon Hill townhouses and multi-level homes. Two-hundred-year-old pine floors, steep stairs, and tight rooms handled by trained teams.",
     h1: "House Cleaning in Beacon Hill, MA",
     subtitle:
       "Federal townhouses on Mount Vernon and Chestnut Streets span four or five narrow floors. We clean them top to bottom with a light hand and a plan for every staircase.",
@@ -78,9 +78,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the number of floors, bathrooms, and how we get in. A flat quote and open dates come back within the hour.",
   },
   brookline: {
-    title: "House Cleaning Brookline MA | Family Home Cleaning Plans",
+    title: "House Cleaning Brookline MA",
     description:
-      "Weekly and biweekly house cleaning for Brookline homes from Coolidge Corner to Fisher Hill. Pet-friendly insured teams, school-hour scheduling, flat quotes with no hourly meter.",
+      "Weekly and biweekly house cleaning for Brookline homes from Coolidge Corner to Fisher Hill. Pet-friendly insured teams, school-hour scheduling, flat quotes.",
     h1: "House Cleaning in Brookline, MA",
     subtitle:
       "Victorians in Brookline Village, colonials on Fisher Hill, and two-families near Washington Square. Family homes on a family schedule, cleaned by a team that keeps its arrival window.",
@@ -116,9 +116,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send bedrooms, bathrooms, pets, and your preferred window. A flat quote and open times arrive within the hour.",
   },
   cambridge: {
-    title: "House Cleaning Cambridge MA | Victorians, Two-Families & More",
+    title: "House Cleaning Cambridge MA",
     description:
-      "Recurring house cleaning in Cambridge, MA for Victorians near Harvard, two-families in Cambridgeport, and homes across all five zip codes. Flexible plans, eco products, flat pricing.",
+      "Recurring house cleaning in Cambridge, MA for Victorians near Harvard, two-families in Cambridgeport, and homes across all five zip codes.",
     h1: "House Cleaning in Cambridge, MA",
     subtitle:
       "Brattle Street Victorians, Agassiz two-families, and Huron Village colonials, cleaned by teams that dry-mop old hardwood and pause plans around semesters.",
@@ -154,9 +154,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the neighborhood, bedrooms, bathrooms, and your schedule. A flat quote and open times arrive within the hour.",
   },
   charlestown: {
-    title: "House Cleaning Charlestown Boston | Townhouse Cleaning Plans",
+    title: "House Cleaning Charlestown Boston",
     description:
-      "Recurring house cleaning for Charlestown townhouses around Monument Square and Bunker Hill. Exposed brick, pine floors, and steep stairs handled by insured local teams. Flat pricing.",
+      "Recurring house cleaning for Charlestown townhouses around Monument Square and Bunker Hill. Exposed brick, pine floors, and steep stairs handled. Flat pricing.",
     h1: "House Cleaning in Charlestown, MA",
     subtitle:
       "Brick and clapboard townhouses on the hill, cleaned top to bottom by a team that plans for permit parking, steep stairs, and two-hundred-year-old floors.",
@@ -192,9 +192,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the street, floors, bathrooms, and how we get in. A flat quote and open dates arrive within the hour.",
   },
   "jamaica-plain": {
-    title: "House Cleaning Jamaica Plain Boston | Victorian & Family Homes",
+    title: "House Cleaning Jamaica Plain Boston",
     description:
-      "House cleaning in Jamaica Plain for Victorians around the Pond, Sumner Hill homes, and owner-occupied triple-deckers. Plant-based products, Saturday slots, flat pricing.",
+      "House cleaning in Jamaica Plain for Victorians around the Pond, Sumner Hill homes, and owner-occupied triple-deckers.",
     h1: "House Cleaning in Jamaica Plain, MA",
     subtitle:
       "Shingle-style homes on Pondside, Victorians on Sumner Hill, and owner-occupied triple-deckers off Centre Street, cleaned with the products you ask about and on the days you actually want.",
@@ -230,9 +230,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the home size, product preferences, and your preferred day. A flat quote and open times arrive within the hour.",
   },
   newton: {
-    title: "House Cleaning Newton MA | Colonials, Capes & Larger Homes",
+    title: "House Cleaning Newton MA",
     description:
-      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured two-person teams, school-hour scheduling, weekly to monthly plans, flat quotes.",
+      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured two-person teams, school-hour scheduling, flat quotes.",
     h1: "House Cleaning in Newton, MA",
     subtitle:
       "Center-entrance colonials in Waban, Tudors in Chestnut Hill, new builds in Newton Centre. Larger homes need longer appointments and a quote that includes every finished room. Ours do.",
@@ -268,9 +268,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the village, bedrooms, bathrooms, and finished spaces. A flat quote and open times arrive within the hour.",
   },
   somerville: {
-    title: "House Cleaning Somerville MA | Two-Families & Owner-Occupied Homes",
+    title: "House Cleaning Somerville MA",
     description:
-      "House cleaning in Somerville, MA for two-families, owner-occupied triple-deckers, and single-family homes in Spring Hill, Ten Hills, and Winter Hill. Flat pricing, same-week slots.",
+      "House cleaning in Somerville, MA for two-families, owner-occupied triple-deckers, and single-family homes in Spring Hill, Ten Hills, and Winter Hill.",
     h1: "House Cleaning in Somerville, MA",
     subtitle:
       "Owner-occupied two- and three-families in Spring Hill and Winter Hill, single-family homes in Ten Hills. Cleaned front to back by a team that knows the layouts and plans for permit parking.",
@@ -306,9 +306,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the hill, the floor plan, and how we get in. A flat quote and open times arrive within the hour.",
   },
   "south-boston": {
-    title: "House Cleaning South Boston | Southie Rowhouses & Family Homes",
+    title: "House Cleaning South Boston",
     description:
-      "House cleaning in South Boston for brick rowhouses, single-families near City Point, and owner-occupied three-deckers. Insured local teams, evening slots, flat pricing.",
+      "House cleaning in South Boston for brick rowhouses, single-families near City Point, and owner-occupied three-deckers.",
     h1: "House Cleaning in South Boston, MA",
     subtitle:
       "Rowhouses on East Broadway, single-families toward City Point and Marine Park, and owner-occupied three-deckers throughout Southie. Cleaned on your schedule, including evenings.",
@@ -344,9 +344,9 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the street, home size, and preferred time. A flat quote and open slots come back within the hour.",
   },
   "south-end": {
-    title: "House Cleaning South End Boston | Victorian Rowhouse Cleaning",
+    title: "House Cleaning South End Boston",
     description:
-      "House cleaning for South End rowhouses and multi-level homes around Union Park, Rutland Square, and Worcester Square. Marble, plaster, and hardwood done right. Seven-day scheduling.",
+      "House cleaning for South End rowhouses and multi-level homes around Union Park, Rutland Square, and Worcester Square. Marble, plaster, and hardwood done right.",
     h1: "House Cleaning in the South End, MA",
     subtitle:
       "Full bowfront rowhouses and multi-floor duplexes around the garden squares, cleaned top to bottom by a team trained on marble mantels, plaster medallions, and refinished hardwood.",

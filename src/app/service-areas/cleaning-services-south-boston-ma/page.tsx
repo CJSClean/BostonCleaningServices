@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("south-boston")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services South Boston | Seaport Condos & Southie Homes",
+  title: "Cleaning Services South Boston",
   description:
-    "Condo and home cleaning in South Boston, from Seaport high-rises and Fort Point lofts to Southie triple-deckers and City Point homes. Insured local teams, flat quotes, same-week booking.",
+    "Condo and home cleaning in South Boston, from Seaport high-rises and Fort Point lofts to Southie triple-deckers and City Point homes.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

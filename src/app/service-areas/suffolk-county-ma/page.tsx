@@ -7,9 +7,9 @@ const PATH = "/service-areas/suffolk-county-ma";
 const towns = getLocationsByCounty("Suffolk County");
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Suffolk County MA | Boston Neighborhoods Covered",
+  title: "Cleaning Services Suffolk County MA",
   description:
-    "Residential cleaning across Suffolk County, MA: Back Bay, Beacon Hill, South End, South Boston, Charlestown, Jamaica Plain, and the rest of Boston. Insured local teams, flat pricing.",
+    "Residential cleaning across Suffolk County, MA: Back Bay, Beacon Hill, South End, South Boston, Charlestown, Jamaica Plain, and the rest of Boston.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

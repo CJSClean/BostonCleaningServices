@@ -21,9 +21,9 @@ const PATH = "/services/move-in-cleaning-boston-ma";
 const KEY = "move-in-cleaning";
 
 export const metadata: Metadata = {
-  title: "Move In Cleaning Boston MA | Empty-Home Clean Before You Unpack",
+  title: "Move In Cleaning Boston MA",
   description:
-    "Move-in cleaning in Boston, MA: inside cabinets, closets, oven, fridge, and every floor sanitized before your boxes arrive. Flat quotes from $180 and September 1 availability.",
+    "Move-in cleaning in Boston, MA: inside cabinets, closets, oven, fridge, and every floor sanitized before your boxes arrive.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

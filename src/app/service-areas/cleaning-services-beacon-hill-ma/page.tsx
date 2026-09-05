@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("beacon-hill")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Beacon Hill Boston | Historic Home Cleaning",
+  title: "Cleaning Services Beacon Hill Boston",
   description:
-    "Apartment and townhouse cleaning on Beacon Hill, Boston. Narrow stairs, 200-year-old floors, and tiny bathrooms handled by trained teams. Flat quotes and same-week visits.",
+    "Apartment and townhouse cleaning on Beacon Hill, Boston. Narrow stairs, 200-year-old floors, and tiny bathrooms handled by trained teams.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

@@ -11,7 +11,7 @@ import { SITE_URL } from "@/lib/constants";
 import { generateBreadcrumbSchema, generateHowToSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Boston House Cleaning Checklist | Routine vs Deep vs Move Clean",
+  title: "Boston House Cleaning Checklist",
   description:
     "The exact room-by-room checklist Boston Cleaning Services follows. Compare what a routine clean, deep clean, and move-in/move-out clean include before you book.",
   alternates: { canonical: `${SITE_URL}/checklist` },

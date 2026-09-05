@@ -2,9 +2,9 @@ import type { ServiceLocationCopy } from "./index";
 
 export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
   "back-bay": {
-    title: "Apartment Cleaning Back Bay Boston | Walk-Ups & Doorman Buildings",
+    title: "Apartment Cleaning Back Bay Boston",
     description:
-      "Apartment cleaning in Back Bay for brownstone walk-ups and full-service buildings near Copley and the Prudential. Insured teams, concierge coordination, flat quotes from $110.",
+      "Apartment cleaning in Back Bay for brownstone walk-ups and full-service buildings near Copley and the Prudential.",
     h1: "Apartment Cleaning in Back Bay, MA",
     subtitle:
       "Fourth-floor walk-ups on Marlborough Street and concierge towers on Boylston need different logistics and the same careful clean. We deliver both.",
@@ -40,9 +40,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the building or street, unit size, and how we get in. A flat quote and open times arrive within the hour.",
   },
   "beacon-hill": {
-    title: "Apartment Cleaning Beacon Hill Boston | Compact Historic Units",
+    title: "Apartment Cleaning Beacon Hill Boston",
     description:
-      "Apartment cleaning on Beacon Hill for studios, garden-level units, and Charles Street walk-ups. Compact-space techniques, antique floors handled gently, flat quotes from $110.",
+      "Apartment cleaning on Beacon Hill for studios, garden-level units, and Charles Street walk-ups. Compact-space techniques and flat quotes from $110.",
     h1: "Apartment Cleaning in Beacon Hill, MA",
     subtitle:
       "Studios under 500 square feet, garden-level one-bedrooms, and third-floor walk-ups with sloped ceilings. Small spaces with big character, cleaned by teams who know how to move in them.",
@@ -78,9 +78,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the street, unit size, and how we get in. A flat quote and available times come back within the hour.",
   },
   brookline: {
-    title: "Apartment Cleaning Brookline MA | Coolidge Corner & Beacon Street",
+    title: "Apartment Cleaning Brookline MA",
     description:
-      "Apartment and condo cleaning in Brookline, MA for brick buildings on Beacon and Harvard Streets, condo conversions, and elevator buildings near the Green Line. Flat quotes from $110.",
+      "Apartment and condo cleaning in Brookline, MA for brick buildings on Beacon and Harvard Streets, condo conversions, and elevator buildings near the Green Line.",
     h1: "Apartment Cleaning in Brookline, MA",
     subtitle:
       "Brick apartment blocks along Beacon Street, condo conversions in Coolidge Corner, and elevator buildings by Washington Square. Cleaned on a standing schedule by a team that keeps its window.",
@@ -116,9 +116,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the building, unit size, and preferred window. A flat quote and open times arrive within the hour.",
   },
   cambridge: {
-    title: "Apartment Cleaning Cambridge MA | Triple-Deckers to Kendall Condos",
+    title: "Apartment Cleaning Cambridge MA",
     description:
-      "Apartment cleaning across Cambridge, MA: triple-decker floors in Cambridgeport, brick buildings near Central, and Kendall Square condos. Eco products, flexible plans, flat quotes.",
+      "Apartment cleaning across Cambridge, MA: triple-decker floors in Cambridgeport, brick buildings near Central, and Kendall Square condos.",
     h1: "Apartment Cleaning in Cambridge, MA",
     subtitle:
       "Triple-decker floors in Cambridgeport, pre-war brick near Central Square, and glass condos over Kendall. One team, the right approach for each, and plans that pause around semesters.",
@@ -154,9 +154,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the square, unit size, and roommate count. A flat quote and open times arrive within the hour.",
   },
   charlestown: {
-    title: "Apartment Cleaning Charlestown Boston | Navy Yard & Hill Units",
+    title: "Apartment Cleaning Charlestown Boston",
     description:
-      "Apartment cleaning in Charlestown for Navy Yard waterfront condos and units in hillside townhouses and triple-deckers. Concierge coordination, streak-free glass, flat quotes from $110.",
+      "Apartment cleaning in Charlestown for Navy Yard waterfront condos and units in hillside townhouses and triple-deckers.",
     h1: "Apartment Cleaning in Charlestown, MA",
     subtitle:
       "Harbor-view condos in the Navy Yard and apartments in brick townhouses on the hill. Two very different buildings, one careful clean, and a team that plans for both.",
@@ -192,9 +192,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the building or street, unit size, and how we get in. A flat quote and open times arrive within the hour.",
   },
   "jamaica-plain": {
-    title: "Apartment Cleaning Jamaica Plain Boston | Triple-Decker Units",
+    title: "Apartment Cleaning Jamaica Plain Boston",
     description:
-      "Apartment cleaning in Jamaica Plain for triple-decker floors off Centre Street, condos near Forest Hills, and units around Hyde Square. Plant-based products, Saturday slots, flat quotes.",
+      "Apartment cleaning in Jamaica Plain for triple-decker floors off Centre Street, condos near Forest Hills, and units around Hyde Square.",
     h1: "Apartment Cleaning in Jamaica Plain, MA",
     subtitle:
       "Triple-decker floors with rear kitchens and back porches, condos along the Southwest Corridor, and shared apartments near Hyde Square. Cleaned with the products you ask about, on the days you want.",
@@ -230,9 +230,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the unit size, product preferences, and preferred day. A flat quote and open times arrive within the hour.",
   },
   newton: {
-    title: "Apartment Cleaning Newton MA | Condos & Rentals in the Villages",
+    title: "Apartment Cleaning Newton MA",
     description:
-      "Apartment and condo cleaning in Newton, MA for units in Newton Centre, Newtonville, and Chestnut Hill, including elevator buildings and converted two-families. Flat quotes from $110.",
+      "Apartment and condo cleaning in Newton, MA for units in Newton Centre, Newtonville, and Chestnut Hill, including elevator buildings and converted two-families.",
     h1: "Apartment Cleaning in Newton, MA",
     subtitle:
       "Condos near Newton Centre, rentals in Newtonville two-families, and elevator buildings in Chestnut Hill. Smaller Newton homes get the same team, checklist, and flat pricing as the big ones.",
@@ -268,9 +268,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Tell us the village, building, and unit size. A flat quote and open times arrive within the hour.",
   },
   somerville: {
-    title: "Apartment Cleaning Somerville MA | Triple-Deckers to Assembly Row",
+    title: "Apartment Cleaning Somerville MA",
     description:
-      "Apartment cleaning in Somerville, MA for triple-decker floors near Davis and Union, shared student apartments, and Assembly Row condos. Roommate-friendly billing, flat quotes from $110.",
+      "Apartment cleaning in Somerville, MA for triple-decker floors near Davis and Union, shared student apartments, and Assembly Row condos.",
     h1: "Apartment Cleaning in Somerville, MA",
     subtitle:
       "The triple-decker capital of New England. Shared floors near Davis and Union Squares, condos at Assembly Row, and new buildings along the Green Line Extension, cleaned by a team that knows the layouts.",
@@ -306,9 +306,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the square, unit size, and roommate count. A flat quote and open times come back within the hour.",
   },
   "south-boston": {
-    title: "Apartment Cleaning South Boston | Seaport Condos & Southie Units",
+    title: "Apartment Cleaning South Boston",
     description:
-      "Apartment cleaning in South Boston for Seaport high-rises, Fort Point lofts, and three-decker units throughout Southie. Concierge coordination, streak-free glass, evening slots.",
+      "Apartment cleaning in South Boston for Seaport high-rises, Fort Point lofts, and three-decker units throughout Southie.",
     h1: "Apartment Cleaning in South Boston, MA",
     subtitle:
       "Floor-to-ceiling glass in the Seaport, brick-and-timber lofts in Fort Point, and three-decker floors from Andrew Square to City Point. Cleaned on your schedule, including evenings.",
@@ -344,9 +344,9 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     ctaDescription: "Send the building or street, unit size, and preferred time. A flat quote and open slots come back within the hour.",
   },
   "south-end": {
-    title: "Apartment Cleaning South End Boston | Garden Levels to SoWa Lofts",
+    title: "Apartment Cleaning South End Boston",
     description:
-      "Apartment cleaning in Boston's South End for garden-level and floor-through units in Victorian rowhouses, SoWa lofts, and Ink Block condos. Eco products, seven-day scheduling, flat quotes.",
+      "Apartment cleaning in Boston's South End for garden-level and floor-through units in Victorian rowhouses, SoWa lofts, and Ink Block condos.",
     h1: "Apartment Cleaning in the South End, MA",
     subtitle:
       "Garden-level one-bedrooms with their own entrances, floor-throughs with marble mantels, SoWa lofts, and Ink Block condos. One neighborhood, every kind of apartment, one careful team.",

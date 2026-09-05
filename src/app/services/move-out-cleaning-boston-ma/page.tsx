@@ -21,9 +21,9 @@ const PATH = "/services/move-out-cleaning-boston-ma";
 const KEY = "move-out-cleaning";
 
 export const metadata: Metadata = {
-  title: "Move Out Cleaning Boston MA | Deposit-Back Lease-End Clean",
+  title: "Move Out Cleaning Boston MA",
   description:
-    "Move-out cleaning in Boston, MA aimed at the landlord walkthrough: inside oven, fridge, cabinets, closets, tile, and floors. Flat quotes from $180 with end-of-lease and Sept 1 availability.",
+    "Move-out cleaning in Boston, MA aimed at the landlord walkthrough: inside oven, fridge, cabinets, closets, tile, and floors.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

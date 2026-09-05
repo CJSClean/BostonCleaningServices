@@ -21,9 +21,9 @@ const PATH = "/services/deep-cleaning-boston-ma";
 const KEY = "deep-cleaning";
 
 export const metadata: Metadata = {
-  title: "Deep Cleaning Boston MA | Top-to-Bottom Home Reset",
+  title: "Deep Cleaning Boston MA",
   description:
-    "Deep cleaning services in Boston, MA that reach baseboards, vents, grout, cabinet fronts, and behind appliances. Flat quotes from $200, insured teams, 24-hour guarantee. Book online.",
+    "Deep cleaning services in Boston, MA that reach baseboards, vents, grout, cabinet fronts, and behind appliances.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 

@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("newton")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Newton MA | House Cleaning for Larger Homes",
+  title: "Cleaning Services Newton MA",
   description:
-    "House cleaning in Newton, MA across all thirteen villages. Colonials, capes, and new builds cleaned by insured two-person teams with flat pricing and weekly to monthly plans. Free quote.",
+    "House cleaning in Newton, MA across all thirteen villages. Colonials, capes, and new builds cleaned by insured two-person teams with flat pricing.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 

@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("back-bay")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Back Bay Boston | Brownstone & Condo Cleaning",
+  title: "Cleaning Services Back Bay Boston",
   description:
-    "House and condo cleaning in Back Bay, Boston. Teams experienced with brownstone walk-ups, doorman buildings on Boylston, and historic finishes. Flat quotes, same-week slots.",
+    "House and condo cleaning in Back Bay, Boston. Teams experienced with brownstone walk-ups, doorman buildings on Boylston, and historic finishes.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 
