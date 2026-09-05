@@ -41,13 +41,8 @@ export default function ServicesGrid({
                 {locationName ? ` in ${locationName}` : ""}
               </h3>
               <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">{s.shortDescription}</p>
-              <span className="mt-5 flex items-center justify-between text-sm">
-                <span className="text-muted">
-                  From <span className="font-semibold text-ink">{s.startingAt}</span>
-                </span>
-                <span className="flex items-center gap-1 font-semibold text-brick">
-                  Details <ArrowIcon className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </span>
+              <span className="mt-5 flex items-center gap-1 text-sm font-semibold text-brick">
+                See details <ArrowIcon className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
               </span>
             </Link>
           );

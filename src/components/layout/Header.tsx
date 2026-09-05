@@ -87,10 +87,7 @@ export default function Header() {
                     <span className="mt-0.5 text-brick">
                       <ServiceGlyph icon={s.icon} className="h-6 w-6" />
                     </span>
-                    <span>
-                      <span className="block text-sm font-semibold text-navy">{s.name}</span>
-                      <span className="block text-xs text-muted">From {s.startingAt}</span>
-                    </span>
+                    <span className="block self-center text-sm font-semibold text-navy">{s.name}</span>
                   </Link>
                 ))}
               </div>
@@ -164,9 +161,8 @@ export default function Header() {
             <ul className="mb-6 divide-y divide-line rounded-xl border border-line">
               {services.map((s) => (
                 <li key={s.key}>
-                  <Link href={s.href} onClick={() => setMobileOpen(false)} className="flex items-center justify-between px-4 py-3 text-sm font-medium text-ink">
+                  <Link href={s.href} onClick={() => setMobileOpen(false)} className="block px-4 py-3 text-sm font-medium text-ink">
                     {s.name}
-                    <span className="text-xs text-muted">From {s.startingAt}</span>
                   </Link>
                 </li>
               ))}
