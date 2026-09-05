@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import PageShell from "@/components/layout/PageShell";
 import Hero from "@/components/sections/Hero";
+import MapEmbed from "@/components/sections/MapEmbed";
 import TrustStrip from "@/components/sections/TrustStrip";
 import { Section, SectionHeading } from "@/components/sections/Section";
 import ServiceAreas from "@/components/sections/ServiceAreas";
@@ -22,7 +23,7 @@ const stats = [
   { value: "4,000+", label: "cleanings completed" },
   { value: "5.0", label: "average review rating" },
   { value: "24 hrs", label: "re-clean guarantee window" },
-  { value: "7 days", label: "a week, 7am to 9pm" },
+  { value: "24/7", label: "open every day, around the clock" },
 ];
 
 const values = [
@@ -163,6 +164,8 @@ export default function AboutPage() {
             </Link>
           </div>
         </Section>
+
+        <MapEmbed query="Boston, MA" title="Based in Boston, working across the metro" />
 
         <ServiceAreas title="Where our teams work" areas={allServiceAreas} />
 

@@ -10,6 +10,7 @@ import Frequencies from "@/components/sections/Frequencies";
 import ServiceAreas from "@/components/sections/ServiceAreas";
 import Testimonials from "@/components/sections/Testimonials";
 import FAQ from "@/components/sections/FAQ";
+import MapEmbed from "@/components/sections/MapEmbed";
 import CTABand from "@/components/sections/CTABand";
 import { allServiceAreas } from "@/lib/data/locations";
 import { SITE_URL } from "@/lib/constants";
@@ -101,7 +102,7 @@ const benefits = [
   {
     title: "Real availability, seven days a week",
     description:
-      "Evenings, weekends, and the day before your in-laws land. Our dispatch runs 7am to 9pm every day and we usually have a same-week slot.",
+      "Evenings, weekends, and the day before your in-laws land. Our dispatch runs 24/7 and we usually have a same-week slot.",
   },
 ];
 
@@ -159,6 +160,12 @@ export default function HomePage() {
           intro="Dedicated pages for each area include local pricing notes, neighborhoods served, and frequently asked questions."
           areas={allServiceAreas}
           tone="navy"
+        />
+
+        <MapEmbed
+          query="Boston, MA"
+          title="Where we work across Greater Boston"
+          intro="Teams are dispatched around the clock across the city and the inner suburbs."
         />
 
         <FAQ

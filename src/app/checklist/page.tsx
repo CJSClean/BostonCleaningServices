@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import PageShell from "@/components/layout/PageShell";
 import Hero from "@/components/sections/Hero";
+import MapEmbed from "@/components/sections/MapEmbed";
 import TrustStrip from "@/components/sections/TrustStrip";
 import ChecklistTable from "@/components/sections/ChecklistTable";
 import { Section, SectionHeading } from "@/components/sections/Section";
@@ -99,6 +100,8 @@ export default function ChecklistPage() {
         </Section>
 
         <ChecklistTable />
+
+        <MapEmbed query="Boston, MA" title="The same checklist across Greater Boston" tone="paper" />
 
         <FAQ title="Checklist questions" items={faqs} />
 

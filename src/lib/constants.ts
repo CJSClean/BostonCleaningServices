@@ -12,8 +12,8 @@ export const SITE_CONFIG = {
   city: "Boston",
   state: "MA",
   postalCode: "",
-  hours: "7 days a week, 7am to 9pm",
-  hoursShort: "Mon to Sun, 7am to 9pm",
+  hours: "Open 24/7, every day of the year",
+  hoursShort: "Open 24/7",
   rating: "5.0",
   reviewCount: "300+",
 };

@@ -80,7 +80,7 @@ const content: AreaPageContent = {
     {
       question: "Do you offer Saturday cleanings in JP?",
       answer:
-        "Yes. Saturday mornings are popular in Jamaica Plain and we schedule them seven days a week, 7am to 9pm. Recurring customers can hold a standing Saturday slot.",
+        "Yes. Saturday mornings are popular in Jamaica Plain and we schedule them seven days a week, around the clock. Recurring customers can hold a standing Saturday slot.",
     },
     {
       question: "Do you work with landlords who live in the building?",

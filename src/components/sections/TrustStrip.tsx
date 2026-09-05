@@ -5,7 +5,7 @@ const items = [
   { icon: StarIcon, label: `${SITE_CONFIG.rating}-star rated`, sub: `${SITE_CONFIG.reviewCount} local reviews` },
   { icon: ShieldIcon, label: "Insured & bonded", sub: "Background-checked staff" },
   { icon: CheckIcon, label: "24-hour guarantee", sub: "We re-clean anything missed" },
-  { icon: ClockIcon, label: "Same-week booking", sub: "7 days, 7am to 9pm" },
+  { icon: ClockIcon, label: "Same-week booking", sub: "Open 24/7, every day" },
 ];
 
 export default function TrustStrip() {

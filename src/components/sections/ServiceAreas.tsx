@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { ArrowIcon } from "@/components/ui/Icons";
 import { Section, SectionHeading } from "./Section";
 
 interface ServiceAreasProps {
@@ -19,14 +18,13 @@ export default function ServiceAreas({ title, intro, areas, tone = "canvas" }: S
           <li key={a.href}>
             <Link
               href={a.href}
-              className={`group inline-flex items-center gap-1.5 rounded-full border px-4 py-2 text-sm font-medium transition-colors ${
+              className={`inline-flex items-center justify-center rounded-full border px-5 py-2 text-center text-sm font-medium transition-colors ${
                 light
                   ? "border-white/25 text-white hover:bg-white hover:text-navy"
                   : "border-line bg-paper text-ink hover:border-navy hover:text-navy"
               }`}
             >
               {a.name}
-              <ArrowIcon className="h-3.5 w-3.5 opacity-0 transition-opacity group-hover:opacity-100" />
             </Link>
           </li>
         ))}

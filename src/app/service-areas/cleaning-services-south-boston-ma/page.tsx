@@ -54,7 +54,7 @@ const content: AreaPageContent = {
     },
     {
       title: "Evening and weekend slots",
-      description: "Dispatch runs 7am to 9pm every day, so the apartment can be finished before you are home from the office or the gym.",
+      description: "Dispatch runs 24/7, so the apartment can be finished before you are home from the office or the gym.",
     },
   ],
   mapQuery: loc.mapQuery,
@@ -85,7 +85,7 @@ const content: AreaPageContent = {
     {
       question: "Are evening cleanings available?",
       answer:
-        "Yes. We schedule until 9pm every day, and evening slots are popular in South Boston for residents who want the unit finished before they get home.",
+        "Yes. We schedule around the clock, every day, and evening slots are popular in South Boston for residents who want the unit finished before they get home.",
     },
   ],
   ctaTitle: "Book a South Boston cleaning this week",

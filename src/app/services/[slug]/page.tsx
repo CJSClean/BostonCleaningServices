@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import PageShell from "@/components/layout/PageShell";
 import Hero from "@/components/sections/Hero";
+import MapEmbed from "@/components/sections/MapEmbed";
 import TrustStrip from "@/components/sections/TrustStrip";
 import { Prose } from "@/components/sections/Section";
 import WhatIncluded from "@/components/sections/WhatIncluded";
@@ -110,6 +111,7 @@ export default async function ServiceLocationPage({ params }: PageProps) {
           zipCodes={location.zipCodes}
           tone="canvas"
         />
+        <MapEmbed query={location.mapQuery} title={`Where we clean in ${location.name}`} tone="paper" />
         <Testimonials areaFilter={location.name} tone="paper" />
         <FAQ title={`${service.name} in ${location.name}: questions`} items={copy.faqs} tone="canvas" />
         <ServiceAreas title={`Other services in ${location.name}`} areas={otherServices} tone="paper" />

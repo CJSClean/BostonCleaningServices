@@ -73,8 +73,8 @@ export function generateLocalBusinessSchema(areaServed?: string[]) {
       {
         "@type": "OpeningHoursSpecification",
         dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-        opens: "07:00",
-        closes: "21:00",
+        opens: "00:00",
+        closes: "23:59",
       },
     ],
     priceRange: "$$",

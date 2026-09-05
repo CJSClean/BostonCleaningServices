@@ -25,7 +25,7 @@ const content: AreaPageContent = {
   intro: [
     "The South End holds more Victorian rowhouses than any neighborhood in the United States, most of them brick bowfronts on tree-lined streets and around the small garden squares that give the area its character. Inside, these homes have been divided into garden-level units, floor-throughs, and duplexes with original details: marble mantels, plaster medallions, pocket doors, and hardwood that has been refinished a dozen times. Our South End teams are trained to clean those surfaces without damaging them.",
     "The neighborhood also has a newer edge. SoWa's converted warehouses hold lofts with high ceilings and exposed brick. Ink Block and the buildings along Harrison Avenue and Albany Street bring elevator living with concierges and modern finishes. Our coordinators collect building requirements at booking, deliver insurance certificates to management, and schedule around quiet hours so the visit is seamless.",
-    "South End residents are a mix of long-time homeowners, young professionals within walking distance of Back Bay offices and the hospitals, and a large community of restaurant and creative-industry workers with unconventional hours. That last group is why we run seven days a week from 7am to 9pm and why recurring plans here often land on weekday mornings or Sunday afternoons.",
+    "South End residents are a mix of long-time homeowners, young professionals within walking distance of Back Bay offices and the hospitals, and a large community of restaurant and creative-industry workers with unconventional hours. That last group is why we run 24/7 and why recurring plans here often land on weekday mornings or Sunday afternoons.",
     "Rowhouse cleaning has its own logic. Units span multiple levels connected by steep stairs. Garden-level apartments have their own humidity and dust patterns. Bathrooms are often tucked under stairs or into former closets. We work top to bottom, treat marble and stone with pH-neutral cleaners, dry-mop hardwood before a damp pass, and dust the high mouldings and ceiling medallions that collect a season of particulate.",
     "The South End's product preferences match Cambridge and JP: a lot of our customers ask for plant-based, fragrance-free cleaning, and we provide it at no extra cost as a permanent account note. Pets are common in the neighborhood and our teams are comfortable working around them and lifting fur from upholstery and stair runners.",
     "Turnover cleans follow the first-of-month rental cycle, and we work with agents preparing units for the neighborhood's active sales market, where a deep clean before photographs matters. Whatever the job, you receive a flat quote before booking, a two-person team, arrival and completion texts, and a 24-hour re-clean guarantee.",
@@ -50,7 +50,7 @@ const content: AreaPageContent = {
     },
     {
       title: "Seven-day scheduling",
-      description: "Restaurant and creative-industry schedules do not fit a Monday-to-Friday cleaner. Ours run every day, 7am to 9pm.",
+      description: "Restaurant and creative-industry schedules do not fit a Monday-to-Friday cleaner. Ours run 24/7.",
     },
     {
       title: "Eco products, no upcharge",

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import PageShell from "@/components/layout/PageShell";
 import Hero from "@/components/sections/Hero";
+import MapEmbed from "@/components/sections/MapEmbed";
 import TrustStrip from "@/components/sections/TrustStrip";
 import { Prose } from "@/components/sections/Section";
 import WhatIncluded from "@/components/sections/WhatIncluded";
@@ -179,6 +180,7 @@ export default function HouseCleaningPage() {
           intro="Local pages with pricing notes and FAQs for each area we serve."
           areas={locations.map((l) => ({ name: l.name, href: `/services/${KEY}-${l.key}-ma` }))}
         />
+        <MapEmbed query="Boston, MA" title="House cleaning across Boston" />
         <FAQ title="House cleaning questions" items={faqs} />
         <CTABand
           title="Take house cleaning off the list for good"

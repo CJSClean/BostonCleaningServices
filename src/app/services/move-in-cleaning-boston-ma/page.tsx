@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import PageShell from "@/components/layout/PageShell";
 import Hero from "@/components/sections/Hero";
+import MapEmbed from "@/components/sections/MapEmbed";
 import TrustStrip from "@/components/sections/TrustStrip";
 import { Prose } from "@/components/sections/Section";
 import WhatIncluded from "@/components/sections/WhatIncluded";
@@ -172,6 +173,7 @@ export default function MoveInCleaningPage() {
           areas={locations.map((l) => ({ name: l.name, href: `/services/${KEY}-${l.key}-ma` }))}
           tone="paper"
         />
+        <MapEmbed query="Boston, MA" title="Move-in cleaning across Boston" />
         <FAQ title="Move-in cleaning questions" items={faqs} tone="canvas" />
         <CTABand
           title="Start in a home that is actually clean"

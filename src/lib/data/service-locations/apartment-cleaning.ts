@@ -104,7 +104,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Can you clean in the early evening?",
         answer:
-          "Yes. We schedule until 9pm every day, and early evening slots are popular with Brookline residents returning from Longwood.",
+          "Yes. We schedule around the clock, every day, and early evening slots are popular with Brookline residents returning from Longwood.",
       },
       {
         question: "Do you clean apartments with cats or dogs?",
@@ -316,7 +316,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South Boston apartments range from the newest in the city to some of the oldest. Seaport towers offer concierges, elevators, harbor views through floor-to-ceiling glass, and quartz or marble counters. Fort Point lofts have high ceilings, exposed brick and timber, and polished concrete or wide-plank floors. South of Broadway, three-decker units have rear kitchens, cast-iron tubs, and hardwood under decades of finish. Our apartment cleaning teams work all three weekly.",
       "Seaport buildings require certificates of insurance, freight elevator reservations, and concierge check-ins, which our coordinators arrange before the visit. Glass is finished with a squeegee for a streak-free result and stone gets pH-neutral cleaners. Lofts are dusted top down because high ceilings shed onto everything below. Southie three-deckers get dry-mopped hardwood, hand-dusted radiators, and tubs scrubbed with enamel-safe products.",
-      "South Boston renters are young and busy, and evening slots are popular here for residents who want the unit finished before they get home from the office or the gym. Dispatch runs seven days a week until 9pm. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Pricing is flat, confirmed before booking, and unaffected by building type or parking.",
+      "South Boston renters are young and busy, and evening slots are popular here for residents who want the unit finished before they get home from the office or the gym. Dispatch runs 24/7. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Pricing is flat, confirmed before booking, and unaffected by building type or parking.",
     ],
     faqs: [
       {
@@ -332,7 +332,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Are evening cleanings available in Southie?",
         answer:
-          "Yes. We schedule until 9pm every day, and evening slots are common for South Boston residents.",
+          "Yes. We schedule around the clock, every day, and evening slots are common for South Boston residents.",
       },
       {
         question: "Can you handle exposed brick and concrete in a Fort Point loft?",

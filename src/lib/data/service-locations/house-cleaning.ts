@@ -315,7 +315,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     introTitle: "House cleaning for the old neighborhood south of Broadway",
     intro: [
       "South of Broadway, Southie is a century-old grid of brick rowhouses, wood-frame three-deckers, and single-family homes that grow larger toward City Point and Marine Park. Many have been renovated top to bottom, pairing original hardwood and exposed brick with new kitchens and rooftop decks. Our house cleaning teams work all of it: dry-mopping old wood, pH-neutral cleaners on new stone, and streak-free finishes on stainless and glass.",
-      "South Boston households are young and busy. Finance and biotech professionals, young families, and long-time residents all want the same thing from a cleaning service: show up when you said you would and leave the house properly done. Our two-hour arrival windows are kept, and evening slots are popular here for residents who want the home finished before they get back from the office or the gym. Dispatch runs seven days a week until 9pm.",
+      "South Boston households are young and busy. Finance and biotech professionals, young families, and long-time residents all want the same thing from a cleaning service: show up when you said you would and leave the house properly done. Our two-hour arrival windows are kept, and evening slots are popular here for residents who want the home finished before they get back from the office or the gym. Dispatch runs 24/7.",
       "Biweekly plans with a consistent lead cleaner are the most common choice, with weekly service for larger family homes near the beach. Owner-occupants of three-deckers often keep a plan for their floor and book turnover cleans for the rentals around the first of the month. Parking is resident-permit and streets are tight; our teams plan for it and it never appears on your quote. Every visit is flat-priced with a 24-hour guarantee.",
     ],
     faqs: [
@@ -327,7 +327,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Do you offer evening house cleaning in Southie?",
         answer:
-          "Yes. We schedule until 9pm every day and evening slots are popular with South Boston residents who want the home done before they return.",
+          "Yes. We schedule around the clock, every day, and evening slots are popular with South Boston residents who want the home done before they return.",
       },
       {
         question: "Can you clean a renovated rowhouse with a roof deck?",

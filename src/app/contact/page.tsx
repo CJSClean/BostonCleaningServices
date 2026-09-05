@@ -20,7 +20,7 @@ const contactFaqs = [
   {
     question: "How quickly will I hear back?",
     answer:
-      "During operating hours, 7am to 9pm every day, a coordinator typically responds within one hour by text or phone. Forms sent overnight are answered first thing in the morning.",
+      "A coordinator typically responds within one hour by text or phone, day or night. We operate 24/7, so overnight and holiday requests are answered just as quickly.",
   },
   {
     question: "Can I get a quote without a walkthrough?",

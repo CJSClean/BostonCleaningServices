@@ -337,7 +337,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Can the clean happen in the evening?",
         answer:
-          "For smaller units, yes, when the building allows evening vendor access. We schedule until 9pm.",
+          "For smaller units, yes, when the building allows evening vendor access. We schedule 24/7.",
       },
     ],
     ctaTitle: "Book a South Boston move-in clean",

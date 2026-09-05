@@ -337,7 +337,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Can a deep clean happen in the evening?",
         answer:
-          "For smaller units, yes. We schedule until 9pm, and a one-bedroom deep clean fits an evening slot.",
+          "For smaller units, yes. We schedule 24/7, and a one-bedroom deep clean fits an evening slot.",
       },
     ],
     ctaTitle: "Book a South Boston deep clean this week",
