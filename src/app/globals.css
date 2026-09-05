@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Harbor palette */
+  --color-navy: #0e2a47;
+  --color-navy-deep: #081b30;
+  --color-navy-soft: #1d4470;
+  --color-brick: #c9512f;
+  --color-brick-dark: #a93f22;
+  --color-brick-soft: #f7e4dc;
+  --color-seafoam: #dcefe8;
+  --color-sky: #e8f1fa;
+  --color-ink: #0b1626;
+  --color-muted: #4a5a6e;
+  --color-line: #d9e1ea;
+  --color-paper: #ffffff;
+  --color-canvas: #f5f7fa;
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-dm-sans), system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background-color: var(--color-canvas);
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-variation-settings: "opsz" 144, "SOFT" 30;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brick);
+  outline-offset: 3px;
+}
+
+/* Dotted harbor-chart pattern used behind hero and CTA blocks */
+.chart-pattern {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.12) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+/* Rule line with a short brick accent, used under section headings */
+.rule::after {
+  content: "";
+  display: block;
+  width: 3rem;
+  height: 3px;
+  margin-top: 0.9rem;
+  background: var(--color-brick);
+}
+
+.rule-center::after {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.eyebrow {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-brick);
+}
+
+.prose-body p + p {
+  margin-top: 1rem;
+}

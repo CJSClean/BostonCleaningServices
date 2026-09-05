@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="600" height="112" role="img" aria-label="Boston Cleaning Services">
+  <g transform="translate(2 2)">
+    <path d="M14 46h24l-4-6H18z" fill="#c9512f"/>
+    <path d="M18 40 21 14h10l3 26z" fill="#0e2a47"/>
+    <path d="M21 14h10v6H21z" fill="#c9512f"/>
+    <path d="M22 8h8l-1-6h-6z" fill="#0e2a47"/>
+    <path d="M17 26h18M18 33h16" stroke="#c9512f" stroke-width="2"/>
+    <path d="M6 12 12 15M46 12l-6 3M4 22h7M48 22h-7" stroke="#c9512f" stroke-width="2" stroke-linecap="round"/>
+    <path d="M2 50h48" stroke="#0e2a47" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="64" y="27" font-family="Georgia, serif" font-weight="600" font-size="24" fill="#0e2a47">Boston</text>
+  <text x="64" y="47" font-family="system-ui, sans-serif" font-weight="600" font-size="13.5" letter-spacing="2.2" fill="#4a5a6e">CLEANING SERVICES</text>
+</svg>

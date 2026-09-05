@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[redirects]]
+  from = "https://www.bostoncleaningservices.com/*"
+  to = "https://bostoncleaningservices.com/:splat"
+  status = 301
+  force = true
