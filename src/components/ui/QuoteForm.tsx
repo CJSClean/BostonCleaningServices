@@ -125,7 +125,7 @@ export default function QuoteForm({
         {submitting ? "Sending..." : submitLabel}
       </Button>
       <p className="text-center text-xs text-muted">
-        We reply within one business hour, 7 days a week. No spam, ever.
+        We reply within the hour, 24/7. No spam, ever.
       </p>
     </form>
   );
