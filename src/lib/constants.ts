@@ -24,6 +24,7 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/bostoncleaningservices1/",
   facebook: "https://www.facebook.com/profile.php?id=61593781965617",
   linkedin: "https://www.linkedin.com/company/bostoncleaningservices/",
+  x: "https://x.com/BostonCleaningS",
   google: "",
   yelp: "",
 };

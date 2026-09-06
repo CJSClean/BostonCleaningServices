@@ -178,6 +178,14 @@ export function LinkedInIcon({ className = "w-5 h-5" }: Props) {
   );
 }
 
+export function XIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} strokeWidth={1.8} className={className}>
+      <path d="M4 4l16 16M20 4 4 20" />
+    </svg>
+  );
+}
+
 export function FacebookIcon({ className = "w-5 h-5" }: Props) {
   return (
     <svg {...base} className={className}>
