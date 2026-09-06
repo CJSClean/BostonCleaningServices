@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA",
     description:
-      "Insured, background-checked cleaners for homes and apartments across Greater Boston. Upfront pricing, same-week availability, 24-hour re-clean guarantee.",
+      "Insured, background-checked cleaners for homes and apartments across Greater Boston. Upfront pricing, same-week availability, 100% satisfaction guarantee.",
     url: SITE_URL,
     type: "website",
   },
@@ -59,7 +59,7 @@ const faqs = [
   {
     question: "What if something is missed?",
     answer:
-      "Tell us within 24 hours and we return to fix the specific area at no cost, usually within two business days. We would rather come back than have you settle for a clean you are not happy with.",
+      "Every visit is backed by a 100% satisfaction guarantee. Tell us within 24 hours and we return to fix the specific area at no cost, usually within two business days. We would rather come back than have you settle for a clean you are not happy with.",
   },
   {
     question: "How far in advance do I need to book?",
@@ -109,7 +109,7 @@ const benefits = [
 const introParagraphs = [
   "Boston is a city of stairs, radiators, old wood, and small closets, and it takes a certain kind of cleaning company to keep up with it. Boston Cleaning Services was built for exactly this housing stock. We send trained, insured teams to apartments and houses across the city and the inner suburbs, working from a written checklist that covers every room and finishing with a text to let you know the job is done.",
   "Our customers are graduate students sharing a Somerville triple-decker, families in Newton colonials, empty nesters in Back Bay condos, and hospital staff near Longwood who simply do not have hours left in the week to scrub a tub. What they have in common is a desire for the same result every time: a home that feels reset, not just tidied, delivered by people they trust with a key.",
-  "We keep our promises simple. The price we quote reflects your home's size and condition, and any heavy-duty or pet-shedding fee is disclosed before we start. The cleaners who arrive are our employees, not strangers from an app. If anything is missed, we return within 24 hours to fix it. And you can reach a human coordinator by phone or text seven days a week to change a time, add a task, or ask a question.",
+  "We keep our promises simple. The price we quote reflects your home's size and condition, and any heavy-duty or pet-shedding fee is disclosed before we start. The cleaners who arrive are our employees, not strangers from an app. Every visit is backed by a 100% satisfaction guarantee. And you can reach a human coordinator by phone or text seven days a week to change a time, add a task, or ask a question.",
   "Whether you need a weekly plan to keep a busy household on track, a one-time deep clean before hosting, or a move-out clean that protects your deposit ahead of a September 1 turnover, we have a service built for the situation. Browse the options below, check the pricing tables on each service page, and request a quote when you are ready. Most first cleanings are booked within the same week.",
 ];
 
@@ -121,7 +121,7 @@ export default function HomePage() {
         <Hero
           eyebrow="Serving Boston and the inner suburbs"
           title="Professional Cleaning Services in Boston, MA"
-          subtitle="Cleaning that shows up, finishes, and gets it right. House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Upfront pricing, same-week slots, and a 24-hour re-clean guarantee."
+          subtitle="Cleaning that shows up, finishes, and gets it right. House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Upfront pricing, same-week slots, and a 100% satisfaction guarantee."
           highlights={[
             "Background-checked, employee cleaners",
             "Upfront quote before you book",

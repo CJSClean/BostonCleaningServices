@@ -71,7 +71,7 @@ export const moveOutCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "What if my landlord finds something after the clean?",
         answer:
-          "Contact us within 24 hours and we return to address the specific item at no cost. Cleaning the day before the walkthrough leaves room for this.",
+          "Tell us and we come back to address the specific item at no cost. Cleaning the day before the walkthrough leaves room for this.",
       },
     ],
     ctaTitle: "Book a Beacon Hill move-out clean",

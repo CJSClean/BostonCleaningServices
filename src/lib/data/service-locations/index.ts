@@ -67,7 +67,7 @@ const shared: Record<string, ServiceShared> = {
       { title: "Right-sized crew, one consistent lead", description: "We size the crew to the home, and cleaners check each other's work. Your lead cleaner stays the same on recurring plans." },
       { title: "Published checklist", description: "Every room's tasks are listed on this site. There is no guessing about whether the baseboards or the microwave were supposed to be done." },
       { title: "Upfront pricing, no meter", description: "The quote reflects your home's size and condition. Heavy-duty or pet-shedding fees are confirmed with you before work begins, never added silently." },
-      { title: "24-hour guarantee", description: "Anything missed is re-cleaned free within 24 hours of your call or text." },
+      { title: "100% satisfaction guarantee", description: "If any area is not right, let us know and we make it right at no charge." },
     ],
     showFrequencies: true,
   },

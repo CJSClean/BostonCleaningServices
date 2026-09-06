@@ -13,7 +13,7 @@ export default function Footer() {
             <Logo className="h-12" />
             <p className="mt-5 max-w-sm text-sm leading-relaxed text-muted">
               Locally run residential cleaning for Boston and the inner suburbs. Background-checked
-              cleaners, transparent pricing, and a 24-hour re-clean guarantee on every visit.
+              cleaners, transparent pricing, and a 100% satisfaction guarantee on every visit.
             </p>
             <ul className="mt-6 space-y-2.5 text-sm">
               <li>

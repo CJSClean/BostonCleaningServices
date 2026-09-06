@@ -4,7 +4,7 @@ import { SITE_CONFIG } from "@/lib/constants";
 const items = [
   { icon: StarIcon, label: `${SITE_CONFIG.rating}-star rated`, sub: `${SITE_CONFIG.reviewCount} local reviews` },
   { icon: ShieldIcon, label: "Insured & bonded", sub: "Background-checked staff" },
-  { icon: CheckIcon, label: "24-hour guarantee", sub: "We re-clean anything missed" },
+  { icon: CheckIcon, label: "100% satisfaction", sub: "Guaranteed on every visit" },
   { icon: ClockIcon, label: "Same-week booking", sub: "Open 24/7, every day" },
 ];
 

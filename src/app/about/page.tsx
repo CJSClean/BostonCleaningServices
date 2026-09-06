@@ -15,14 +15,14 @@ import { generateAboutPageSchema, generateBreadcrumbSchema, SchemaScript } from 
 export const metadata: Metadata = {
   title: "About Boston Cleaning Services",
   description:
-    "Meet Boston Cleaning Services: a locally run residential cleaning company with employee cleaners, upfront pricing, and a 24-hour guarantee serving Boston and...",
+    "Meet Boston Cleaning Services, a locally run cleaning company with employee cleaners, upfront pricing, and a 100% satisfaction guarantee across Greater Boston...",
   alternates: { canonical: `${SITE_URL}/about` },
 };
 
 const stats = [
   { value: "4,000+", label: "cleanings completed" },
   { value: "5.0", label: "average review rating" },
-  { value: "24 hrs", label: "re-clean guarantee window" },
+  { value: "100%", label: "satisfaction guarantee" },
   { value: "24/7", label: "open every day, around the clock" },
 ];
 
@@ -41,7 +41,7 @@ const values = [
   },
   {
     title: "Own the mistake",
-    text: "If we miss something, we come back and fix it within 24 hours at no charge. No forms, no arguing.",
+    text: "If we miss something, tell us and we come back to fix it at no charge. That is what our 100% satisfaction guarantee means. No forms, no arguing.",
   },
 ];
 
