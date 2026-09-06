@@ -35,6 +35,19 @@ export default function Footer() {
                 </li>
               )}
             </ul>
+            {SITE_CONFIG.streetAddress && (
+              <div className="mt-6 max-w-sm overflow-hidden rounded-xl border border-line">
+                <iframe
+                  src={`https://www.google.com/maps?q=${encodeURIComponent(SITE_CONFIG.addressLine)}&output=embed`}
+                  title="Boston Cleaning Services office location"
+                  width="100%"
+                  height="200"
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  className="block w-full"
+                />
+              </div>
+            )}
             {SOCIAL_PROFILES.length > 0 && (
               <ul className="mt-6 flex items-center gap-3">
                 {SOCIAL_PROFILES.map((p) => (
