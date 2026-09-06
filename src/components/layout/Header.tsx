@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Logo from "@/components/ui/Logo";
 import QuoteButton from "@/components/ui/QuoteButton";
+import { ButtonLink } from "@/components/ui/Button";
 import { ChevronIcon, ClockIcon, CloseIcon, MenuIcon, PhoneIcon, PinIcon } from "@/components/ui/Icons";
 import { NAV_LINKS, SITE_CONFIG } from "@/lib/constants";
 import { services } from "@/lib/data/services";
@@ -152,9 +153,19 @@ export default function Header() {
           </nav>
 
           <div className="flex items-center gap-3">
-            <div className="hidden lg:block">
+            <div className="hidden items-center gap-2.5 lg:flex">
               <QuoteButton label="Get a Quote" className="px-5 py-2.5" />
+              <ButtonLink href={SITE_CONFIG.phoneHref} variant="navy" className="px-5 py-2.5">
+                <PhoneIcon className="h-4 w-4" /> Call Now
+              </ButtonLink>
             </div>
+            <a
+              href={SITE_CONFIG.phoneHref}
+              aria-label={`Call ${SITE_CONFIG.phone}`}
+              className="rounded-lg bg-navy p-2 text-white lg:hidden"
+            >
+              <PhoneIcon className="h-5 w-5" />
+            </a>
             <button
               className="rounded-lg border border-line p-2 text-navy lg:hidden"
               onClick={() => setMobileOpen(true)}
