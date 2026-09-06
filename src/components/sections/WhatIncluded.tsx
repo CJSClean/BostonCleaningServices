@@ -46,7 +46,7 @@ export default function WhatIncluded({ title, intro, sections, notIncluded, tone
         </div>
       )}
       <p className="mt-6 text-sm text-muted">
-        See the full comparison of routine, deep, and move cleans on our{" "}
+        <span className="font-semibold text-ink">Add-ons:</span> inside the oven and inside the refrigerator are optional on every service, including deep, move-in, and move-out cleans, for a set fee. See the full comparison of routine, deep, and move cleans on our{" "}
         <Link href="/checklist" className="font-semibold text-brick hover:underline">
           cleaning checklist
         </Link>

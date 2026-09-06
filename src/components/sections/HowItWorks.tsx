@@ -12,7 +12,7 @@ const steps = [
   },
   {
     title: "We clean, you check",
-    text: "A two-person team arrives inside the window, works the checklist, and texts you a completion note. Not right? We return within 24 hours.",
+    text: "Your team arrives inside the window, works the checklist, and texts you a completion note. Not right? We return within 24 hours.",
   },
 ];
 

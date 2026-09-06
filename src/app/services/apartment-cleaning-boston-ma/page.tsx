@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 const intro = [
   "Roughly two thirds of Boston households rent, and most of those live in apartments that were never designed for easy cleaning. Galley kitchens with no counter space, bathrooms with original 1920s tile, radiators under every window, and hallways where a vacuum cord becomes a tripping hazard. Our apartment cleaning service exists for those units, from a 380-square-foot studio in the Fenway to a three-bedroom floor-through in a Somerville triple-decker.",
   "Apartment logistics are half the job. Our coordinators collect building details when you book: whether there is an elevator, where the team can park or unload, how to reach the concierge, and any rules about service hours. Cleaners carry their equipment up walk-ups without complaint and know how to work quietly in buildings with thin walls and shared hallways.",
-  "The clean itself follows the same checklist we use everywhere. Kitchen counters, stovetop, and appliance exteriors. Bathroom scrubbed and sanitized, including the tile grout lines in older units. Dusting from the top of the fridge to the baseboards, beds made, floors vacuumed and mopped with the right solution for the surface. A typical one-bedroom takes a two-person team around 90 minutes.",
+  "The clean itself follows the same checklist we use everywhere. Kitchen counters, stovetop, and appliance exteriors. Bathroom scrubbed and sanitized, including the tile grout lines in older units. Dusting from the top of the fridge to the baseboards, beds made, floors vacuumed and mopped with the right solution for the surface. A typical one-bedroom takes our team around 90 minutes.",
   "Because apartment turnover in Boston revolves around September 1 and the first of each month, we hold capacity for lease-related cleanings and can usually fit a first-time routine visit inside the same week. Roommates splitting the cost, remote workers who need the place quiet by a certain hour, and landlords maintaining a unit between tenants all get the same flat, upfront pricing.",
   "Recurring plans make the most sense for apartments because the space is small enough that regular maintenance keeps it nearly spotless. A biweekly visit to a one-bedroom often costs less than a night out and frees up the weekend entirely. Try a single visit first if you like. The discount kicks in the moment you switch to a schedule.",
 ];
@@ -69,7 +69,7 @@ const benefits = [
   {
     title: "Fast, thorough, and priced for small spaces",
     description:
-      "Apartment quotes start at $110 for a studio. Two cleaners finish a one-bedroom in about 90 minutes, and you never pay for time that is not used.",
+      "Apartment quotes start at $110 for a studio. A one-bedroom is finished in about 90 minutes, and you never pay for time that is not used.",
   },
   {
     title: "Older-unit expertise",

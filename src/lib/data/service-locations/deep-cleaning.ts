@@ -12,7 +12,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "A Back Bay deep clean is a study in ornament. Plaster crown mouldings and ceiling medallions hold dust in every ridge. Tall windows facing the Commonwealth Avenue Mall carry a film of city particulate on the inside. Marble fireplace surrounds have not been touched since the previous tenant. Parquet floors have grime along the baseboards where a routine mop never reaches. Our teams work each of these by hand with the right products and enough time to do it properly.",
       "Bathrooms in these buildings are often original: hex-tile floors, subway tile walls, cast-iron tubs, and pedestal sinks. Grout is scrubbed with brushes, not sprayed. Tub enamel gets a non-abrasive cleaner. Chrome and nickel fixtures are polished. Kitchens, usually retrofitted into former bedrooms, get the range hood degreased, cabinet fronts washed, and the stove pulled forward so the floor and wall behind it are actually cleaned.",
-      "Back Bay residents book deep cleans before starting a recurring plan, ahead of holiday hosting, after returning from a season away, or when a unit is being prepared for sale. A two-bedroom brownstone unit takes a two-person team about four hours; multi-level homes take longer. Pricing is flat and confirmed before booking, and building requirements such as insurance certificates and elevator bookings are handled by our coordinators.",
+      "Back Bay residents book deep cleans before starting a recurring plan, ahead of holiday hosting, after returning from a season away, or when a unit is being prepared for sale. A two-bedroom brownstone unit takes our team about four hours; multi-level homes take longer. Pricing is flat and confirmed before booking, and building requirements such as insurance certificates and elevator bookings are handled by our coordinators.",
     ],
     faqs: [
       {
@@ -50,7 +50,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Beacon Hill homes are compact and old, and deep cleaning them is largely about reaching what the layout hides. The top of a built-in bookcase. The floor behind a claw-foot tub. The back of a galley kitchen cabinet. The deep window wells on the street side that fill with city dust. Radiator fins caked with a winter of dry heat. Our teams carry extension tools and compact equipment for exactly these spaces and take the time to work them properly.",
       "Antique pine floors are dry-mopped and then passed with a barely damp cloth along the baseboards where grime collects. Marble sills and mantels get pH-neutral cleaner. Painted paneling and trim are wiped, not scrubbed. Hex-tile bathroom floors and subway tile walls get their grout scrubbed with brushes. Black iron hardware and brass fixtures are polished with a cloth. Nothing acidic, abrasive, or wet enough to damage a historic surface enters the home.",
-      "Beacon Hill residents book deep cleans before a recurring plan begins, ahead of hosting, at the change of seasons, and when preparing a unit for a new tenant or a sale. A one-bedroom takes a two-person team about three hours; a full townhouse takes most of a day. Pricing is flat and confirmed before booking. Permit parking and steep stairs are planned for and never appear on the quote.",
+      "Beacon Hill residents book deep cleans before a recurring plan begins, ahead of hosting, at the change of seasons, and when preparing a unit for a new tenant or a sale. A one-bedroom takes our team about three hours; a full townhouse takes most of a day. Pricing is flat and confirmed before booking. Permit parking and steep stairs are planned for and never appear on the quote.",
     ],
     faqs: [
       {
@@ -71,7 +71,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Can you deep clean between tenants?",
         answer:
-          "Yes. Landlords book us between tenants regularly. If the unit is empty, a move-out clean adds cabinet, closet, and appliance interiors.",
+          "Yes. Landlords book us between tenants regularly. If the unit is empty, a move-out clean adds cabinet and closet interiors.",
       },
     ],
     ctaTitle: "Book a Beacon Hill deep clean this week",
@@ -87,7 +87,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     introTitle: "The seasonal reset Brookline homes rely on",
     intro: [
       "Brookline homes book deep cleans in a predictable rhythm. Spring, when the salt and sand that filled the mudroom all winter finally leave the house. Late August, before the school year restarts and the family calendar fills. Mid-November, ahead of Thanksgiving hosting. And whenever a family is about to start a recurring plan and wants the house at a proper baseline first. We hold deep-clean capacity for those windows because we know they are coming.",
-      "Family homes accumulate grime in specific places. Baseboards behind furniture. The range hood and the cabinet fronts nearest the stove. Grout in the kids' bathroom. The tops of door frames and the blades of ceiling fans. Vent covers and radiator fins. Under the beds and behind the couch. A Brookline deep clean addresses all of it in one visit with a two-person team, then puts every piece of furniture back exactly where it was.",
+      "Family homes accumulate grime in specific places. Baseboards behind furniture. The range hood and the cabinet fronts nearest the stove. Grout in the kids' bathroom. The tops of door frames and the blades of ceiling fans. Vent covers and radiator fins. Under the beds and behind the couch. A Brookline deep clean addresses all of it in one visit with our team, then puts every piece of furniture back exactly where it was.",
       "The housing spans a century and a half, from Brookline Village Victorians to Fisher Hill colonials to Coolidge Corner condos, and our product kit covers all of it: dry-mopped hardwood, pH-neutral cleaners on stone, streak-free stainless. Pets are nearly universal and our teams lift fur from runners, upholstery, and under furniture as part of the job. A three-bedroom house takes roughly five hours. Pricing is flat and confirmed before booking.",
     ],
     faqs: [
@@ -185,7 +185,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How long does a townhouse deep clean take?",
         answer:
-          "A three-story townhouse typically takes a two-person team six to eight hours. We schedule the full day so nothing is rushed.",
+          "A three-story townhouse typically takes our team six to eight hours. We schedule the full day so nothing is rushed.",
       },
     ],
     ctaTitle: "Book a Charlestown deep clean this week",
@@ -238,7 +238,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       "Every floor, including the basement playroom and the third-floor guest room. Newton deep cleans are scheduled for a full day so a large house is actually finished, not sampled.",
     introTitle: "Deep cleaning a whole Newton house, properly",
     intro: [
-      "A Newton deep clean is a big job and we schedule it that way. Four or five bedrooms, two or three full baths, a finished basement, a mudroom, a home office, and often a third floor mean a two-person team spends most of a day working upstairs to down. Every floor gets the full treatment: baseboards wiped by hand, door frames and switch plates cleaned, ceiling fans and light fixtures dusted, vent covers wiped, and furniture moved so the floor beneath is vacuumed and mopped.",
+      "A Newton deep clean is a big job and we schedule it that way. Four or five bedrooms, two or three full baths, a finished basement, a mudroom, a home office, and often a third floor mean the team spends most of a day working upstairs to down. Every floor gets the full treatment: baseboards wiped by hand, door frames and switch plates cleaned, ceiling fans and light fixtures dusted, vent covers wiped, and furniture moved so the floor beneath is vacuumed and mopped.",
       "Newton homes book deep cleans in a seasonal rhythm. Spring, when months of salt and sand finally leave the mudroom and entry. Late summer before the school year. Mid-November ahead of hosting. Before a recurring plan starts, so the weekly or biweekly visits maintain a high baseline. And when a home is being prepared for sale, where a deep clean before photography makes a measurable difference in how the rooms present.",
       "The housing runs from 1900 colonials with hardwood and radiators to new construction with wide-plank floors, quartz, and a great deal of glass. Our teams handle both: dry-mopped wood, pH-neutral stone care, streak-free stainless and windows. Pets are common and fur is lifted from runners, upholstery, and under furniture. A four-bedroom home takes six to seven hours. Pricing is flat, confirmed before booking, and includes every finished space you tell us about.",
     ],
@@ -256,7 +256,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How long does a whole-house deep clean take?",
         answer:
-          "Six to seven hours for a four-bedroom home with a two-person team. We schedule the full day so nothing is rushed.",
+          "Six to seven hours for a four-bedroom home with our team. We schedule the full day so nothing is rushed.",
       },
       {
         question: "Do you deep clean before listing photos?",
@@ -278,7 +278,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Somerville triple-deckers hide grime in predictable places. The rear kitchen, farthest from the front door, collects grease on the range hood and the cabinet fronts nearest the stove. The cast-iron tub in the middle of the unit develops a ring and gray grout around it. Radiators under every window bake a winter of dust onto their fins. Hardwood holds grime along the baseboards of the long hallway. A Somerville deep clean works each of these by hand, front to back.",
       "Shared apartments book deep cleans when a roommate moves out and another arrives, before parents visit, and at the start of a recurring plan so weekly or biweekly visits can hold the standard. Renovated two-families in Spring Hill and Winter Hill book them seasonally, with new quartz and stainless getting pH-neutral care and old wood getting dry-mopped and damp-passed. Assembly Row and Green Line Extension condos get streak-free glass and the paperwork their buildings require.",
-      "September 1 turnover drives a lot of Somerville deep cleaning, and if a unit is empty, a move-out or move-in clean adds cabinet, closet, and appliance interiors. For occupied units, a two-bedroom floor takes a two-person team about four hours. Permit parking and stairs are planned for and never appear on the quote. Pricing is flat and confirmed before booking, with a 24-hour re-clean guarantee.",
+      "September 1 turnover drives a lot of Somerville deep cleaning, and if a unit is empty, a move-out or move-in clean adds cabinet and closet interiors. For occupied units, a two-bedroom floor takes our team about four hours. Permit parking and stairs are planned for and never appear on the quote. Pricing is flat and confirmed before booking, with a 24-hour re-clean guarantee.",
     ],
     faqs: [
       {
@@ -299,7 +299,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "Is a deep clean or a move-out clean right for an empty unit?",
         answer:
-          "For an empty unit, a move-out clean adds cabinet, closet, and appliance interiors and is aimed at the walkthrough. For an occupied unit, a deep clean is the right choice.",
+          "For an empty unit, a move-out clean adds cabinet and closet interiors and is aimed at the walkthrough. For an occupied unit, a deep clean is the right choice.",
       },
     ],
     ctaTitle: "Book a Somerville deep clean this week",

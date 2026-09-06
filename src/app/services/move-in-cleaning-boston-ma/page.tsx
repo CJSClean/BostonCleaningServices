@@ -24,16 +24,16 @@ const KEY = "move-in-cleaning";
 export const metadata: Metadata = {
   title: "Move In Cleaning Boston MA",
   description:
-    "Move-in cleaning in Boston, MA: inside cabinets, closets, oven, fridge, and every floor sanitized before your boxes arrive.",
+    "Move-in cleaning in Boston, MA: inside cabinets, closets, and every floor sanitized before your boxes arrive.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 
 const intro = [
   "The day you get the keys is the only day your new home will ever be completely empty. Every cabinet is open, every closet is bare, and every square foot of floor is reachable. It is also the day the previous tenant's dust, the landlord's quick wipe-down, and whatever lived behind the refrigerator are all still there. Our move-in cleaning service is built to use that window before a single box crosses the threshold.",
   "Boston moves cluster hard around September 1 and the first of each month, and landlords in this market are rarely required to deliver a professionally cleaned unit. Many of our move-in customers arrive to find a place that is technically vacant but far from clean: sticky cabinet shelves, a greasy range hood, hair in the bathroom drain, and radiator fins caked with years of dust. We take all of that on so you do not have to unpack into it.",
-  "A move-in clean is a deep clean plus everything that only makes sense in an empty home. We wash the insides of every cabinet and drawer, wipe closet shelves and rods, clean the inside of the oven and refrigerator, scrub the tub and tile, detail baseboards and door frames, and vacuum and mop every floor edge to edge. Light fixtures, switch plates, and window sills are cleaned so the first surface your hand touches is one we cleaned.",
+  "A move-in clean is a deep clean plus everything that only makes sense in an empty home. We wash the insides of every cabinet and drawer, wipe closet shelves and rods, scrub the tub and tile, detail baseboards and door frames, and vacuum and mop every floor edge to edge. Light fixtures, switch plates, and window sills are cleaned so the first surface your hand touches is one we cleaned.",
   "Timing matters and we plan around it. The ideal slot is after the previous occupant is out and before your movers arrive, which is often a same-day handoff. We coordinate with property managers and real estate agents regularly and can often collect keys from a lockbox or leasing office. If your move is on the September 1 weekend, reserve early; those dates fill weeks in advance.",
-  "Pricing is flat based on the unit size and confirmed before booking, with interior appliance and cabinet cleaning already included rather than added as extras. Most one-bedroom move-in cleans take a two-person team about three hours. Once your boxes are in and unpacked, many customers switch to a recurring plan and keep the same standard going forward.",
+  "Pricing is flat based on the unit size and confirmed before booking, with interior appliance and cabinet cleaning already included rather than added as extras. Most one-bedroom move-in cleans take about three hours. Once your boxes are in and unpacked, many customers switch to a recurring plan and keep the same standard going forward.",
 ];
 
 const scenarios = [
@@ -50,7 +50,7 @@ const scenarios = [
   {
     title: "After a landlord turnover clean",
     description:
-      "Many turnover cleans are a quick surface wipe. If the oven, fridge interior, and cabinet shelves were skipped, we finish the job before you fill them.",
+      "Many turnover cleans are a quick surface wipe. If the cabinet shelves and closets were skipped, we finish the job before you fill them, and the oven and fridge can be added.",
   },
   {
     title: "Buying a home from a previous owner",
@@ -61,9 +61,9 @@ const scenarios = [
 
 const benefits = [
   {
-    title: "Appliance interiors included",
+    title: "Cabinets and closets, inside and out",
     description:
-      "Inside the oven, refrigerator, freezer, dishwasher door and gasket, and microwave are part of every move-in clean at no extra cost. You should never inherit someone else's oven.",
+      "Every cabinet, drawer, shelf, and closet is cleaned inside and out. Inside the oven and refrigerator can be added to any move-in clean for a set fee, so you never inherit someone else's oven.",
   },
   {
     title: "We work around your movers",
@@ -86,7 +86,7 @@ const faqs = [
   {
     question: "What does a move-in cleaning include?",
     answer:
-      "Everything in a deep clean plus the interiors of cabinets, drawers, closets, the oven, the refrigerator, and the freezer. Floors are cleaned edge to edge, and baseboards, door frames, fixtures, and window sills are detailed. Full list on our checklist page.",
+      "Everything in a deep clean plus the interiors of cabinets, drawers, and closets. Oven and fridge interiors are optional add-ons. Floors are cleaned edge to edge, and baseboards, door frames, fixtures, and window sills are detailed. Full list on our checklist page.",
   },
   {
     question: "Does the apartment need to be empty?",
@@ -106,7 +106,7 @@ const faqs = [
   {
     question: "How much does move-in cleaning cost?",
     answer:
-      "Studios run $180 to $240, one-bedrooms $220 to $300, two-bedrooms $280 to $380, and three-bedrooms and larger start around $380. Appliance and cabinet interiors are already included in those figures.",
+      "Studios run $180 to $240, one-bedrooms $220 to $300, two-bedrooms $280 to $380, and three-bedrooms and larger start around $380. Cabinet and closet interiors are included in those figures; oven and fridge interiors are add-ons.",
   },
   {
     question: "Can you get the keys from my landlord or agent?",
@@ -142,8 +142,8 @@ export default function MoveInCleaningPage() {
         <Hero
           eyebrow="Move in cleaning"
           title="Move In Cleaning Services in Boston, MA"
-          subtitle="A complete empty-home clean between key handoff and the moving truck. Cabinets, closets, oven, fridge, tile, and every floor edge, so the first thing you unpack into is clean."
-          highlights={["Appliance and cabinet interiors included", "Scheduled around your movers", "Key pickup from agents or lockboxes", "September 1 slots held early"]}
+          subtitle="A complete empty-home clean between key handoff and the moving truck. Cabinets, closets, tile, and every floor edge, so the first thing you unpack into is clean."
+          highlights={["Cabinet and closet interiors included", "Scheduled around your movers", "Key pickup from agents or lockboxes", "September 1 slots held early"]}
           breadcrumbs={[
             { name: "Home", href: "/" },
             { name: "Services", href: "/#services" },
@@ -160,7 +160,7 @@ export default function MoveInCleaningPage() {
         />
         <PricingTable
           title="Move-in cleaning prices in Boston"
-          intro="Flat rates by unit size, with interior appliance and cabinet cleaning already included."
+          intro="Flat rates by unit size, with cabinet and closet interiors included."
           table={movePricing}
           defaultService={KEY}
         />

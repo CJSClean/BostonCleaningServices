@@ -29,11 +29,11 @@ export const metadata: Metadata = {
 };
 
 const intro = [
-  "A deep clean is what happens when you stop cleaning around things and start cleaning them. It is the visit where the stove gets pulled forward, the vent covers come off, the grout gets scrubbed instead of wiped, and the dust on top of the kitchen cabinets that nobody has seen in three years finally leaves the building. Our Boston deep cleaning service is a scheduled, methodical version of that, done by a trained two-person team in a single visit.",
+  "A deep clean is what happens when you stop cleaning around things and start cleaning them. It is the visit where the stove gets pulled forward, the vent covers come off, the grout gets scrubbed instead of wiped, and the dust on top of the kitchen cabinets that nobody has seen in three years finally leaves the building. Our Boston deep cleaning service is a scheduled, methodical version of that, done by a trained team in a single visit.",
   "Boston homes accumulate a particular kind of grime. Winter brings road salt and sand tracked onto every floor. Forced hot water radiators bake dust onto the fins. Older windows let in a steady film of city particulate that settles on sills and blinds. Add a summer of open windows and pollen, and by fall most homes have a layer that routine cleaning simply does not lift. A deep clean resets that baseline.",
   "The checklist includes everything in a routine visit plus the detail work: baseboards wiped by hand, doors and frames cleaned, light fixtures and ceiling fans dusted, range hood degreased, cabinet exteriors washed, tile grout scrubbed, shower tracks detailed, interior window glass cleaned, and furniture moved so floors can be vacuumed and mopped underneath. Inside the oven and refrigerator can be added if you want the kitchen fully reset.",
   "Most customers book a deep clean in one of four situations: before starting a recurring plan, ahead of hosting or a major holiday, after a period of illness or renovation, or once or twice a year as a seasonal reset. Landlords and property managers also use it between tenants when a full move-out clean is not needed. Whatever the reason, the pricing is flat and set before the team arrives.",
-  "Expect a deep clean of a two-bedroom apartment to take roughly four hours with two cleaners, and a three- or four-bedroom house closer to five or six. We do not rush it. If the home is in rougher shape than described, we tell you before starting and agree on any adjustment. When the team leaves, you should notice the difference in every room, not just the ones you were worried about.",
+  "Expect a deep clean of a two-bedroom apartment to take roughly four hours, and a three- or four-bedroom house closer to five or six. We do not rush it. If the home is in rougher shape than described, we tell you before starting and agree on any adjustment. When the team leaves, you should notice the difference in every room, not just the ones you were worried about.",
 ];
 
 const scenarios = [
@@ -96,12 +96,12 @@ const faqs = [
   {
     question: "How long does a deep clean take?",
     answer:
-      "Roughly four hours for a two-bedroom apartment and five to six for a mid-size house with a two-person team. We give you an estimated window when booking and text when the team finishes.",
+      "Roughly four hours for a two-bedroom apartment and five to six for a mid-size house with our team. We give you an estimated window when booking and text when the team finishes.",
   },
   {
     question: "Does a deep clean include inside the oven and refrigerator?",
     answer:
-      "They are optional add-ons on a deep clean so you only pay for them if you want them. On move-in and move-out cleans they are included automatically.",
+      "They are optional add-ons on a deep clean so you only pay for them if you want them. The same is true for move-in and move-out cleans.",
   },
   {
     question: "Should I do a deep clean before starting weekly service?",

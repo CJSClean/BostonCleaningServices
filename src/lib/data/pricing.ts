@@ -56,7 +56,7 @@ export const movePricing: PriceTable = {
     { label: "Three bedroom+", values: ["$380 - $500+"] },
   ],
   footnote:
-    "Pricing assumes an empty unit with working utilities. Interior fridge, oven, and cabinet cleaning are included at no extra charge.",
+    "Pricing assumes an empty unit with working utilities. Cabinet and closet interiors are included; inside the oven and refrigerator are optional add-ons.",
 };
 
 export const constructionPricing: PriceTable = {

@@ -56,7 +56,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How long does it take to clean a four-story Beacon Hill townhouse?",
         answer:
-          "A two-person team typically spends three to four hours on a routine visit and six or more on a deep clean, depending on the number of bathrooms and the condition of the home.",
+          "A team typically spends three to four hours on a routine visit and six or more on a deep clean, depending on the number of bathrooms and the condition of the home.",
       },
       {
         question: "Are you careful on antique pine floors?",
@@ -126,7 +126,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Single-family and two-family houses in Cambridge cluster west of Harvard Square, in Agassiz, Huron Village, and along the tree-lined streets of Mid-Cambridge. Many are Victorians or early twentieth-century homes with narrow-strip hardwood, built-in bookcases, original woodwork, and radiators under every window. Our house cleaning teams work those surfaces the right way: dry-mopping wood before a damp pass, dusting radiator fins by hand, and skipping harsh chemicals on painted trim.",
       "Cambridge schedules rarely match the standard work week. Academic terms, grant deadlines, conference travel, and sabbaticals all shape when a home needs cleaning and when it does not. Our recurring plans pause and resume around that, holding your standing slot and your rate for breaks of up to eight weeks. A one-time clean before visiting family or a department gathering can usually be placed within the same week.",
-      "Cambridge homeowners ask about ingredients more than anyone else we serve, and we welcome the question. Our standard kit is professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra cost and is saved to your account as a permanent preference. Every visit is a two-person team with a consistent lead cleaner, a flat price, and a 24-hour re-clean guarantee.",
+      "Cambridge homeowners ask about ingredients more than anyone else we serve, and we welcome the question. Our standard kit is professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra cost and is saved to your account as a permanent preference. Every visit comes with a consistent lead cleaner, a flat price, and a 24-hour re-clean guarantee.",
     ],
     faqs: [
       {
@@ -232,13 +232,13 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
   newton: {
     title: "House Cleaning Newton MA",
     description:
-      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured two-person teams, school-hour scheduling, flat quotes.",
+      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured local teams, school-hour scheduling, flat quotes.",
     h1: "House Cleaning in Newton, MA",
     subtitle:
       "Center-entrance colonials in Waban, Tudors in Chestnut Hill, new builds in Newton Centre. Larger homes need longer appointments and a quote that includes every finished room. Ours do.",
     introTitle: "House cleaning at Newton scale",
     intro: [
-      "Newton homes are big. Four and five bedrooms, two or three full bathrooms, a finished basement, a mudroom, a home office, and often a third-floor guest room are standard across the thirteen villages. Our house cleaning appointments here are scheduled for that reality, with a two-person team working upstairs to down in a logical sequence and a quote that includes every finished space from the start, so there are no mid-visit questions about what counts.",
+      "Newton homes are big. Four and five bedrooms, two or three full bathrooms, a finished basement, a mudroom, a home office, and often a third-floor guest room are standard across the thirteen villages. Our house cleaning appointments here are scheduled for that reality, with the team working upstairs to down in a logical sequence and a quote that includes every finished space from the start, so there are no mid-visit questions about what counts.",
       "Family life shapes the work. Kitchens run all day. Bathrooms are shared. The entry takes the full force of a Massachusetts winter. Our checklist emphasizes high-touch surfaces and our teams organize toys and gear rather than pushing them aside. Pets are common and our cleaners lift fur from runners and upholstery as a matter of course. A plant-based product line is available for households that prefer it, at no extra charge.",
       "Older Newton homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and a lot of glass. Our teams are trained on both. The most requested window is weekday mornings during school hours, and recurring customers hold a standing slot with a consistent lead cleaner who learns the house. Every visit is flat-priced with a 24-hour re-clean guarantee.",
     ],
@@ -256,7 +256,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How long does a routine visit take for a larger Newton home?",
         answer:
-          "Roughly three to four hours with a two-person team. Deep cleans run five to seven hours. We schedule generously so nothing is rushed.",
+          "Roughly three to four hours with our team. Deep cleans run five to seven hours. We schedule generously so nothing is rushed.",
       },
       {
         question: "Can you clean during school hours?",

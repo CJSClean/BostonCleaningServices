@@ -29,7 +29,7 @@ const levels = [
   },
   {
     name: "Move in / move out",
-    text: "The deep clean applied to an empty home, with the insides of cabinets, drawers, closets, the oven, and the refrigerator added.",
+    text: "The deep clean applied to an empty home, with the insides of cabinets, drawers, and closets added. Oven and fridge interiors are add-ons.",
   },
 ];
 
@@ -37,7 +37,7 @@ const faqs = [
   {
     question: "Can I customize the checklist?",
     answer:
-      "Yes. Tell us about priorities or areas to skip when you book, and we attach the notes to your account so every team sees them. Add-ons such as inside the oven or interior windows can be added to any routine visit for a set fee.",
+      "Yes. Tell us about priorities or areas to skip when you book, and we attach the notes to your account so every team sees them. Add-ons such as inside the oven or interior windows can be added to any visit, including deep and move cleans, for a set fee.",
   },
   {
     question: "Why is a deep clean recommended for a first visit?",

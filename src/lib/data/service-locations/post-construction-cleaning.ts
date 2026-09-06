@@ -240,7 +240,7 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
     intro: [
       "Newton has more new construction and major renovation than almost any community in the area: teardown rebuilds replacing older homes, second-story additions, kitchen and bath guts, and basement finishes. New construction arrives with protective film on every fixture and a layer of silica dust on every horizontal surface. Renovations fill occupied homes with drywall dust that migrates into bedrooms and closets far from the work. Our post-construction clean covers the whole house on every level.",
       "The sequence is HEPA vacuuming from ceiling to floor throughout the home first, so fine particles are captured. Then walls, trim, and every horizontal surface are wiped. New cabinets are cleaned inside and out. Grout haze is removed from new tile. Film and adhesive come off appliances, fixtures, and glass. Paint specks are dissolved from hardware and windows. Floors are vacuumed again and damp-mopped with the right product for wide-plank, hardwood, or tile. Vent covers and registers are cleaned because a new HVAC system will shed dust for days.",
-      "We work with Newton homeowners and with the builders and general contractors who want a clean handover before a client walkthrough or closing. Insurance certificates, W-9s, and invoices to the GC are routine. Most projects need a rough clean, a final clean after the punch list, and a touch-up pass. A four-bedroom new build takes a two-person team more than a full day. Quotes are per project, based on square footage and scope, from photos or a walkthrough.",
+      "We work with Newton homeowners and with the builders and general contractors who want a clean handover before a client walkthrough or closing. Insurance certificates, W-9s, and invoices to the GC are routine. Most projects need a rough clean, a final clean after the punch list, and a touch-up pass. A four-bedroom new build takes our team more than a full day. Quotes are per project, based on square footage and scope, from photos or a walkthrough.",
     ],
     faqs: [
       {
@@ -261,7 +261,7 @@ export const postConstructionCleaningCopy: Record<string, ServiceLocationCopy> =
       {
         question: "How long does a new-construction final clean take?",
         answer:
-          "A four-bedroom home takes a two-person team more than a full day, often split across two days with a touch-up pass later.",
+          "A four-bedroom home takes our team more than a full day, often split across two days with a touch-up pass later.",
       },
     ],
     ctaTitle: "Get a Newton post-construction quote",

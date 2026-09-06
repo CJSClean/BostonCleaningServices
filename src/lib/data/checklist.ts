@@ -40,8 +40,6 @@ export const checklist: ChecklistRoom[] = [
       { task: "Dust and wipe baseboards", routine: false, deep: true, move: true },
       { task: "Clean pantry floor and shelves", routine: false, deep: false, move: true },
       { task: "Wipe insides of cabinets and drawers", routine: false, deep: false, move: true },
-      { task: "Clean inside oven", routine: false, deep: false, move: true },
-      { task: "Clean inside refrigerator", routine: false, deep: false, move: true },
     ],
   },
   {

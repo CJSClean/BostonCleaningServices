@@ -30,7 +30,7 @@ export const metadata: Metadata = {
 };
 
 const intro = [
-  "Keeping a Boston house clean is a different job than keeping an apartment clean. There are more floors, more bathrooms, a basement door that tracks in grit, a mudroom full of winter boots, and usually a kitchen that works harder than any other room in the home. Our house cleaning service is built around that reality. Two cleaners, a fixed checklist, and enough time on the schedule to do every room properly instead of racing the clock.",
+  "Keeping a Boston house clean is a different job than keeping an apartment clean. There are more floors, more bathrooms, a basement door that tracks in grit, a mudroom full of winter boots, and usually a kitchen that works harder than any other room in the home. Our house cleaning service is built around that reality. A trained crew, a fixed checklist, and enough time on the schedule to do every room properly instead of racing the clock.",
   "Most of our house cleaning customers live in the neighborhoods where single-family and two-family homes dominate: Newton, Brookline, Jamaica Plain, West Roxbury, Cambridge west of Harvard Square, and the quieter streets of Somerville and Charlestown. These are homes with hardwood that needs the right mop solution, radiators that collect dust, and original woodwork that should never see an abrasive pad. Our teams are trained on those surfaces specifically.",
   "A routine visit covers every room top to bottom: dusting from light fixtures down, kitchen counters and appliance exteriors, full bathroom sanitizing, beds made, floors vacuumed and mopped. Deep clean tasks such as baseboards, inside the oven, and interior windows are available as add-ons or as a scheduled deep clean, and we recommend one before starting a recurring plan if the house has not had professional attention in a while.",
   "You choose the rhythm. Weekly service suits large families and homes with pets. Biweekly is the most common choice and keeps a typical three- or four-bedroom house in steady shape. Monthly works for smaller households that maintain between visits. Whatever you pick, we assign a consistent lead cleaner so the team learns your home, your preferences, and where the dog likes to hide.",
@@ -62,9 +62,9 @@ const scenarios = [
 
 const benefits = [
   {
-    title: "Two cleaners, one lead, every visit",
+    title: "Right-sized crew, one consistent lead",
     description:
-      "A pair moves through a house faster and checks each other's work. Your lead cleaner stays the same on recurring plans so instructions do not have to be repeated.",
+      "We size the crew to the home, and cleaners check each other's work. Your lead cleaner stays the same on recurring plans so instructions do not have to be repeated.",
   },
   {
     title: "Trained on old-house surfaces",
@@ -87,7 +87,7 @@ const faqs = [
   {
     question: "How long does a house cleaning take?",
     answer:
-      "A two-person team spends roughly two to three hours on a three-bedroom, two-bath home for a routine visit. Larger homes or first visits run longer. We schedule generously so the team is never rushing to the next job.",
+      "The team spends roughly two to three hours on a three-bedroom, two-bath home for a routine visit. Larger homes or first visits run longer. We schedule generously so the team is never rushing to the next job.",
   },
   {
     question: "Do I need to be home?",

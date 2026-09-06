@@ -71,6 +71,9 @@ export default function ChecklistTable() {
           </tbody>
         </table>
       </div>
+      <p className="mt-5 text-sm text-muted">
+        <span className="font-semibold text-ink">Add-ons for any visit:</span> inside the oven, inside the refrigerator, interior windows on routine visits, and wall washing. Each is quoted as a set fee when you book.
+      </p>
     </Section>
   );
 }

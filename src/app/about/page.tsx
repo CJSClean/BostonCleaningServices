@@ -46,7 +46,7 @@ const values = [
 ];
 
 const promises = [
-  "Two-person, background-checked teams on every job",
+  "Background-checked, insured teams on every job",
   "Same lead cleaner for recurring customers whenever possible",
   "All equipment and supplies included, with a fragrance-free option",
   "A text when we arrive and a text when we finish",

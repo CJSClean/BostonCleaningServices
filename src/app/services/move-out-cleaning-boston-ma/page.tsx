@@ -24,16 +24,16 @@ const KEY = "move-out-cleaning";
 export const metadata: Metadata = {
   title: "Move Out Cleaning Boston MA",
   description:
-    "Move-out cleaning in Boston, MA aimed at the landlord walkthrough: inside oven, fridge, cabinets, closets, tile, and floors.",
+    "Move-out cleaning in Boston, MA aimed at the landlord walkthrough: inside cabinets, closets, tile, and floors.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 
 const intro = [
   "Massachusetts law lets landlords deduct cleaning costs from a security deposit when a unit is left in worse condition than reasonable wear allows, and Boston landlords apply that rule with enthusiasm. A move-out clean is the cheapest insurance against losing a deposit that often equals a full month's rent. Our service is designed around the inspection itself: the places property managers check first, checked by us first.",
-  "The inspection sheet is predictable. Inside the oven. Inside the refrigerator and freezer. Cabinet shelves and drawers. Bathroom grout, tub ring, and the base of the toilet. Closet floors and shelves. Window sills and blinds. Baseboards and the floor along the wall where the bed used to be. Our teams work from a move-out checklist that mirrors those items and photograph the finished rooms so you have a record if a dispute arises.",
+  "The inspection sheet is predictable. Cabinet shelves and drawers. Bathroom grout, tub ring, and the base of the toilet. Closet floors and shelves. Window sills and blinds. Baseboards and the floor along the wall where the bed used to be. Our teams work from a move-out checklist that mirrors those items and photograph the finished rooms so you have a record if a dispute arises.",
   "We recommend booking the clean for after your belongings are out and before the final walkthrough, ideally the day before you hand over keys. An empty unit lets us reach every surface, and finishing a day early leaves room for a touch-up if something is spotted. If the lease ends on August 31 or September 1, book two to three weeks ahead. Those days are the busiest of the year for every cleaner in the city.",
   "Landlords, property managers, and real estate agents are a large part of our move-out clientele. We handle turnover cleans between tenants, coordinate key pickup and return, and can email a completion summary with photos directly to the owner. For tenants, we provide a receipt that many landlords accept as proof of professional cleaning.",
-  "Pricing is flat by unit size and already includes appliance interiors, cabinets, and closets, so there is no menu of add-ons to worry about while you are managing a move. A two-person team completes most one-bedroom move-out cleans in about three hours. Trash removal beyond a few bags, wall repairs, and carpet shampooing are outside the scope but we can point you to providers.",
+  "Pricing is flat by unit size and already includes cabinets and closets, so the only add-on decision is whether to include the oven and fridge interiors. Most one-bedroom move-out cleans take about three hours. Trash removal beyond a few bags, wall repairs, and carpet shampooing are outside the scope but we can point you to providers.",
 ];
 
 const scenarios = [
@@ -66,9 +66,9 @@ const benefits = [
       "Our move-out checklist follows the items landlords and managers check most. Photos of each finished room are available on request for your records.",
   },
   {
-    title: "Nothing extra to add",
+    title: "One flat price, one decision",
     description:
-      "Oven, fridge, cabinets, drawers, closets, and window sills are included in the flat price. Move-day decisions are stressful enough without an upsell.",
+      "Cabinets, drawers, closets, and window sills are included in the flat price. Inside the oven and refrigerator are the only optional add-ons, quoted up front.",
   },
   {
     title: "Key handling and remote coordination",
@@ -91,7 +91,7 @@ const faqs = [
   {
     question: "What is included in a move-out cleaning?",
     answer:
-      "Everything in a deep clean plus inside the oven, refrigerator, freezer, cabinets, drawers, and closets. Floors are cleaned to the edges, and baseboards, sills, fixtures, and switch plates are detailed. The full list is on our checklist page.",
+      "Everything in a deep clean plus inside cabinets, drawers, and closets. Oven and fridge interiors are optional add-ons. Floors are cleaned to the edges, and baseboards, sills, fixtures, and switch plates are detailed. The full list is on our checklist page.",
   },
   {
     question: "Does the unit need to be empty?",
@@ -101,7 +101,7 @@ const faqs = [
   {
     question: "How much does move-out cleaning cost in Boston?",
     answer:
-      "Studios $180 to $240, one-bedrooms $220 to $300, two-bedrooms $280 to $380, and three-bedrooms and larger from $380. Prices include appliance and cabinet interiors and are confirmed before booking.",
+      "Studios $180 to $240, one-bedrooms $220 to $300, two-bedrooms $280 to $380, and three-bedrooms and larger from $380. Prices include cabinet and closet interiors and are confirmed before booking; oven and fridge interiors are add-ons.",
   },
   {
     question: "Can you remove trash and leftover items?",
@@ -147,8 +147,8 @@ export default function MoveOutCleaningPage() {
         <Hero
           eyebrow="Move out cleaning"
           title="Move Out Cleaning Services in Boston, MA"
-          subtitle="A lease-end clean built around the landlord walkthrough. Oven, fridge, cabinets, closets, tile, and floors, done the day before you hand over keys, with photos for your records."
-          highlights={["Inspection-focused checklist", "Appliance and cabinet interiors included", "Photo summary on request", "Landlord and agent bookings welcome"]}
+          subtitle="A lease-end clean built around the landlord walkthrough. Cabinets, closets, tile, and floors, done the day before you hand over keys, with photos for your records."
+          highlights={["Inspection-focused checklist", "Cabinet and closet interiors included", "Photo summary on request", "Landlord and agent bookings welcome"]}
           breadcrumbs={[
             { name: "Home", href: "/" },
             { name: "Services", href: "/#services" },
@@ -165,7 +165,7 @@ export default function MoveOutCleaningPage() {
         />
         <PricingTable
           title="Move-out cleaning prices in Boston"
-          intro="Flat by unit size, interiors included, confirmed before you book."
+          intro="Flat by unit size, cabinet and closet interiors included, confirmed before you book."
           table={movePricing}
           defaultService={KEY}
         />

@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "In the Navy Yard, the work is about glass, stone, and coordination. Floor-to-ceiling windows facing the harbor show every streak. Quartz and granite counters need the right product. Buildings require insurance certificates and freight elevator bookings, and concierges expect vendors to check in. We handle every piece of that before the visit so you can leave a key at the desk and go about your day.",
     "Charlestown households skew toward young families and professionals commuting to the Financial District or across the bridge to Kendall. Biweekly plans are the most common choice, keeping a three-bedroom townhouse or two-bedroom condo in shape between busy weeks. Weekly service suits families with toddlers, and monthly visits work for the many single-occupant condos near the water.",
     "Parking on the hill is resident-permit only and the streets are narrow enough that our vans plan a specific stopping strategy for each block. Teams arrive with everything they need and carry it up as many flights as necessary. None of this appears in the quote, which is based purely on the size and condition of your home.",
-    "Deep cleans and move cleans follow the neighborhood's rhythm: spring resets after a harbor winter, pre-holiday cleans before family arrives, and turnover cleans around the first of the month for the rental units that fill Charlestown's triple-deckers. Every visit comes with a flat price, a two-person team, arrival and finish texts, and our 24-hour re-clean guarantee.",
+    "Deep cleans and move cleans follow the neighborhood's rhythm: spring resets after a harbor winter, pre-holiday cleans before family arrives, and turnover cleans around the first of the month for the rental units that fill Charlestown's triple-deckers. Every visit comes with a flat price, a trained team, arrival and finish texts, and our 24-hour re-clean guarantee.",
   ],
   servicesTitle: "Cleaning services available in Charlestown",
   servicesIntro: "Townhouse or waterfront condo, each service is priced for the home. Open one for Charlestown-specific notes.",
@@ -85,7 +85,7 @@ const content: AreaPageContent = {
     {
       question: "Do you offer move-out cleaning for Charlestown rentals?",
       answer:
-        "Yes. Move-out cleans cover inside the oven, fridge, cabinets, and closets and are aimed at the landlord walkthrough. First-of-month dates book up quickly, so reserve early.",
+        "Yes. Move-out cleans cover inside cabinets and closets and are aimed at the landlord walkthrough. First-of-month dates book up quickly, so reserve early.",
     },
   ],
   ctaTitle: "Book a Charlestown cleaning this week",

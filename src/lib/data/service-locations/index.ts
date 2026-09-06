@@ -64,7 +64,7 @@ const shared: Record<string, ServiceShared> = {
     ],
     benefitsTitle: (l) => `Why ${l} homeowners keep us on the calendar`,
     benefits: [
-      { title: "Two cleaners, one consistent lead", description: "A pair moves through a house efficiently and checks each other's work. Your lead cleaner stays the same on recurring plans." },
+      { title: "Right-sized crew, one consistent lead", description: "We size the crew to the home, and cleaners check each other's work. Your lead cleaner stays the same on recurring plans." },
       { title: "Published checklist", description: "Every room's tasks are listed on this site. There is no guessing about whether the baseboards or the microwave were supposed to be done." },
       { title: "Flat pricing, no meter", description: "The quote is set before we arrive and does not change unless you add a service on the day." },
       { title: "24-hour guarantee", description: "Anything missed is re-cleaned free within 24 hours of your call or text." },
@@ -119,13 +119,13 @@ const shared: Record<string, ServiceShared> = {
     scenariosTitle: (l) => `Timing a move-in clean in ${l}`,
     scenarios: [
       { title: "Between keys and the moving truck", description: "The ideal slot. We clean the empty unit in the morning and your movers arrive after. We coordinate with agents and managers to make it work." },
-      { title: "After a landlord turnover clean", description: "Many turnover cleans are a quick wipe. If the oven, fridge, and cabinet shelves were skipped, we finish before you fill them." },
+      { title: "After a landlord turnover clean", description: "Many turnover cleans are a quick wipe. If the cabinet shelves and closets were skipped, we finish before you fill them, and the oven and fridge can be added." },
       { title: "New construction or renovation", description: "Contractors leave fine dust in every cabinet. A move-in clean after the punch list keeps it off your dishes." },
       { title: "After closing on a purchase", description: "Book for the day after closing and move in the following weekend to a home that feels like yours." },
     ],
     benefitsTitle: (l) => `Why ${l} movers book us first`,
     benefits: [
-      { title: "Appliance interiors included", description: "Oven, fridge, freezer, and microwave interiors are part of every move-in clean at no extra cost." },
+      { title: "Cabinets and closets, inside and out", description: "Every cabinet, drawer, and closet is cleaned inside and out. Inside the oven and refrigerator can be added to any move-in clean for a set fee." },
       { title: "Scheduled around your movers", description: "Give us the key time and the movers' window and we fit the clean between them." },
       { title: "Every shelf and drawer", description: "Empty storage is cleaned inside and out, including the top shelf you cannot reach yet." },
       { title: "Boston move-day fluent", description: "Permit parking, freight elevators, leasing-office key pickup, and the September 1 crush are routine for our coordinators." },
@@ -146,7 +146,7 @@ const shared: Record<string, ServiceShared> = {
     benefitsTitle: (l) => `Why departing ${l} tenants use us`,
     benefits: [
       { title: "Built around the inspection", description: "Our checklist follows the items landlords check most, and photos of each finished room are available on request." },
-      { title: "Nothing extra to add", description: "Oven, fridge, cabinets, drawers, and closets are all included in the flat price." },
+      { title: "One flat price", description: "Cabinets, drawers, and closets are all included in the flat price. Oven and fridge interiors are the only optional add-ons." },
       { title: "Remote coordination", description: "Already moved? We collect and return keys via lockbox or leasing office and confirm completion by text and email." },
       { title: "Turnover experience everywhere", description: "From student blocks to concierge towers, our coordinators have handled the building's move-out rules before." },
     ],
