@@ -70,7 +70,7 @@ export function generateLocalBusinessSchema(areaServed?: string[]) {
     email: SITE_CONFIG.email,
     address: postalAddress(),
     sameAs: SOCIAL_PROFILES.map((p) => p.url),
-    geo: { "@type": "GeoCoordinates", latitude: 42.3554, longitude: -71.0605 },
+    geo: { "@type": "GeoCoordinates", latitude: 42.3418, longitude: -71.1212 },
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",

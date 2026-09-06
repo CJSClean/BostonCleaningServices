@@ -7,11 +7,12 @@ export const SITE_CONFIG = {
   phone: "(857) 356-4857",
   phoneHref: "tel:+18573564857",
   email: "contact@bostoncleaningservices.com",
-  // Leave empty to omit a street address from schema and the footer.
-  streetAddress: "",
-  city: "Boston",
+  // Leave streetAddress empty to omit the address from schema and the footer.
+  streetAddress: "233 Harvard St Suite 237",
+  city: "Brookline",
   state: "MA",
-  postalCode: "",
+  postalCode: "02446",
+  addressLine: "233 Harvard St Suite 237, Brookline, MA 02446",
   hours: "Open 24/7, every day of the year",
   hoursShort: "Open 24/7",
   rating: "5.0",
@@ -22,6 +23,7 @@ export const SITE_CONFIG = {
 export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/bostoncleaningservices1/",
   facebook: "https://www.facebook.com/profile.php?id=61593781965617",
+  linkedin: "https://www.linkedin.com/company/bostoncleaningservices/",
   google: "",
   yelp: "",
 };

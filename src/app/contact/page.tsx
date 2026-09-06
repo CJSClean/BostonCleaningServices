@@ -43,7 +43,7 @@ const details = [
   { icon: PhoneIcon, label: "Call or text", value: SITE_CONFIG.phone, href: SITE_CONFIG.phoneHref, sub: "Fastest way to reach a coordinator" },
   { icon: MailIcon, label: "Email", value: SITE_CONFIG.email, href: `mailto:${SITE_CONFIG.email}`, sub: "Replies within one business day" },
   { icon: ClockIcon, label: "Hours", value: SITE_CONFIG.hours, sub: "Cleanings and phone support" },
-  { icon: PinIcon, label: "Coverage", value: "Boston, Cambridge, Somerville, Brookline, Newton", sub: "Send your zip code to confirm" },
+  { icon: PinIcon, label: "Office", value: SITE_CONFIG.addressLine, sub: "Serving Boston, Cambridge, Somerville, Brookline, and Newton" },
 ];
 
 export default function ContactPage() {
@@ -107,8 +107,8 @@ export default function ContactPage() {
         </Section>
 
         <MapEmbed
-          query="Boston, MA"
-          title="Our service area at a glance"
+          query={SITE_CONFIG.addressLine}
+          title="Our office and service area"
           intro="Teams are dispatched across the city and the inner ring of suburbs every day of the week."
         />
 

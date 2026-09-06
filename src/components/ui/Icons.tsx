@@ -169,6 +169,15 @@ export function InstagramIcon({ className = "w-5 h-5" }: Props) {
   );
 }
 
+export function LinkedInIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <rect x="3" y="3" width="18" height="18" rx="2" />
+      <path d="M8 10v7M8 7v.5M12 17v-4a2 2 0 0 1 4 0v4M12 10v7" />
+    </svg>
+  );
+}
+
 export function FacebookIcon({ className = "w-5 h-5" }: Props) {
   return (
     <svg {...base} className={className}>
