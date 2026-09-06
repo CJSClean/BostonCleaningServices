@@ -18,12 +18,17 @@ export const SITE_CONFIG = {
   reviewCount: "300+",
 };
 
+// Only entries that are full URLs are rendered in the footer and schema.
 export const SOCIAL_LINKS = {
-  facebook: "/contact",
-  instagram: "/contact",
-  google: "/contact",
-  yelp: "/contact",
+  instagram: "https://www.instagram.com/bostoncleaningservices1/",
+  facebook: "https://www.facebook.com/profile.php?id=61593781965617",
+  google: "",
+  yelp: "",
 };
+
+export const SOCIAL_PROFILES = Object.entries(SOCIAL_LINKS)
+  .filter(([, url]) => url.startsWith("http"))
+  .map(([name, url]) => ({ name, url }));
 
 export const NAV_LINKS = {
   services: [

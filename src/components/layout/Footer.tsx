@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Logo from "@/components/ui/Logo";
-import { ClockIcon, MailIcon, PhoneIcon } from "@/components/ui/Icons";
-import { NAV_LINKS, SITE_CONFIG } from "@/lib/constants";
+import { ClockIcon, FacebookIcon, InstagramIcon, MailIcon, PhoneIcon } from "@/components/ui/Icons";
+import { NAV_LINKS, SITE_CONFIG, SOCIAL_PROFILES } from "@/lib/constants";
 import { services } from "@/lib/data/services";
 
 export default function Footer() {
@@ -30,6 +30,23 @@ export default function Footer() {
                 <ClockIcon className="h-4 w-4 text-brick" /> {SITE_CONFIG.hours}
               </li>
             </ul>
+            {SOCIAL_PROFILES.length > 0 && (
+              <ul className="mt-6 flex items-center gap-3">
+                {SOCIAL_PROFILES.map((p) => (
+                  <li key={p.name}>
+                    <a
+                      href={p.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Boston Cleaning Services on ${p.name.charAt(0).toUpperCase()}${p.name.slice(1)}`}
+                      className="flex h-9 w-9 items-center justify-center rounded-lg border border-line text-navy transition-colors hover:border-navy hover:bg-navy hover:text-white"
+                    >
+                      {p.name === "instagram" ? <InstagramIcon className="h-4 w-4" /> : <FacebookIcon className="h-4 w-4" />}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
           </div>
 
           <div className="lg:col-span-3">

@@ -1,4 +1,4 @@
-import { SITE_CONFIG, SITE_URL } from "./constants";
+import { SITE_CONFIG, SITE_URL, SOCIAL_PROFILES } from "./constants";
 
 const ORG_ID = `${SITE_URL}/#organization`;
 const BUSINESS_ID = `${SITE_URL}/#business`;
@@ -42,6 +42,7 @@ export function generateOrganizationSchema() {
     telephone: SITE_CONFIG.phone,
     email: SITE_CONFIG.email,
     address: postalAddress(),
+    sameAs: SOCIAL_PROFILES.map((p) => p.url),
   };
 }
 
@@ -68,6 +69,7 @@ export function generateLocalBusinessSchema(areaServed?: string[]) {
     telephone: SITE_CONFIG.phone,
     email: SITE_CONFIG.email,
     address: postalAddress(),
+    sameAs: SOCIAL_PROFILES.map((p) => p.url),
     geo: { "@type": "GeoCoordinates", latitude: 42.3554, longitude: -71.0605 },
     openingHoursSpecification: [
       {

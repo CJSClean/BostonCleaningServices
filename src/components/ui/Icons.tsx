@@ -158,3 +158,21 @@ export function ServiceGlyph({ icon, className = "w-8 h-8" }: { icon: ServiceIco
       );
   }
 }
+
+export function InstagramIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4" />
+      <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
+export function FacebookIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <path d="M14 8h2.5V5H14a3.5 3.5 0 0 0-3.5 3.5V11H8v3h2.5v7h3v-7H16l.5-3h-3V8.8c0-.5.3-.8.5-.8z" />
+    </svg>
+  );
+}
