@@ -15,7 +15,7 @@ import { generateAboutPageSchema, generateBreadcrumbSchema, SchemaScript } from 
 export const metadata: Metadata = {
   title: "About Boston Cleaning Services",
   description:
-    "Meet Boston Cleaning Services, a locally run cleaning company with employee cleaners, upfront pricing, and a 100% satisfaction guarantee across Greater Boston...",
+    "Meet Boston Cleaning Services, a locally run cleaning company with employee cleaners, upfront pricing, and a 100% satisfaction guarantee in Greater Boston...",
   alternates: { canonical: `${SITE_URL}/about` },
 };
 

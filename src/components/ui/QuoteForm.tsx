@@ -12,6 +12,17 @@ interface QuoteFormProps {
   submitLabel?: string;
 }
 
+const SOURCES = [
+  "Google Search",
+  "Facebook",
+  "Instagram",
+  "Nextdoor",
+  "Thumbtack",
+  "Yelp",
+  "Friend / Family Referral",
+  "Other",
+];
+
 const inputClass =
   "w-full rounded-lg border border-line bg-paper px-4 py-3 text-sm text-ink placeholder:text-muted/70 focus:border-navy focus:outline-none focus:ring-2 focus:ring-navy/15";
 
@@ -28,6 +39,7 @@ export default function QuoteForm({
     email: "",
     zip: "",
     service: defaultService,
+    source: "",
     message: "",
     "bot-field": "",
   });
@@ -90,6 +102,15 @@ export default function QuoteForm({
           <option value="" disabled>What do you need cleaned?</option>
           {services.map((s) => (
             <option key={s.key} value={s.key}>{s.name}</option>
+          ))}
+        </select>
+      </div>
+      <div>
+        <label htmlFor="q-source" className="sr-only">How did you find us?</label>
+        <select id="q-source" name="source" required value={data.source} onChange={update} className={`${inputClass} ${data.source ? "" : "text-muted/70"}`}>
+          <option value="" disabled>How did you find us?</option>
+          {SOURCES.map((o) => (
+            <option key={o} value={o}>{o}</option>
           ))}
         </select>
       </div>

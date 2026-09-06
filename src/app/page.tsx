@@ -128,7 +128,6 @@ export default function HomePage() {
             "All supplies and equipment included",
             "Weekly, biweekly, monthly, or one-time",
           ]}
-          withForm
         />
         <TrustStrip />
 

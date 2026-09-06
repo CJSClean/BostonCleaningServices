@@ -61,6 +61,7 @@ export default function ContactPage() {
       <PageShell>
         <Hero
           eyebrow="Contact"
+          withForm={false}
           title="Contact Boston Cleaning Services"
           subtitle="Send the form, text, or call. Tell us the size of your place and what you need, and you will have an upfront price and open time slots shortly after."
           breadcrumbs={[
