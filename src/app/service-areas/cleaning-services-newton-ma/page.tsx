@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "Newton, Norfolk County",
-  h1: "Cleaning Services in Newton, MA",
+  h1: "Professional Cleaning Services in Newton, MA",
   subtitle:
     "Four-bedroom colonials in Waban, capes in Newtonville, new construction in Newton Centre. Our Newton teams are sized and scheduled for larger homes, with flat pricing and a lead cleaner who stays with you.",
   highlights: ["All thirteen villages covered", "Sized for 3,000+ square foot homes", "Finished basements and mudrooms included", "Weekly and biweekly plans"],

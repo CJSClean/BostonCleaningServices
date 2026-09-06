@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "Somerville, Middlesex County",
-  h1: "Cleaning Services in Somerville, MA",
+  h1: "Professional Cleaning Services in Somerville, MA",
   subtitle:
     "The densest city in New England is mostly triple-deckers, and we know them floor by floor. From Davis to Assembly Row, flat pricing, flexible scheduling, and teams who carry the vacuum up three flights.",
   highlights: ["Triple-decker specialists", "Roommate and sublet friendly", "Green Line Extension neighborhoods covered", "Same-week first visits"],

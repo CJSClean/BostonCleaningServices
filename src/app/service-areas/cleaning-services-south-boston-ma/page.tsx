@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "South Boston & the Seaport",
-  h1: "Cleaning Services in South Boston, MA",
+  h1: "Professional Cleaning Services in South Boston, MA",
   subtitle:
     "Glass towers in the Seaport, brick lofts in Fort Point, and three-deckers from Andrew Square to City Point. Our South Boston teams handle building rules, harbor-side windows, and old Southie floors alike.",
   highlights: ["Seaport concierge buildings", "Fort Point lofts and triple-deckers", "Floor-to-ceiling glass done streak-free", "Flat quotes, same-week slots"],

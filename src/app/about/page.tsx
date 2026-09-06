@@ -68,7 +68,7 @@ export default function AboutPage() {
       <PageShell>
         <Hero
           eyebrow="About us"
-          title="A small Boston company with a very specific standard"
+          title="About Boston Cleaning Services"
           subtitle="We started Boston Cleaning Services because too many cleaning options in this city were either unreliable, anonymous, or priced by the hour with no ceiling. We wanted to run the company we would hire ourselves."
           breadcrumbs={[
             { name: "Home", href: "/" },

@@ -5,7 +5,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Back Bay Boston",
     description:
       "Recurring house cleaning for Back Bay brownstones and full-floor condos. Parquet, marble, and plaster handled correctly by insured local teams.",
-    h1: "House Cleaning in Back Bay, MA",
+    h1: "House Cleaning Services in Back Bay, MA",
     subtitle:
       "Full-floor and multi-level homes on the Commonwealth Avenue grid need cleaners who respect parquet, marble, and plaster. Ours have been doing exactly that for years.",
     introTitle: "Housekeeping for Back Bay's grandest floor plans",
@@ -43,7 +43,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Beacon Hill Boston",
     description:
       "House cleaning for Beacon Hill townhouses and multi-level homes. Two-hundred-year-old pine floors, steep stairs, and tight rooms handled by trained teams.",
-    h1: "House Cleaning in Beacon Hill, MA",
+    h1: "House Cleaning Services in Beacon Hill, MA",
     subtitle:
       "Federal townhouses on Mount Vernon and Chestnut Streets span four or five narrow floors. We clean them top to bottom with a light hand and a plan for every staircase.",
     introTitle: "Keeping a Beacon Hill townhouse in order, floor by floor",
@@ -81,7 +81,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Brookline MA",
     description:
       "Weekly and biweekly house cleaning for Brookline homes from Coolidge Corner to Fisher Hill. Pet-friendly insured teams, school-hour scheduling, flat quotes.",
-    h1: "House Cleaning in Brookline, MA",
+    h1: "House Cleaning Services in Brookline, MA",
     subtitle:
       "Victorians in Brookline Village, colonials on Fisher Hill, and two-families near Washington Square. Family homes on a family schedule, cleaned by a team that keeps its arrival window.",
     introTitle: "House cleaning that fits a Brookline family week",
@@ -119,7 +119,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Cambridge MA",
     description:
       "Recurring house cleaning in Cambridge, MA for Victorians near Harvard, two-families in Cambridgeport, and homes across all five zip codes.",
-    h1: "House Cleaning in Cambridge, MA",
+    h1: "House Cleaning Services in Cambridge, MA",
     subtitle:
       "Brattle Street Victorians, Agassiz two-families, and Huron Village colonials, cleaned by teams that dry-mop old hardwood and pause plans around semesters.",
     introTitle: "House cleaning for Cambridge homes and Cambridge calendars",
@@ -157,7 +157,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Charlestown Boston",
     description:
       "Recurring house cleaning for Charlestown townhouses around Monument Square and Bunker Hill. Exposed brick, pine floors, and steep stairs handled. Flat pricing.",
-    h1: "House Cleaning in Charlestown, MA",
+    h1: "House Cleaning Services in Charlestown, MA",
     subtitle:
       "Brick and clapboard townhouses on the hill, cleaned top to bottom by a team that plans for permit parking, steep stairs, and two-hundred-year-old floors.",
     introTitle: "House cleaning for Charlestown's hillside townhouses",
@@ -195,7 +195,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Jamaica Plain Boston",
     description:
       "House cleaning in Jamaica Plain for Victorians around the Pond, Sumner Hill homes, and owner-occupied triple-deckers.",
-    h1: "House Cleaning in Jamaica Plain, MA",
+    h1: "House Cleaning Services in Jamaica Plain, MA",
     subtitle:
       "Shingle-style homes on Pondside, Victorians on Sumner Hill, and owner-occupied triple-deckers off Centre Street, cleaned with the products you ask about and on the days you actually want.",
     introTitle: "House cleaning the Jamaica Plain way",
@@ -233,7 +233,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Newton MA",
     description:
       "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured local teams, school-hour scheduling, flat quotes.",
-    h1: "House Cleaning in Newton, MA",
+    h1: "House Cleaning Services in Newton, MA",
     subtitle:
       "Center-entrance colonials in Waban, Tudors in Chestnut Hill, new builds in Newton Centre. Larger homes need longer appointments and a quote that includes every finished room. Ours do.",
     introTitle: "House cleaning at Newton scale",
@@ -271,7 +271,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning Somerville MA",
     description:
       "House cleaning in Somerville, MA for two-families, owner-occupied triple-deckers, and single-family homes in Spring Hill, Ten Hills, and Winter Hill.",
-    h1: "House Cleaning in Somerville, MA",
+    h1: "House Cleaning Services in Somerville, MA",
     subtitle:
       "Owner-occupied two- and three-families in Spring Hill and Winter Hill, single-family homes in Ten Hills. Cleaned front to back by a team that knows the layouts and plans for permit parking.",
     introTitle: "House cleaning for Somerville's owner-occupants",
@@ -309,7 +309,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning South Boston",
     description:
       "House cleaning in South Boston for brick rowhouses, single-families near City Point, and owner-occupied three-deckers.",
-    h1: "House Cleaning in South Boston, MA",
+    h1: "House Cleaning Services in South Boston, MA",
     subtitle:
       "Rowhouses on East Broadway, single-families toward City Point and Marine Park, and owner-occupied three-deckers throughout Southie. Cleaned on your schedule, including evenings.",
     introTitle: "House cleaning for the old neighborhood south of Broadway",
@@ -347,7 +347,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "House Cleaning South End Boston",
     description:
       "House cleaning for South End rowhouses and multi-level homes around Union Park, Rutland Square, and Worcester Square. Marble, plaster, and hardwood done right.",
-    h1: "House Cleaning in the South End, MA",
+    h1: "House Cleaning Services in the South End, MA",
     subtitle:
       "Full bowfront rowhouses and multi-floor duplexes around the garden squares, cleaned top to bottom by a team trained on marble mantels, plaster medallions, and refinished hardwood.",
     introTitle: "House cleaning for the country's largest Victorian rowhouse district",

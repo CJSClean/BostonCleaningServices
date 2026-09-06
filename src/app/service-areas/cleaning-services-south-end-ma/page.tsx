@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "South End, Boston",
-  h1: "Cleaning Services in the South End, MA",
+  h1: "Professional Cleaning Services in the South End, MA",
   subtitle:
     "The largest Victorian rowhouse district in the country, plus SoWa lofts and Ink Block towers. Our South End teams clean bowfronts, garden levels, and penthouses with equal care and flat pricing.",
   highlights: ["Victorian bowfront specialists", "Garden-level and multi-floor units", "SoWa and Ink Block buildings", "Weekly to monthly plans"],

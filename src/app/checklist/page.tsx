@@ -73,7 +73,7 @@ export default function ChecklistPage() {
       <PageShell>
         <Hero
           eyebrow="Our checklist"
-          title="Exactly what a cleaning from us includes"
+          title="Our Boston House Cleaning Checklist"
           subtitle="No guessing about what the team will and will not do. This is the list every cleaner carries, broken down by room and by type of visit."
           breadcrumbs={[
             { name: "Home", href: "/" },

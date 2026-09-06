@@ -120,8 +120,8 @@ export default function HomePage() {
       <PageShell>
         <Hero
           eyebrow="Serving Boston and the inner suburbs"
-          title="Cleaning services in Boston that show up, finish, and get it right"
-          subtitle="House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Flat pricing, same-week slots, and a 24-hour re-clean guarantee."
+          title="Professional Cleaning Services in Boston, MA"
+          subtitle="Cleaning that shows up, finishes, and gets it right. House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Flat pricing, same-week slots, and a 24-hour re-clean guarantee."
           highlights={[
             "Background-checked, employee cleaners",
             "Flat quote before you book",

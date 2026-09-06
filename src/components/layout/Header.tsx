@@ -45,6 +45,35 @@ function Dropdown({
   );
 }
 
+type County = (typeof NAV_LINKS.locationsByCounty)[number];
+
+function CountyBlock({ county, columns = 1 }: { county: County; columns?: 1 | 2 }) {
+  return (
+    <div>
+      <Link
+        href={county.href}
+        className="group mb-2 flex items-center justify-between whitespace-nowrap text-sm font-semibold text-navy hover:text-brick"
+      >
+        {county.county}
+        <ChevronIcon className="h-3.5 w-3.5 -rotate-90 text-muted transition-colors group-hover:text-brick" />
+      </Link>
+      <ul className={columns === 2 ? "grid grid-cols-2 gap-x-4" : ""}>
+        {county.cities.map((c) => (
+          <li key={c.href}>
+            <Link
+              href={c.href}
+              className="flex items-center gap-2 rounded-md px-2 py-1.5 text-sm text-ink hover:bg-canvas hover:text-navy"
+            >
+              <PinIcon className="h-3.5 w-3.5 shrink-0 text-brick/70" />
+              {c.name}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
@@ -93,27 +122,21 @@ export default function Header() {
               </div>
             </Dropdown>
 
-            <Dropdown label="Service Areas">
-              <div className="grid grid-cols-3 gap-4">
-                {NAV_LINKS.locationsByCounty.map((county) => (
-                  <div key={county.county}>
-                    <Link
-                      href={county.href}
-                      className="mb-2 block text-xs font-semibold uppercase tracking-wider text-brick hover:underline"
-                    >
-                      {county.county}
-                    </Link>
-                    <ul className="space-y-1">
-                      {county.cities.map((c) => (
-                        <li key={c.href}>
-                          <Link href={c.href} className="block rounded px-1.5 py-1 text-sm text-ink hover:bg-canvas hover:text-navy">
-                            {c.name}
-                          </Link>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                ))}
+            <Dropdown label="Service Areas" wide>
+              <div className="grid grid-cols-3 gap-x-6 gap-y-5">
+                <div className="col-span-2 border-r border-line pr-6">
+                  <CountyBlock county={NAV_LINKS.locationsByCounty[0]} columns={2} />
+                </div>
+                <div className="space-y-5">
+                  <CountyBlock county={NAV_LINKS.locationsByCounty[1]} />
+                  <CountyBlock county={NAV_LINKS.locationsByCounty[2]} />
+                </div>
+              </div>
+              <div className="mt-4 flex items-center justify-between rounded-lg bg-canvas px-4 py-2.5 text-xs text-muted">
+                <span>Just outside these areas? Send your zip code and we will confirm.</span>
+                <Link href="/contact" className="font-semibold text-brick hover:underline">
+                  Check my address
+                </Link>
               </div>
             </Dropdown>
 

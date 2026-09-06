@@ -5,7 +5,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Back Bay Boston",
     description:
       "Apartment cleaning in Back Bay for brownstone walk-ups and full-service buildings near Copley and the Prudential.",
-    h1: "Apartment Cleaning in Back Bay, MA",
+    h1: "Apartment Cleaning Services in Back Bay, MA",
     subtitle:
       "Fourth-floor walk-ups on Marlborough Street and concierge towers on Boylston need different logistics and the same careful clean. We deliver both.",
     introTitle: "Apartment cleaning for Back Bay's two kinds of buildings",
@@ -43,7 +43,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Beacon Hill Boston",
     description:
       "Apartment cleaning on Beacon Hill for studios, garden-level units, and Charles Street walk-ups. Compact-space techniques and flat quotes from $110.",
-    h1: "Apartment Cleaning in Beacon Hill, MA",
+    h1: "Apartment Cleaning Services in Beacon Hill, MA",
     subtitle:
       "Studios under 500 square feet, garden-level one-bedrooms, and third-floor walk-ups with sloped ceilings. Small spaces with big character, cleaned by teams who know how to move in them.",
     introTitle: "Apartment cleaning in the tightest quarters in Boston",
@@ -81,7 +81,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Brookline MA",
     description:
       "Apartment and condo cleaning in Brookline, MA for brick buildings on Beacon and Harvard Streets, condo conversions, and elevator buildings near the Green Line.",
-    h1: "Apartment Cleaning in Brookline, MA",
+    h1: "Apartment Cleaning Services in Brookline, MA",
     subtitle:
       "Brick apartment blocks along Beacon Street, condo conversions in Coolidge Corner, and elevator buildings by Washington Square. Cleaned on a standing schedule by a team that keeps its window.",
     introTitle: "Apartment cleaning for North Brookline's dense blocks",
@@ -119,7 +119,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Cambridge MA",
     description:
       "Apartment cleaning across Cambridge, MA: triple-decker floors in Cambridgeport, brick buildings near Central, and Kendall Square condos.",
-    h1: "Apartment Cleaning in Cambridge, MA",
+    h1: "Apartment Cleaning Services in Cambridge, MA",
     subtitle:
       "Triple-decker floors in Cambridgeport, pre-war brick near Central Square, and glass condos over Kendall. One team, the right approach for each, and plans that pause around semesters.",
     introTitle: "Apartment cleaning across every Cambridge square",
@@ -157,7 +157,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Charlestown Boston",
     description:
       "Apartment cleaning in Charlestown for Navy Yard waterfront condos and units in hillside townhouses and triple-deckers.",
-    h1: "Apartment Cleaning in Charlestown, MA",
+    h1: "Apartment Cleaning Services in Charlestown, MA",
     subtitle:
       "Harbor-view condos in the Navy Yard and apartments in brick townhouses on the hill. Two very different buildings, one careful clean, and a team that plans for both.",
     introTitle: "Apartment cleaning from the Navy Yard to Bunker Hill",
@@ -195,7 +195,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Jamaica Plain Boston",
     description:
       "Apartment cleaning in Jamaica Plain for triple-decker floors off Centre Street, condos near Forest Hills, and units around Hyde Square.",
-    h1: "Apartment Cleaning in Jamaica Plain, MA",
+    h1: "Apartment Cleaning Services in Jamaica Plain, MA",
     subtitle:
       "Triple-decker floors with rear kitchens and back porches, condos along the Southwest Corridor, and shared apartments near Hyde Square. Cleaned with the products you ask about, on the days you want.",
     introTitle: "Apartment cleaning that fits Jamaica Plain",
@@ -233,7 +233,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Newton MA",
     description:
       "Apartment and condo cleaning in Newton, MA for units in Newton Centre, Newtonville, and Chestnut Hill, including elevator buildings and converted two-families.",
-    h1: "Apartment Cleaning in Newton, MA",
+    h1: "Apartment Cleaning Services in Newton, MA",
     subtitle:
       "Condos near Newton Centre, rentals in Newtonville two-families, and elevator buildings in Chestnut Hill. Smaller Newton homes get the same team, checklist, and flat pricing as the big ones.",
     introTitle: "Apartment and condo cleaning across Newton's villages",
@@ -271,7 +271,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning Somerville MA",
     description:
       "Apartment cleaning in Somerville, MA for triple-decker floors near Davis and Union, shared student apartments, and Assembly Row condos.",
-    h1: "Apartment Cleaning in Somerville, MA",
+    h1: "Apartment Cleaning Services in Somerville, MA",
     subtitle:
       "The triple-decker capital of New England. Shared floors near Davis and Union Squares, condos at Assembly Row, and new buildings along the Green Line Extension, cleaned by a team that knows the layouts.",
     introTitle: "Apartment cleaning for the densest city in New England",
@@ -309,7 +309,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning South Boston",
     description:
       "Apartment cleaning in South Boston for Seaport high-rises, Fort Point lofts, and three-decker units throughout Southie.",
-    h1: "Apartment Cleaning in South Boston, MA",
+    h1: "Apartment Cleaning Services in South Boston, MA",
     subtitle:
       "Floor-to-ceiling glass in the Seaport, brick-and-timber lofts in Fort Point, and three-decker floors from Andrew Square to City Point. Cleaned on your schedule, including evenings.",
     introTitle: "Apartment cleaning from the Seaport to City Point",
@@ -347,7 +347,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Apartment Cleaning South End Boston",
     description:
       "Apartment cleaning in Boston's South End for garden-level and floor-through units in Victorian rowhouses, SoWa lofts, and Ink Block condos.",
-    h1: "Apartment Cleaning in the South End, MA",
+    h1: "Apartment Cleaning Services in the South End, MA",
     subtitle:
       "Garden-level one-bedrooms with their own entrances, floor-throughs with marble mantels, SoWa lofts, and Ink Block condos. One neighborhood, every kind of apartment, one careful team.",
     introTitle: "Apartment cleaning across the South End's rowhouses and lofts",

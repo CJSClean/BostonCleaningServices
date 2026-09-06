@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   name: "Middlesex County",
   path: PATH,
   eyebrow: "Middlesex County",
-  h1: "Cleaning Services in Middlesex County, MA",
+  h1: "Professional Cleaning Services in Middlesex County, MA",
   subtitle:
     "Cambridge and Somerville are the heart of our Middlesex County work, with teams reaching into Arlington, Medford, Watertown, and Belmont. Triple-deckers, Victorians, and new condos, all on one checklist.",
   highlights: ["Cambridge and Somerville daily", "Inner-ring towns by request", "Academic-calendar friendly", "Same-week first visits"],

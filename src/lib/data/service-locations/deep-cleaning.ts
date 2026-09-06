@@ -5,7 +5,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Back Bay Boston",
     description:
       "Deep cleaning in Back Bay for brownstone units and full-service condos. Plaster mouldings, tall windows, hex tile, and parquet detailed by insured teams.",
-    h1: "Deep Cleaning in Back Bay, MA",
+    h1: "Deep Cleaning Services in Back Bay, MA",
     subtitle:
       "Plaster ridges, tall Mall-facing windows, marble hearths, and parquet edges. A Back Bay deep clean is about the details that make these homes special and hard to maintain.",
     introTitle: "The detail work Back Bay homes are built from",
@@ -43,7 +43,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Beacon Hill Boston",
     description:
       "Deep cleaning on Beacon Hill for compact historic units and multi-level townhouses. Claw-foot tubs, hex-tile grout, and antique pine handled with care.",
-    h1: "Deep Cleaning in Beacon Hill, MA",
+    h1: "Deep Cleaning Services in Beacon Hill, MA",
     subtitle:
       "Compact layouts hide a lot: the top of a built-in, the space behind a claw-foot tub, the grout in a hex-tile floor. A Beacon Hill deep clean reaches all of it without harming anything two centuries old.",
     introTitle: "Deep cleaning in the smallest, oldest rooms in Boston",
@@ -81,7 +81,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Brookline MA",
     description:
       "Deep cleaning in Brookline, MA for family homes and apartments. Baseboards, vents, grout, range hoods, and under furniture handled by insured teams.",
-    h1: "Deep Cleaning in Brookline, MA",
+    h1: "Deep Cleaning Services in Brookline, MA",
     subtitle:
       "Spring resets after a Norfolk County winter, late-summer cleans before school starts, and pre-holiday hosting. Brookline homes book deep cleans on a calendar, and we hold slots for it.",
     introTitle: "The seasonal reset Brookline homes rely on",
@@ -119,7 +119,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Cambridge MA",
     description:
       "Deep cleaning in Cambridge, MA for Victorians, triple-decker floors, and Kendall condos. Radiators, grout, and windows detailed. Eco products available.",
-    h1: "Deep Cleaning in Cambridge, MA",
+    h1: "Deep Cleaning Services in Cambridge, MA",
     subtitle:
       "Radiator fins, built-in bookshelves, original tile, and a semester's worth of dust. A Cambridge deep clean resets the home before a term, after a sabbatical, or ahead of a defense celebration.",
     introTitle: "Deep cleaning on the Cambridge calendar",
@@ -157,7 +157,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Charlestown Boston",
     description:
       "Deep cleaning in Charlestown for hillside townhouses and Navy Yard condos. Exposed brick, high mouldings, harbor glass, and grout detailed by insured teams.",
-    h1: "Deep Cleaning in Charlestown, MA",
+    h1: "Deep Cleaning Services in Charlestown, MA",
     subtitle:
       "Exposed brick that sheds dust, ceiling medallions three floors up, harbor windows that show every streak. A Charlestown deep clean handles the hill and the water with equal care.",
     introTitle: "Deep cleaning from Monument Square to the harbor",
@@ -195,7 +195,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Jamaica Plain Boston",
     description:
       "Deep cleaning in Jamaica Plain for Victorians, triple-decker floors, and condos. Wainscoting and rear kitchens detailed, plant-based products on request.",
-    h1: "Deep Cleaning in Jamaica Plain, MA",
+    h1: "Deep Cleaning Services in Jamaica Plain, MA",
     subtitle:
       "Ornate trim around the Pond, rear kitchens in triple-deckers, and a year of pollen from the Arboretum. A JP deep clean gets into the grooves with the products you choose.",
     introTitle: "Deep cleaning with the detail JP homes deserve",
@@ -233,7 +233,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Newton MA",
     description:
       "Deep cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Baseboards, vents, and grout on every floor. Flat quotes.",
-    h1: "Deep Cleaning in Newton, MA",
+    h1: "Deep Cleaning Services in Newton, MA",
     subtitle:
       "Every floor, including the basement playroom and the third-floor guest room. Newton deep cleans are scheduled for a full day so a large house is actually finished, not sampled.",
     introTitle: "Deep cleaning a whole Newton house, properly",
@@ -271,7 +271,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning Somerville MA",
     description:
       "Deep cleaning in Somerville, MA for triple-decker floors, shared apartments, and Assembly Row condos. Rear kitchens degreased, tubs scrubbed, flat quotes.",
-    h1: "Deep Cleaning in Somerville, MA",
+    h1: "Deep Cleaning Services in Somerville, MA",
     subtitle:
       "Grease at the back of a triple-decker kitchen, a ring in a cast-iron tub, a winter of dust on radiator fins. A Somerville deep clean resets a shared apartment or a renovated two-family in one visit.",
     introTitle: "Deep cleaning for Somerville's three-family floors",
@@ -309,7 +309,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning South Boston",
     description:
       "Deep cleaning in South Boston for Seaport condos, Fort Point lofts, and Southie three-deckers. Harbor glass, brick, and cast-iron tubs detailed. Flat quotes.",
-    h1: "Deep Cleaning in South Boston, MA",
+    h1: "Deep Cleaning Services in South Boston, MA",
     subtitle:
       "Salt film on harbor-facing glass, dust drifting from loft ceilings, grease in a three-decker kitchen. A South Boston deep clean handles the newest and oldest homes in the city.",
     introTitle: "Deep cleaning the Seaport, Fort Point, and old Southie",
@@ -347,7 +347,7 @@ export const deepCleaningCopy: Record<string, ServiceLocationCopy> = {
     title: "Deep Cleaning South End Boston",
     description:
       "Deep cleaning in Boston's South End for Victorian rowhouse units, SoWa lofts, and Ink Block condos. Marble, plaster, pocket doors, and tall windows detailed.",
-    h1: "Deep Cleaning in the South End, MA",
+    h1: "Deep Cleaning Services in the South End, MA",
     subtitle:
       "Plaster medallions, marble mantels, pocket door tracks, and tall windows on the garden squares. A South End deep clean is a restoration-grade reset, with plant-based products on request.",
     introTitle: "Deep cleaning the details of a Victorian rowhouse",

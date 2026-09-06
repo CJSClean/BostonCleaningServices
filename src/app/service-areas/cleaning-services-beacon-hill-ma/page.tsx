@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "Beacon Hill, Boston",
-  h1: "Cleaning Services in Beacon Hill, MA",
+  h1: "Professional Cleaning Services in Beacon Hill, MA",
   subtitle:
     "Federal-era townhouses, garden-level studios, and Charles Street walk-ups all need a light hand and a good stair game. Our Beacon Hill teams have both.",
   highlights: ["Trained on 200-year-old wood and brick", "Compact-space cleaning techniques", "Resident-permit parking planned for", "Same-week availability"],

@@ -17,7 +17,7 @@ const content: AreaPageContent = {
   path: loc.href,
   locationKey: loc.key,
   eyebrow: "Jamaica Plain, Boston",
-  h1: "Cleaning Services in Jamaica Plain, MA",
+  h1: "Professional Cleaning Services in Jamaica Plain, MA",
   subtitle:
     "Triple-deckers off Centre Street, Victorians around the Pond, and new condos near Forest Hills. Our JP teams clean them all with flat pricing, plant-based products on request, and schedules that fit real life.",
   highlights: ["Triple-decker and Victorian experience", "Plant-based, fragrance-free option", "Pet and kid friendly", "Flat quotes, no hourly meter"],
