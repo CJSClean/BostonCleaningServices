@@ -12,7 +12,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Moving into Back Bay usually means inheriting a unit that has been occupied for years and cleaned quickly between tenants, if at all. Brownstone kitchens retrofitted into former bedrooms have decades of grease on cabinet interiors. Closets in units without much storage have been packed full and never wiped. Parquet floors have grime along the baseboards where a bed or dresser sat. Our move-in clean addresses all of it while the unit is still empty and every surface is reachable.",
       "The service is a deep clean plus everything that only makes sense in an empty home: cabinet and drawer interiors washed, closet shelves and rods wiped, and floors done edge to edge. Marble, plaster, and parquet get the gentle treatment Back Bay finishes require. In full-service buildings, our coordinators deliver insurance certificates and book the freight elevator so the visit fits between the previous occupant's departure and your movers.",
-      "Timing is everything and we plan around it. Many Back Bay move-ins are same-day handoffs, with the clean in the morning and movers after lunch. We can collect keys from a concierge, a lockbox, or a leasing office. September 1 and the first of each month book up weeks in advance. A two-bedroom takes our team about four hours. Pricing is flat by unit size, includes cabinet and closet interiors, and is confirmed before booking. Oven and fridge interiors are optional add-ons.",
+      "Timing is everything and we plan around it. Many Back Bay move-ins are same-day handoffs, with the clean in the morning and movers after lunch. We can collect keys from a concierge, a lockbox, or a leasing office. September 1 and the first of each month book up weeks in advance. A two-bedroom takes our team about four hours. Pricing is quoted by unit size and condition, includes cabinet and closet interiors, and is confirmed before booking. Oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -37,7 +37,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Back Bay move-in clean",
-    ctaDescription: "Send your move date, unit size, and key handoff time. We confirm a flat price and hold the slot.",
+    ctaDescription: "Send your move date, unit size, and key handoff time. We confirm an upfront price and hold the slot.",
   },
   "beacon-hill": {
     title: "Move In Cleaning Beacon Hill Boston",
@@ -50,7 +50,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Beacon Hill apartments have been lived in continuously since the 1800s, and the corners of their cabinets and closets show it. A move-in clean is the one chance to reset them completely. While the unit is empty, our teams wash every cabinet and drawer inside and out, wipe closet shelves and rods, scrub the cast-iron tub and hex-tile floor, and dry-mop and damp-pass the antique pine from wall to wall.",
       "Compact layouts make an empty unit especially valuable. The galley kitchen can be cleaned without stepping around a table. The bathroom under the stairs can be reached without moving a hamper. Deep window wells on the street side are emptied of a season of city dust. Radiator fins are dusted by hand. Every surface your hand will touch on the first day is one our team cleaned, and the home smells clean rather than chemical.",
-      "Timing on the Hill follows the September 1 and first-of-month rental cycle, and those dates fill weeks ahead. We coordinate with landlords and agents for key pickup from lockboxes or offices and plan around permit parking and steep stairs so neither affects the visit or the quote. A one-bedroom takes our team about three hours. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing on the Hill follows the September 1 and first-of-month rental cycle, and those dates fill weeks ahead. We coordinate with landlords and agents for key pickup from lockboxes or offices and plan around permit parking and steep stairs so neither affects the visit or the quote. A one-bedroom takes our team about three hours. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -75,12 +75,12 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Beacon Hill move-in clean",
-    ctaDescription: "Tell us the move date, unit size, and key details. A flat price and a held slot come back within the hour.",
+    ctaDescription: "Tell us the move date, unit size, and key details. An upfront price and a held slot come back within the hour.",
   },
   brookline: {
     title: "Move In Cleaning Brookline MA",
     description:
-      "Move-in cleaning in Brookline, MA for houses and apartments. Cabinets, closets, and floors cleaned before the truck arrives. Flat quotes.",
+      "Move-in cleaning in Brookline, MA for houses and apartments. Cabinets, closets, and floors cleaned before the truck arrives. Upfront quotes.",
     h1: "Move In Cleaning Services in Brookline, MA",
     subtitle:
       "Closing on a Fisher Hill colonial or starting a lease near Coolidge Corner, the empty home gets every cabinet, closet, and appliance cleaned before a single box comes through the door.",
@@ -88,7 +88,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Brookline move-ins split between buyers closing on houses and renters starting leases in North Brookline apartments. Both arrive to homes that are technically vacant but rarely clean. Sellers leave in a rush. Landlord turnover cleans wipe the visible surfaces and skip the cabinet shelves and closets. Our move-in clean fills that gap while the home is empty and every surface, from the back of the pantry to the top of the closet, can be reached.",
       "The service is a deep clean plus everything that only makes sense in an empty home. Cabinets and drawers are washed inside and out. Closet shelves and rods are wiped. Bathrooms are scrubbed to the grout. Floors are dry-mopped and damp-passed edge to edge. In a house, the mudroom, basement, and garage-side entry get the same attention as the kitchen because that is where a Brookline winter comes in.",
-      "Timing follows the calendar. Buyers often book for the day after closing and move in the following weekend. Renters book between the previous tenant's departure and their own arrival, frequently a same-day handoff around the first of the month. We collect keys from agents, lockboxes, and leasing offices. A three-bedroom house takes our team most of a day. Pricing is flat by home size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing follows the calendar. Buyers often book for the day after closing and move in the following weekend. Renters book between the previous tenant's departure and their own arrival, frequently a same-day handoff around the first of the month. We collect keys from agents, lockboxes, and leasing offices. A three-bedroom house takes our team most of a day. Pricing is quoted by home size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -113,7 +113,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Brookline move-in clean",
-    ctaDescription: "Send your closing or lease date, home size, and key details. A flat price and a held slot arrive within the hour.",
+    ctaDescription: "Send your closing or lease date, home size, and key details. An upfront price and a held slot arrive within the hour.",
   },
   cambridge: {
     title: "Move In Cleaning Cambridge MA",
@@ -126,7 +126,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Cambridge move-ins cluster around the academic year. Graduate students and postdocs start leases in late August and September. Visiting scholars arrive for a term in January. Sublets change hands in May and June. Faculty and tech workers close on condos and houses year-round. All of them arrive to homes that a previous occupant left in a hurry and a landlord wiped down quickly. Our move-in clean resets the home completely while it is still empty.",
       "The service is a deep clean plus the interiors that only an empty home allows: cabinets and drawers washed inside and out, closet shelves and rods wiped, and floors done edge to edge. Triple-decker floors, brick apartments near the squares, and Kendall condos each get the right products, from dry-mopped hardwood to pH-neutral stone care. A plant-based, fragrance-free line is available at no extra charge.",
-      "Timing is tight in Cambridge and we plan for it. Same-day handoffs between a departing tenant and arriving movers are common, and we coordinate key pickup with landlords, leasing offices, and university housing offices. Late August and September 1 book up three weeks ahead. A one-bedroom takes our team about three hours. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing is tight in Cambridge and we plan for it. Same-day handoffs between a departing tenant and arriving movers are common, and we coordinate key pickup with landlords, leasing offices, and university housing offices. Late August and September 1 book up three weeks ahead. A one-bedroom takes our team about three hours. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -151,7 +151,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Cambridge move-in clean",
-    ctaDescription: "Send your move date, unit size, and key details. A flat price and a held slot come back within the hour.",
+    ctaDescription: "Send your move date, unit size, and key details. An upfront price and a held slot come back within the hour.",
   },
   charlestown: {
     title: "Move In Cleaning Charlestown Boston",
@@ -164,7 +164,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Charlestown move-ins are either waterfront condos or hillside townhouses, and each has its own logistics. Navy Yard buildings require insurance certificates, freight elevator reservations, and concierge coordination, all of which our team arranges before the visit. Townhouses on the hill have steep stairs, permit parking, and floor after floor of closets and cabinets that have not been emptied in years. Our move-in clean handles both while the home is still empty.",
       "The service is a deep clean plus every interior: cabinets and drawers washed, closet shelves and rods wiped, bathrooms scrubbed to the grout, and floors done edge to edge. In the Navy Yard, harbor-facing glass is finished streak-free and stone counters get pH-neutral care. On the hill, exposed brick is dusted, pine floors are dry-mopped and damp-passed, and high mouldings are reached with extension tools.",
-      "Timing follows closings and lease starts. Buyers book for the day after closing; renters book between a departing tenant and their own movers. We collect keys from concierges, agents, and lockboxes. First-of-month dates fill early. A two-bedroom condo takes our team about four hours; a townhouse takes most of a day. Pricing is flat by home size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing follows closings and lease starts. Buyers book for the day after closing; renters book between a departing tenant and their own movers. We collect keys from concierges, agents, and lockboxes. First-of-month dates fill early. A two-bedroom condo takes our team about four hours; a townhouse takes most of a day. Pricing is quoted by home size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -189,7 +189,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Charlestown move-in clean",
-    ctaDescription: "Send your move date, home size, and key details. A flat price and a held slot arrive within the hour.",
+    ctaDescription: "Send your move date, home size, and key details. An upfront price and a held slot arrive within the hour.",
   },
   "jamaica-plain": {
     title: "Move In Cleaning Jamaica Plain Boston",
@@ -202,7 +202,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Jamaica Plain move-ins are mostly triple-decker floors and Victorians, and both hide a lot inside their storage. Rear kitchens have cabinets with years of grease on the shelves. Pantries and back halls have not been wiped since the last tenant. Closets in Victorians run deep and dark. A move-in clean is the one chance to reset all of it while the unit is empty, and our teams work front to back through the long triple-decker layout so nothing is missed.",
       "The service is a deep clean plus every interior: cabinets and drawers washed, closet shelves and rods wiped, bathrooms scrubbed to the grout, and floors dry-mopped and damp-passed edge to edge. Ornate trim in Victorians is dusted into the grooves. Radiator fins are dusted by hand. JP residents often ask for our plant-based, fragrance-free product line, and it is available for the whole move-in clean at no extra charge.",
-      "Timing follows the first-of-month and September 1 rental cycle. Many JP landlords live in the building and hand keys over directly; others use lockboxes. Same-day handoffs between a departing tenant and arriving movers are common and we schedule around them. A two-bedroom floor takes our team about three and a half hours. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing follows the first-of-month and September 1 rental cycle. Many JP landlords live in the building and hand keys over directly; others use lockboxes. Same-day handoffs between a departing tenant and arriving movers are common and we schedule around them. A two-bedroom floor takes our team about three and a half hours. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -227,7 +227,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Jamaica Plain move-in clean",
-    ctaDescription: "Send your move date, unit size, and product preferences. A flat price and a held slot arrive within the hour.",
+    ctaDescription: "Send your move date, unit size, and product preferences. An upfront price and a held slot arrive within the hour.",
   },
   newton: {
     title: "Move In Cleaning Newton MA",
@@ -240,7 +240,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Newton move-ins are mostly buyers closing on houses, and sellers rarely leave a home clean. Cabinet shelves have crumbs and rings. The oven has not been cleaned in years. Closets on the third floor were emptied but never wiped. The basement has a season of dust. A move-in clean is the one chance to reset a large house completely while it is empty, and our Newton teams schedule a full day to do every level properly.",
       "The service is a deep clean plus every interior surface a house has: kitchen cabinets and drawers washed inside and out, pantry shelves wiped, bathroom vanities emptied and scrubbed, every closet shelf and rod wiped, the mudroom and basement cleaned, and floors dry-mopped and damp-passed edge to edge on every level. Hardwood, stone, and stainless each get the right products. A plant-based line is available on request.",
-      "Timing follows closings. The most common plan is to close on Friday, have us clean Saturday, and move in Sunday. We collect keys from agents and lockboxes. Newton's competitive market means buyers often have little time between closing and moving, so we hold slots as soon as a closing date is firm. A four-bedroom house takes our team most of a day. Pricing is flat by home size and includes every interior.",
+      "Timing follows closings. The most common plan is to close on Friday, have us clean Saturday, and move in Sunday. We collect keys from agents and lockboxes. Newton's competitive market means buyers often have little time between closing and moving, so we hold slots as soon as a closing date is firm. A four-bedroom house takes our team most of a day. Pricing is quoted by home size and condition and includes every interior.",
     ],
     faqs: [
       {
@@ -265,7 +265,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Newton move-in clean",
-    ctaDescription: "Send your closing date, bedrooms, bathrooms, and finished levels. A flat price and a held slot arrive within the hour.",
+    ctaDescription: "Send your closing date, bedrooms, bathrooms, and finished levels. An upfront price and a held slot arrive within the hour.",
   },
   somerville: {
     title: "Move In Cleaning Somerville MA",
@@ -278,7 +278,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Somerville changes apartments in a wave every September 1, and the units people move into have just been vacated hours earlier. Rear kitchens in triple-deckers have grease on every cabinet shelf. Cast-iron tubs have rings. Closets have been emptied but not wiped. Radiators have a year of dust. Our move-in clean resets all of it in the window between the departing tenant and your movers, and we hold capacity for the September 1 crush weeks in advance.",
       "The service is a deep clean plus every interior: cabinets and drawers washed inside and out, closet shelves and rods wiped, bathrooms scrubbed to the grout, and floors dry-mopped and damp-passed front to back. Shared apartments get the common kitchen and bathroom reset for everyone. Assembly Row and Green Line Extension condos get streak-free glass and stone care after our coordinators handle building paperwork.",
-      "Timing is tight and we plan for it. Same-day handoffs are the norm, and we coordinate key pickup with landlords who manage several Somerville units, leasing offices, and lockboxes. Permit parking and stairs are planned for and never appear on the quote. A two-bedroom floor takes our team about three and a half hours. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing is tight and we plan for it. Same-day handoffs are the norm, and we coordinate key pickup with landlords who manage several Somerville units, leasing offices, and lockboxes. Permit parking and stairs are planned for and never appear on the quote. A two-bedroom floor takes our team about three and a half hours. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -303,7 +303,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a Somerville move-in clean",
-    ctaDescription: "Send your move date, unit size, and key details. A flat price and a held slot come back within the hour.",
+    ctaDescription: "Send your move date, unit size, and key details. An upfront price and a held slot come back within the hour.",
   },
   "south-boston": {
     title: "Move In Cleaning South Boston",
@@ -316,7 +316,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South Boston move-ins range from brand-new Seaport condos to century-old three-decker floors. New buildings arrive with protective film on fixtures, fine dust in cabinets, and strict move-in elevator windows that our coordinators book with management along with the insurance certificate. Older Southie units arrive with grease in the rear kitchen, a ring in the cast-iron tub, and closets that were emptied but never wiped. Our move-in clean resets both while the unit is empty.",
       "The service is a deep clean plus every interior: cabinets and drawers washed inside and out, closet shelves and rods wiped, bathrooms scrubbed to the grout, and floors done edge to edge. In the Seaport, harbor glass is finished streak-free and stone gets pH-neutral care. In Southie, hardwood is dry-mopped and damp-passed, radiators are dusted by hand, and tubs are scrubbed with enamel-safe products.",
-      "Timing follows lease starts and closings, often with same-day handoffs. We collect keys from concierges, agents, and lockboxes. First-of-month dates fill early. Evening move-in cleans are possible for smaller units when the building allows. A one-bedroom takes our team about three hours; a rowhouse takes most of a day. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing follows lease starts and closings, often with same-day handoffs. We collect keys from concierges, agents, and lockboxes. First-of-month dates fill early. Evening move-in cleans are possible for smaller units when the building allows. A one-bedroom takes our team about three hours; a rowhouse takes most of a day. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -341,7 +341,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a South Boston move-in clean",
-    ctaDescription: "Send your move date, building or street, and unit size. A flat price and a held slot arrive within the hour.",
+    ctaDescription: "Send your move date, building or street, and unit size. An upfront price and a held slot arrive within the hour.",
   },
   "south-end": {
     title: "Move In Cleaning South End Boston",
@@ -354,7 +354,7 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South End move-ins are mostly rowhouse units, and Victorian rowhouses have storage in unexpected places: deep closets under stairs, built-in cabinets beside mantels, pantries off retrofitted kitchens. All of it has been used for a century and cleaned quickly between tenants. A move-in clean is the one chance to reset it while the unit is empty, and our South End teams know where to look in a bowfront floor plan.",
       "The service is a deep clean plus every interior: cabinets and drawers washed inside and out, closet shelves and rods wiped, bathrooms scrubbed to the grout, and floors dry-mopped and damp-passed edge to edge. Marble gets pH-neutral care, plaster is dusted with soft brushes, and pocket door tracks are cleaned. SoWa lofts and Ink Block condos get streak-free glass and stone care after our coordinators handle building paperwork.",
-      "Timing follows the first-of-month rental cycle and the neighborhood's active sales market. Buyers book for the day after closing; renters book between a departing tenant and their movers. We collect keys from agents, concierges, and lockboxes. Weekend and Sunday move-in cleans are common here and we schedule seven days a week. A one-bedroom takes our team about three hours. Pricing is flat by unit size and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
+      "Timing follows the first-of-month rental cycle and the neighborhood's active sales market. Buyers book for the day after closing; renters book between a departing tenant and their movers. We collect keys from agents, concierges, and lockboxes. Weekend and Sunday move-in cleans are common here and we schedule seven days a week. A one-bedroom takes our team about three hours. Pricing is quoted by unit size and condition and includes cabinet and closet interiors; oven and fridge interiors are optional add-ons.",
     ],
     faqs: [
       {
@@ -379,6 +379,6 @@ export const moveInCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book a South End move-in clean",
-    ctaDescription: "Send your move date, unit layout, and key details. A flat price and a held slot come back within the hour.",
+    ctaDescription: "Send your move date, unit layout, and key details. An upfront price and a held slot come back within the hour.",
   },
 };

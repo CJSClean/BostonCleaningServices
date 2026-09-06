@@ -8,7 +8,7 @@ const loc = getLocationByKey("newton")!;
 export const metadata: Metadata = {
   title: "Cleaning Services Newton MA",
   description:
-    "House cleaning in Newton, MA across all thirteen villages. Colonials, capes, and new builds cleaned by insured teams with flat pricing.",
+    "House cleaning in Newton, MA across all thirteen villages. Colonials, capes, and new builds cleaned by insured teams with upfront pricing.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 
@@ -19,7 +19,7 @@ const content: AreaPageContent = {
   eyebrow: "Newton, Norfolk County",
   h1: "Professional Cleaning Services in Newton, MA",
   subtitle:
-    "Four-bedroom colonials in Waban, capes in Newtonville, new construction in Newton Centre. Our Newton teams are sized and scheduled for larger homes, with flat pricing and a lead cleaner who stays with you.",
+    "Four-bedroom colonials in Waban, capes in Newtonville, new construction in Newton Centre. Our Newton teams are sized and scheduled for larger homes, with upfront pricing and a lead cleaner who stays with you.",
   highlights: ["All thirteen villages covered", "Sized for 3,000+ square foot homes", "Finished basements and mudrooms included", "Weekly and biweekly plans"],
   introTitle: "House cleaning scaled for Newton's homes",
   intro: [
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Newton families are our core customers, and family homes have a rhythm. Kitchens produce three meals a day and a stream of school lunches. Bathrooms are shared. Sports gear, backpacks, and boots pile up by the door. Weekly and biweekly plans are the norm here, and our teams learn the house: where the dog food is, which room the toddler naps in, and how the homeowner likes the pillows arranged.",
     "The housing stock spans a century and a half. Older homes bring original hardwood, plaster walls, and radiators; newer homes bring wide-plank engineered floors, quartz counters, and open plans with a lot of glass. Our product kit and training cover both. We dry-mop wood before a barely damp pass, use stone-safe cleaners on marble and granite, and leave stainless appliances streak-free.",
     "Deep cleans in Newton are often seasonal: a spring reset after months of salt and sand in the entry, or a fall clean before the holiday hosting season begins. We also handle move-in cleans for buyers in a competitive market who get the keys on Friday and want to move in Saturday, and post-construction cleans for the many kitchen and whole-home renovations underway across the city.",
-    "Every Newton visit comes with the same commitments: a flat quote confirmed before booking, our team with a consistent lead cleaner, a text when we arrive and when we finish, and a 24-hour guarantee that we return to fix anything missed. Coordinators are reachable seven days a week to adjust plans around school vacations and travel.",
+    "Every Newton visit comes with the same commitments: an upfront quote confirmed before booking, our team with a consistent lead cleaner, a text when we arrive and when we finish, and a 24-hour guarantee that we return to fix anything missed. Coordinators are reachable seven days a week to adjust plans around school vacations and travel.",
   ],
   servicesTitle: "Cleaning services available in Newton",
   servicesIntro: "Each service is quoted for the actual size and condition of Newton homes. Open one for local notes and pricing.",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Newton cleaning this week",
-  ctaDescription: "Tell us the village, bedrooms, bathrooms, and any finished spaces. A flat quote and open times come back within the hour.",
+  ctaDescription: "Tell us the village, bedrooms, bathrooms, and any finished spaces. An upfront quote and open times come back within the hour.",
   areaServed: ["Newton, MA"],
 };
 

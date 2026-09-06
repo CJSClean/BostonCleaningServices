@@ -19,12 +19,12 @@ import { generateFAQSchema, generateLocalBusinessSchema, SchemaScript } from "@/
 export const metadata: Metadata = {
   title: { absolute: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA" },
   description:
-    "House, apartment, deep, and move cleaning across Boston, Cambridge, Somerville, Brookline & Newton. Insured local teams, flat quotes, same-week slots.",
+    "House, apartment, deep, and move cleaning across Boston, Cambridge, Somerville, Brookline & Newton. Insured local teams, upfront quotes, same-week slots.",
   alternates: { canonical: SITE_URL },
   openGraph: {
     title: "Boston Cleaning Services | House & Apartment Cleaning in Boston, MA",
     description:
-      "Insured, background-checked cleaners for homes and apartments across Greater Boston. Flat pricing, same-week availability, 24-hour re-clean guarantee.",
+      "Insured, background-checked cleaners for homes and apartments across Greater Boston. Upfront pricing, same-week availability, 24-hour re-clean guarantee.",
     url: SITE_URL,
     type: "website",
   },
@@ -39,7 +39,7 @@ const faqs = [
   {
     question: "How is the price calculated?",
     answer:
-      "Pricing is flat rate, based on bedrooms, bathrooms, square footage, the type of clean, and how recently the home was professionally cleaned. You receive one number before booking and that is what you pay, unless you add a service on the day. Recurring plans lower the rate on every visit after the first.",
+      "Quotes are based on bedrooms, bathrooms, square footage, the type of clean, and the current condition of the home, and you receive the number before booking. Homes that need heavy-duty attention, such as heavy buildup or a long gap since the last professional clean, or that have pets that shed heavily, carry an additional fee. We tell you about it up front rather than adding it to the invoice. Recurring plans lower the rate on every visit after the first.",
   },
   {
     question: "Who will be in my home?",
@@ -85,9 +85,9 @@ const faqs = [
 
 const benefits = [
   {
-    title: "A flat quote before anyone shows up",
+    title: "An upfront quote before anyone shows up",
     description:
-      "You know the price when you book. No hourly meter running while a cleaner learns your layout, and no add-on pressure at the door.",
+      "You know the price when you book. No hourly meter running while a cleaner learns your layout, and if the home needs heavy-duty attention or has heavy pet shedding, we say so up front.",
   },
   {
     title: "Teams that know Boston housing",
@@ -109,7 +109,7 @@ const benefits = [
 const introParagraphs = [
   "Boston is a city of stairs, radiators, old wood, and small closets, and it takes a certain kind of cleaning company to keep up with it. Boston Cleaning Services was built for exactly this housing stock. We send trained, insured teams to apartments and houses across the city and the inner suburbs, working from a written checklist that covers every room and finishing with a text to let you know the job is done.",
   "Our customers are graduate students sharing a Somerville triple-decker, families in Newton colonials, empty nesters in Back Bay condos, and hospital staff near Longwood who simply do not have hours left in the week to scrub a tub. What they have in common is a desire for the same result every time: a home that feels reset, not just tidied, delivered by people they trust with a key.",
-  "We keep our promises simple. The price we quote is the price you pay. The cleaners who arrive are our employees, not strangers from an app. If anything is missed, we return within 24 hours to fix it. And you can reach a human coordinator by phone or text seven days a week to change a time, add a task, or ask a question.",
+  "We keep our promises simple. The price we quote reflects your home's size and condition, and any heavy-duty or pet-shedding fee is disclosed before we start. The cleaners who arrive are our employees, not strangers from an app. If anything is missed, we return within 24 hours to fix it. And you can reach a human coordinator by phone or text seven days a week to change a time, add a task, or ask a question.",
   "Whether you need a weekly plan to keep a busy household on track, a one-time deep clean before hosting, or a move-out clean that protects your deposit ahead of a September 1 turnover, we have a service built for the situation. Browse the options below, check the pricing tables on each service page, and request a quote when you are ready. Most first cleanings are booked within the same week.",
 ];
 
@@ -121,10 +121,10 @@ export default function HomePage() {
         <Hero
           eyebrow="Serving Boston and the inner suburbs"
           title="Professional Cleaning Services in Boston, MA"
-          subtitle="Cleaning that shows up, finishes, and gets it right. House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Flat pricing, same-week slots, and a 24-hour re-clean guarantee."
+          subtitle="Cleaning that shows up, finishes, and gets it right. House cleaning, apartment cleaning, deep cleans, and move-in or move-out service from a local, insured team. Upfront pricing, same-week slots, and a 24-hour re-clean guarantee."
           highlights={[
             "Background-checked, employee cleaners",
-            "Flat quote before you book",
+            "Upfront quote before you book",
             "All supplies and equipment included",
             "Weekly, biweekly, monthly, or one-time",
           ]}
@@ -176,7 +176,7 @@ export default function HomePage() {
 
         <CTABand
           title="Ready for a home that stays clean without your weekend?"
-          description="Request a quote now and a coordinator will reply with a flat price and open times, usually within the hour."
+          description="Request a quote now and a coordinator will reply with an upfront price and open times, usually within the hour."
         />
       </PageShell>
     </>

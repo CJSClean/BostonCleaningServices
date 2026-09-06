@@ -12,7 +12,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "House cleaning in Back Bay usually means a full floor of a brownstone or two or three levels of a converted mansion, not a detached home with a yard. These residences have long hallways, tall windows on the Mall side, marble mantels in the front parlor, and kitchens that were retrofitted into what used to be a bedroom. Our routine visits are scheduled with enough time to move through every room methodically rather than skimming the surfaces a guest would notice.",
       "The finishes drive the method. Original parquet gets a dry dust mop before a barely damp pass so the wood never sees standing water. Marble and soapstone counters get a pH-neutral cleaner. Plaster mouldings are dusted with a soft brush attachment. Brass hardware is wiped with a cloth, never with anything abrasive. None of this is special treatment; it is simply how Back Bay homes have to be cleaned if they are going to stay beautiful.",
-      "Most of our Back Bay house cleaning customers are on biweekly plans with a consistent lead cleaner who knows the home. Many split their time with a second residence, so plans pause and resume with a text. Access is usually through a concierge or a lockbox on the railing, and you are texted at arrival and completion. Pricing is flat, based on the size and condition of the residence, and never adjusted for stairs or parking.",
+      "Most of our Back Bay house cleaning customers are on biweekly plans with a consistent lead cleaner who knows the home. Many split their time with a second residence, so plans pause and resume with a text. Access is usually through a concierge or a lockbox on the railing, and you are texted at arrival and completion. Pricing is quoted upfront based on the size and condition of the residence, and never adjusted for stairs or parking.",
     ],
     faqs: [
       {
@@ -37,7 +37,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Back Bay house cleaning this week",
-    ctaDescription: "Send the street, layout, and how we get in. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the street, layout, and how we get in. An upfront quote and open times arrive within the hour.",
   },
   "beacon-hill": {
     title: "House Cleaning Beacon Hill Boston",
@@ -75,12 +75,12 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Beacon Hill house cleaning this week",
-    ctaDescription: "Tell us the number of floors, bathrooms, and how we get in. A flat quote and open dates come back within the hour.",
+    ctaDescription: "Tell us the number of floors, bathrooms, and how we get in. An upfront quote and open dates come back within the hour.",
   },
   brookline: {
     title: "House Cleaning Brookline MA",
     description:
-      "Weekly and biweekly house cleaning for Brookline homes from Coolidge Corner to Fisher Hill. Pet-friendly insured teams, school-hour scheduling, flat quotes.",
+      "Weekly and biweekly house cleaning for Brookline homes from Coolidge Corner to Fisher Hill. Pet-friendly insured teams, school-hour scheduling, upfront quotes.",
     h1: "House Cleaning Services in Brookline, MA",
     subtitle:
       "Victorians in Brookline Village, colonials on Fisher Hill, and two-families near Washington Square. Family homes on a family schedule, cleaned by a team that keeps its arrival window.",
@@ -113,7 +113,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Brookline house cleaning this week",
-    ctaDescription: "Send bedrooms, bathrooms, pets, and your preferred window. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send bedrooms, bathrooms, pets, and your preferred window. An upfront quote and open times arrive within the hour.",
   },
   cambridge: {
     title: "House Cleaning Cambridge MA",
@@ -126,13 +126,13 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Single-family and two-family houses in Cambridge cluster west of Harvard Square, in Agassiz, Huron Village, and along the tree-lined streets of Mid-Cambridge. Many are Victorians or early twentieth-century homes with narrow-strip hardwood, built-in bookcases, original woodwork, and radiators under every window. Our house cleaning teams work those surfaces the right way: dry-mopping wood before a damp pass, dusting radiator fins by hand, and skipping harsh chemicals on painted trim.",
       "Cambridge schedules rarely match the standard work week. Academic terms, grant deadlines, conference travel, and sabbaticals all shape when a home needs cleaning and when it does not. Our recurring plans pause and resume around that, holding your standing slot and your rate for breaks of up to eight weeks. A one-time clean before visiting family or a department gathering can usually be placed within the same week.",
-      "Cambridge homeowners ask about ingredients more than anyone else we serve, and we welcome the question. Our standard kit is professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra cost and is saved to your account as a permanent preference. Every visit comes with a consistent lead cleaner, a flat price, and a 24-hour re-clean guarantee.",
+      "Cambridge homeowners ask about ingredients more than anyone else we serve, and we welcome the question. Our standard kit is professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra cost and is saved to your account as a permanent preference. Every visit comes with a consistent lead cleaner, an upfront price, and a 24-hour re-clean guarantee.",
     ],
     faqs: [
       {
         question: "How much is house cleaning for a Cambridge Victorian?",
         answer:
-          "A three- or four-bedroom home typically runs $190 to $320 for a routine visit and $450 to $650 for a deep clean, depending on size and condition. Quotes are flat and confirmed before booking.",
+          "A three- or four-bedroom home typically runs $190 to $320 for a routine visit and $450 to $650 for a deep clean, depending on size and condition. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Can I pause my plan during a sabbatical or summer away?",
@@ -151,12 +151,12 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Cambridge house cleaning this week",
-    ctaDescription: "Tell us the neighborhood, bedrooms, bathrooms, and your schedule. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Tell us the neighborhood, bedrooms, bathrooms, and your schedule. An upfront quote and open times arrive within the hour.",
   },
   charlestown: {
     title: "House Cleaning Charlestown Boston",
     description:
-      "Recurring house cleaning for Charlestown townhouses around Monument Square and Bunker Hill. Exposed brick, pine floors, and steep stairs handled. Flat pricing.",
+      "Recurring house cleaning for Charlestown townhouses around Monument Square and Bunker Hill. Exposed brick, pine floors, and steep stairs handled. Upfront pricing.",
     h1: "House Cleaning Services in Charlestown, MA",
     subtitle:
       "Brick and clapboard townhouses on the hill, cleaned top to bottom by a team that plans for permit parking, steep stairs, and two-hundred-year-old floors.",
@@ -164,7 +164,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Charlestown's single-family homes are mostly townhouses on the streets climbing from City Square to Monument Square and up Bunker Hill. They are narrow, three or four stories tall, and full of period detail: exposed brick, wide pine floors, original mantels, and steep stairs with worn treads. Our house cleaning teams work them from the top floor down, wet rooms last, so finished floors stay finished and the entry is the last thing done.",
       "Many of these homes have been renovated to pair historic bones with modern kitchens and baths, which means our product kit has to handle both. Brick is dusted and spot cleaned with a pH-neutral solution. Pine is dry-mopped before a barely damp pass. Quartz counters and stainless appliances are left streak-free. High mouldings and ceiling medallions are dusted with extension tools rather than ignored because they are hard to reach.",
-      "Charlestown households skew toward young families and professionals commuting across the bridge, and weekday mid-morning slots during daycare hours are the most requested. Biweekly plans with a consistent lead cleaner are the norm. Parking on the hill is resident-permit only, and our teams have a stopping plan for each block that never appears on your quote. Every visit comes with a flat price and a 24-hour re-clean guarantee.",
+      "Charlestown households skew toward young families and professionals commuting across the bridge, and weekday mid-morning slots during daycare hours are the most requested. Biweekly plans with a consistent lead cleaner are the norm. Parking on the hill is resident-permit only, and our teams have a stopping plan for each block that never appears on your quote. Every visit comes with an upfront price and a 24-hour re-clean guarantee.",
     ],
     faqs: [
       {
@@ -189,7 +189,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Charlestown house cleaning this week",
-    ctaDescription: "Tell us the street, floors, bathrooms, and how we get in. A flat quote and open dates arrive within the hour.",
+    ctaDescription: "Tell us the street, floors, bathrooms, and how we get in. An upfront quote and open dates arrive within the hour.",
   },
   "jamaica-plain": {
     title: "House Cleaning Jamaica Plain Boston",
@@ -202,13 +202,13 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Jamaica Plain's houses are some of the most architecturally interesting in the city. Victorians and shingle-style homes ring Jamaica Pond and fill Sumner Hill and Moss Hill, with high ceilings, ornate trim, stained glass, and staircases with turned balusters. Owner-occupied triple-deckers line the streets off Centre and Washington. Our house cleaning teams adapt to each: dusting picture rails and ceiling medallions in the Victorians, working front to back through triple-decker floors.",
       "JP residents want to know what is in the caddy, and we are glad to tell them. Our standard products are professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra charge and is saved to your account, along with notes about the compost bin, the cat's hiding spot, and which door the dog does not use. We work around home offices and can do a room first or last to stay clear of calls.",
-      "Saturday mornings are the most requested house cleaning window in Jamaica Plain, and we schedule seven days a week to accommodate them. Biweekly plans with a consistent lead cleaner are the norm, with weekly service for larger family homes. Owner-occupants renting the other floors of a triple-decker often keep a plan for their unit and book turnover cleans for the rentals. Every visit is flat-priced with a 24-hour guarantee.",
+      "Saturday mornings are the most requested house cleaning window in Jamaica Plain, and we schedule seven days a week to accommodate them. Biweekly plans with a consistent lead cleaner are the norm, with weekly service for larger family homes. Owner-occupants renting the other floors of a triple-decker often keep a plan for their unit and book turnover cleans for the rentals. Every visit is priced upfront with a 24-hour guarantee.",
     ],
     faqs: [
       {
         question: "How much is house cleaning for a JP Victorian?",
         answer:
-          "A three- or four-bedroom home typically runs $190 to $320 for a routine clean and $450 to $650 for a deep clean, depending on size and condition. Flat quotes are confirmed before booking.",
+          "A three- or four-bedroom home typically runs $190 to $320 for a routine clean and $450 to $650 for a deep clean, depending on size and condition. Upfront quotes are confirmed before booking.",
       },
       {
         question: "Do you offer Saturday house cleaning in Jamaica Plain?",
@@ -227,12 +227,12 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Jamaica Plain house cleaning this week",
-    ctaDescription: "Send the home size, product preferences, and your preferred day. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the home size, product preferences, and your preferred day. An upfront quote and open times arrive within the hour.",
   },
   newton: {
     title: "House Cleaning Newton MA",
     description:
-      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured local teams, school-hour scheduling, flat quotes.",
+      "House cleaning in Newton, MA sized for four- and five-bedroom homes with finished basements. Insured local teams, school-hour scheduling, upfront quotes.",
     h1: "House Cleaning Services in Newton, MA",
     subtitle:
       "Center-entrance colonials in Waban, Tudors in Chestnut Hill, new builds in Newton Centre. Larger homes need longer appointments and a quote that includes every finished room. Ours do.",
@@ -240,7 +240,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Newton homes are big. Four and five bedrooms, two or three full bathrooms, a finished basement, a mudroom, a home office, and often a third-floor guest room are standard across the thirteen villages. Our house cleaning appointments here are scheduled for that reality, with the team working upstairs to down in a logical sequence and a quote that includes every finished space from the start, so there are no mid-visit questions about what counts.",
       "Family life shapes the work. Kitchens run all day. Bathrooms are shared. The entry takes the full force of a Massachusetts winter. Our checklist emphasizes high-touch surfaces and our teams organize toys and gear rather than pushing them aside. Pets are common and our cleaners lift fur from runners and upholstery as a matter of course. A plant-based product line is available for households that prefer it, at no extra charge.",
-      "Older Newton homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and a lot of glass. Our teams are trained on both. The most requested window is weekday mornings during school hours, and recurring customers hold a standing slot with a consistent lead cleaner who learns the house. Every visit is flat-priced with a 24-hour re-clean guarantee.",
+      "Older Newton homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and a lot of glass. Our teams are trained on both. The most requested window is weekday mornings during school hours, and recurring customers hold a standing slot with a consistent lead cleaner who learns the house. Every visit is priced upfront with a 24-hour re-clean guarantee.",
     ],
     faqs: [
       {
@@ -265,7 +265,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Newton house cleaning this week",
-    ctaDescription: "Tell us the village, bedrooms, bathrooms, and finished spaces. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Tell us the village, bedrooms, bathrooms, and finished spaces. An upfront quote and open times arrive within the hour.",
   },
   somerville: {
     title: "House Cleaning Somerville MA",
@@ -278,7 +278,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Somerville houses are mostly multi-families with an owner living on one floor. Spring Hill, Winter Hill, Prospect Hill, and Ten Hills hold two- and three-family homes with long floor plans, rear kitchens, back porches, and often original hardwood under decades of finish. Our house cleaning teams know the layouts by heart and work front to back with a plan, finishing the back hall and pantry that most services forget.",
       "The city is renovating quickly, so a Somerville home often pairs a 1900 shell with a 2020 kitchen. Our product kit covers both: dry-mopped and barely damp passes on old wood, pH-neutral cleaners on new stone, streak-free finishes on stainless. Radiators are dusted fin by fin rather than blown clean. High ceilings in older homes are dusted with extension tools so cobwebs and dust do not accumulate out of reach.",
-      "Somerville homeowners are often families, professionals commuting to Kendall, and long-time residents who have watched the neighborhood change. Biweekly plans with a consistent lead cleaner are the norm. Owner-occupants frequently book turnover cleans for their rental floors between tenants, especially around September 1. Access and parking follow the Somerville pattern and our teams plan for both; neither affects your flat quote.",
+      "Somerville homeowners are often families, professionals commuting to Kendall, and long-time residents who have watched the neighborhood change. Biweekly plans with a consistent lead cleaner are the norm. Owner-occupants frequently book turnover cleans for their rental floors between tenants, especially around September 1. Access and parking follow the Somerville pattern and our teams plan for both; neither affects your upfront quote.",
     ],
     faqs: [
       {
@@ -303,7 +303,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Somerville house cleaning this week",
-    ctaDescription: "Tell us the hill, the floor plan, and how we get in. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Tell us the hill, the floor plan, and how we get in. An upfront quote and open times arrive within the hour.",
   },
   "south-boston": {
     title: "House Cleaning South Boston",
@@ -316,7 +316,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South of Broadway, Southie is a century-old grid of brick rowhouses, wood-frame three-deckers, and single-family homes that grow larger toward City Point and Marine Park. Many have been renovated top to bottom, pairing original hardwood and exposed brick with new kitchens and rooftop decks. Our house cleaning teams work all of it: dry-mopping old wood, pH-neutral cleaners on new stone, and streak-free finishes on stainless and glass.",
       "South Boston households are young and busy. Finance and biotech professionals, young families, and long-time residents all want the same thing from a cleaning service: show up when you said you would and leave the house properly done. Our two-hour arrival windows are kept, and evening slots are popular here for residents who want the home finished before they get back from the office or the gym. Dispatch runs 24/7.",
-      "Biweekly plans with a consistent lead cleaner are the most common choice, with weekly service for larger family homes near the beach. Owner-occupants of three-deckers often keep a plan for their floor and book turnover cleans for the rentals around the first of the month. Parking is resident-permit and streets are tight; our teams plan for it and it never appears on your quote. Every visit is flat-priced with a 24-hour guarantee.",
+      "Biweekly plans with a consistent lead cleaner are the most common choice, with weekly service for larger family homes near the beach. Owner-occupants of three-deckers often keep a plan for their floor and book turnover cleans for the rentals around the first of the month. Parking is resident-permit and streets are tight; our teams plan for it and it never appears on your quote. Every visit is priced upfront with a 24-hour guarantee.",
     ],
     faqs: [
       {
@@ -341,7 +341,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book South Boston house cleaning this week",
-    ctaDescription: "Tell us the street, home size, and preferred time. A flat quote and open slots come back within the hour.",
+    ctaDescription: "Tell us the street, home size, and preferred time. An upfront quote and open slots come back within the hour.",
   },
   "south-end": {
     title: "House Cleaning South End Boston",
@@ -354,7 +354,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "A South End house is usually a brick bowfront on Union Park, Rutland Square, Worcester Square, or one of the tree-lined streets between Columbus and Harrison. Whether it is a single-family home restored to its original layout or a duplex spanning the upper floors, it has marble mantels, plaster medallions, pocket doors, tall windows, and hardwood refinished many times over. Our house cleaning teams treat those surfaces as the point of the job, not an obstacle.",
       "Multi-level rowhouses are cleaned in sequence: top floor to garden level, wet rooms last, so stairs and floors stay clean as the team works down and the entry hall is the last room finished. Marble and stone get pH-neutral cleaners. Hardwood is dry-mopped before a barely damp pass. Plaster is dusted with soft brushes. Pocket doors and their tracks are cleaned rather than skipped. Tall windows are wiped on the inside as part of every deep clean.",
-      "South End homeowners include long-time residents, professionals within walking distance of Back Bay and the hospitals, and a large community with restaurant and creative-industry hours. That is why we schedule seven days a week and why Sunday afternoon is a common standing slot here. Plant-based, fragrance-free products are available at no extra cost. Every visit comes with a flat price, a consistent lead cleaner, and a 24-hour guarantee.",
+      "South End homeowners include long-time residents, professionals within walking distance of Back Bay and the hospitals, and a large community with restaurant and creative-industry hours. That is why we schedule seven days a week and why Sunday afternoon is a common standing slot here. Plant-based, fragrance-free products are available at no extra cost. Every visit comes with an upfront price, a consistent lead cleaner, and a 24-hour guarantee.",
     ],
     faqs: [
       {
@@ -379,6 +379,6 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book South End house cleaning this week",
-    ctaDescription: "Send the square, the number of floors, and your preferred day. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the square, the number of floors, and your preferred day. An upfront quote and open times arrive within the hour.",
   },
 };

@@ -15,7 +15,7 @@ import { generateAboutPageSchema, generateBreadcrumbSchema, SchemaScript } from 
 export const metadata: Metadata = {
   title: "About Boston Cleaning Services",
   description:
-    "Meet Boston Cleaning Services: a locally run residential cleaning company with employee cleaners, flat pricing, and a 24-hour guarantee serving Boston and...",
+    "Meet Boston Cleaning Services: a locally run residential cleaning company with employee cleaners, upfront pricing, and a 24-hour guarantee serving Boston and...",
   alternates: { canonical: `${SITE_URL}/about` },
 };
 
@@ -36,8 +36,8 @@ const values = [
     text: "Every cleaner carries the same room-by-room checklist. The job is done when the list is done, not when the clock says so.",
   },
   {
-    title: "Say the price once",
-    text: "Quotes are flat and given in writing before booking. Add-ons are priced up front. There is no upsell at the door.",
+    title: "Say the price early",
+    text: "Quotes are given in writing before booking, based on the size and condition of the home. If a heavy-duty or pet-shedding fee applies, you hear about it then, not on the invoice.",
   },
   {
     title: "Own the mistake",

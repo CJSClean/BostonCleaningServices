@@ -20,7 +20,7 @@ const content: AreaPageContent = {
   h1: "Professional Cleaning Services in Back Bay, MA",
   subtitle:
     "From fourth-floor brownstone walk-ups on Marlborough Street to full-service towers on Boylston, our teams clean Back Bay homes with the care original plaster, parquet, and marble demand.",
-  highlights: ["Brownstone and walk-up specialists", "Concierge and doorman coordination", "Fragrance-free products on request", "Flat quotes, no hourly meter"],
+  highlights: ["Brownstone and walk-up specialists", "Concierge and doorman coordination", "Fragrance-free products on request", "Upfront quotes, no hourly meter"],
   introTitle: "Cleaning the most architecturally particular square mile in Boston",
   intro: [
     "Back Bay was built on filled tidal marsh in the second half of the nineteenth century, and its brownstones were designed as single-family mansions before being carved into the condos and apartments most residents occupy today. That history shows up in the cleaning: original parquet floors, marble fireplace surrounds, plaster crown moulding, tall single-pane windows, and radiators under every sill. Our teams are trained on those surfaces before they ever set foot on Commonwealth Avenue.",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Back Bay cleaning this week",
-  ctaDescription: "Send your address, unit size, and building details. A flat quote and open times arrive within the hour, seven days a week.",
+  ctaDescription: "Send your address, unit size, and building details. An upfront quote and open times arrive within the hour, seven days a week.",
   areaServed: ["Back Bay, Boston, MA"],
 };
 

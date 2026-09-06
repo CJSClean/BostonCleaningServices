@@ -8,7 +8,7 @@ const steps = [
   },
   {
     title: "Get a firm price",
-    text: "A coordinator replies with a flat quote and open time slots, usually within the hour. No surprise charges on the day.",
+    text: "A coordinator replies with an upfront quote and open time slots, usually within the hour. Any heavy-duty or pet-shedding fee is flagged in the quote, not on the day.",
   },
   {
     title: "We clean, you check",

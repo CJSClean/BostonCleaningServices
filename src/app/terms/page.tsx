@@ -54,7 +54,7 @@ const sections: { heading: string; body: string[] }[] = [
   {
     heading: "Pricing changes and termination",
     body: [
-      "Quotes are based on the information you provide. If a home is materially larger or in a different condition than described, we will confirm any adjustment with you before proceeding. Either party may end a recurring plan at any time with 48 hours' notice before the next visit.",
+      "Quotes are based on the information you provide about the size and condition of the home. Homes requiring heavy-duty cleaning, including heavy buildup or an extended gap since the last professional clean, and homes with pets that shed heavily, carry an additional fee that is disclosed before booking. If a home is materially larger or in a different condition than described, we will confirm any adjustment with you before proceeding. Either party may end a recurring plan at any time with 48 hours' notice before the next visit.",
     ],
   },
   {

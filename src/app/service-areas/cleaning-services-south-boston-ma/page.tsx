@@ -20,7 +20,7 @@ const content: AreaPageContent = {
   h1: "Professional Cleaning Services in South Boston, MA",
   subtitle:
     "Glass towers in the Seaport, brick lofts in Fort Point, and three-deckers from Andrew Square to City Point. Our South Boston teams handle building rules, harbor-side windows, and old Southie floors alike.",
-  highlights: ["Seaport concierge buildings", "Fort Point lofts and triple-deckers", "Floor-to-ceiling glass done streak-free", "Flat quotes, same-week slots"],
+  highlights: ["Seaport concierge buildings", "Fort Point lofts and triple-deckers", "Floor-to-ceiling glass done streak-free", "Upfront quotes, same-week slots"],
   introTitle: "Cleaning the newest and oldest parts of the city, side by side",
   intro: [
     "South Boston contains two very different neighborhoods under one name. The Seaport and Fort Point are the newest part of Boston: luxury towers with concierges, converted brick warehouses turned into lofts, and floor-to-ceiling glass looking over the harbor. South of Broadway, Southie proper is a century-old grid of triple-deckers, brick rowhouses, and single-families climbing toward Dorchester Heights and out to City Point. Our teams clean both every week.",
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Fort Point lofts bring high ceilings, exposed brick and timber, polished concrete or wide-plank floors, and a lot of dust that settles from those ceilings. We dust top down, treat brick and concrete with pH-neutral cleaners, and use dry then damp passes on wood so nothing warps. Open floor plans go quickly; the details take the time, and we give them that time.",
     "In the triple-deckers and rowhouses of the old neighborhood, the work is closer to what we do across Boston: hardwood dry-mopped, radiators hand-dusted, cast-iron tubs scrubbed, and rear kitchens degreased. Parking is resident-permit and the streets are tight, so teams plan a stopping strategy for each block and carry equipment in. None of that shows up on your quote.",
     "South Boston households lean young and busy: finance and biotech professionals in the Seaport, young families and long-time residents in Southie. Biweekly plans are the most common, with weekly visits for larger family homes near Marine Park and monthly cleans for the many one-bedroom condos. Our dispatch runs seven days a week, and evening slots are popular here for people who want the place done before they get home.",
-    "Move cleans follow the first-of-month rental cycle, and we coordinate with the property managers who run many of the Seaport's rental buildings. Deep cleans before a sale, after a renovation, or simply as a spring reset are all flat-priced and confirmed before booking. Every visit comes with our team, arrival and completion texts, and a 24-hour re-clean guarantee.",
+    "Move cleans follow the first-of-month rental cycle, and we coordinate with the property managers who run many of the Seaport's rental buildings. Deep cleans before a sale, after a renovation, or simply as a spring reset are all priced upfront and confirmed before booking. Every visit comes with our team, arrival and completion texts, and a 24-hour re-clean guarantee.",
   ],
   servicesTitle: "Cleaning services available in South Boston",
   servicesIntro: "Seaport condo or Southie three-decker, each service is priced for the home. Open one for local notes and FAQs.",
@@ -70,7 +70,7 @@ const content: AreaPageContent = {
     {
       question: "How much does apartment cleaning cost in South Boston?",
       answer:
-        "A one-bedroom typically runs $130 to $170 for a routine clean and $190 to $250 for a deep clean; two-bedrooms run $170 to $220 routine. Quotes are flat and set before booking.",
+        "A one-bedroom typically runs $130 to $170 for a routine clean and $190 to $250 for a deep clean; two-bedrooms run $170 to $220 routine. Quotes are based on size and condition and set before booking.",
     },
     {
       question: "Can you clean floor-to-ceiling windows?",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a South Boston cleaning this week",
-  ctaDescription: "Send the building or street, unit size, and preferred time. A flat quote and open slots come back within the hour.",
+  ctaDescription: "Send the building or street, unit size, and preferred time. An upfront quote and open slots come back within the hour.",
   areaServed: ["South Boston, MA", "Seaport District, Boston, MA"],
 };
 

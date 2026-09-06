@@ -19,7 +19,7 @@ export const housePricing: PriceTable = {
     { label: "Estate", detail: "4+ bed / 3+ bath", values: ["$320+", "$650+"] },
   ],
   footnote:
-    "Recurring clients save 10 to 15 percent on every visit after the first. Quotes reflect the condition of the home and any add-ons you select.",
+    "Recurring clients save 10 to 15 percent on every visit after the first. Quotes reflect the size and condition of the home and any add-ons you select.",
 };
 
 export const apartmentPricing: PriceTable = {

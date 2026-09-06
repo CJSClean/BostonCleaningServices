@@ -19,7 +19,7 @@ export default function SuccessPage() {
           </div>
           <h1 className="font-display text-3xl font-semibold text-navy sm:text-4xl">We have your request</h1>
           <p className="mt-4 text-lg text-muted">
-            A coordinator will call or text you with a flat quote and available times, usually within the hour during
+            A coordinator will call or text you with an upfront quote and available times, usually within the hour during
             operating hours. Need something sooner? Call {SITE_CONFIG.phone}.
           </p>
           <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">

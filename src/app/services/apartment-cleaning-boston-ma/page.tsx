@@ -25,7 +25,7 @@ const KEY = "apartment-cleaning";
 export const metadata: Metadata = {
   title: "Apartment Cleaning Boston MA",
   description:
-    "Apartment cleaning in Boston, MA for walk-ups, triple-deckers, and high-rises. Insured employee cleaners, building access handled, flat quotes from $110.",
+    "Apartment cleaning in Boston, MA for walk-ups, triple-deckers, and high-rises. Insured employee cleaners, building access handled, upfront quotes from $110.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 
@@ -33,7 +33,7 @@ const intro = [
   "Roughly two thirds of Boston households rent, and most of those live in apartments that were never designed for easy cleaning. Galley kitchens with no counter space, bathrooms with original 1920s tile, radiators under every window, and hallways where a vacuum cord becomes a tripping hazard. Our apartment cleaning service exists for those units, from a 380-square-foot studio in the Fenway to a three-bedroom floor-through in a Somerville triple-decker.",
   "Apartment logistics are half the job. Our coordinators collect building details when you book: whether there is an elevator, where the team can park or unload, how to reach the concierge, and any rules about service hours. Cleaners carry their equipment up walk-ups without complaint and know how to work quietly in buildings with thin walls and shared hallways.",
   "The clean itself follows the same checklist we use everywhere. Kitchen counters, stovetop, and appliance exteriors. Bathroom scrubbed and sanitized, including the tile grout lines in older units. Dusting from the top of the fridge to the baseboards, beds made, floors vacuumed and mopped with the right solution for the surface. A typical one-bedroom takes our team around 90 minutes.",
-  "Because apartment turnover in Boston revolves around September 1 and the first of each month, we hold capacity for lease-related cleanings and can usually fit a first-time routine visit inside the same week. Roommates splitting the cost, remote workers who need the place quiet by a certain hour, and landlords maintaining a unit between tenants all get the same flat, upfront pricing.",
+  "Because apartment turnover in Boston revolves around September 1 and the first of each month, we hold capacity for lease-related cleanings and can usually fit a first-time routine visit inside the same week. Roommates splitting the cost, remote workers who need the place quiet by a certain hour, and landlords maintaining a unit between tenants all get the same upfront, condition-based pricing.",
   "Recurring plans make the most sense for apartments because the space is small enough that regular maintenance keeps it nearly spotless. A biweekly visit to a one-bedroom often costs less than a night out and frees up the weekend entirely. Try a single visit first if you like. The discount kicks in the moment you switch to a schedule.",
 ];
 
@@ -87,7 +87,7 @@ const faqs = [
   {
     question: "How much does apartment cleaning cost in Boston?",
     answer:
-      "Studios start around $110, one-bedrooms $130 to $170, and two-bedrooms $170 to $220 for a routine visit. Deep cleans run higher. Every quote is flat and confirmed before booking, and recurring plans lower the rate on later visits.",
+      "Studios start around $110, one-bedrooms $130 to $170, and two-bedrooms $170 to $220 for a routine visit. Deep cleans run higher. Every quote reflects the unit's size and condition, is confirmed before booking, and drops on recurring visits. Heavy buildup or heavy pet shedding adds a fee we disclose up front.",
   },
   {
     question: "Do you clean apartments in buildings without elevators?",
@@ -144,7 +144,7 @@ export default function ApartmentCleaningPage() {
           eyebrow="Apartment cleaning"
           title="Apartment Cleaning Services in Boston, MA"
           subtitle="Studios, one-beds, and shared units in walk-ups, triple-deckers, and high-rises. We handle the building logistics, bring everything, and finish a one-bedroom in about 90 minutes."
-          highlights={["Flat quotes from $110", "Walk-ups and concierge buildings", "Fragrance-free products available", "Same-week availability"]}
+          highlights={["Upfront quotes from $110", "Walk-ups and concierge buildings", "Fragrance-free products available", "Same-week availability"]}
           breadcrumbs={[
             { name: "Home", href: "/" },
             { name: "Services", href: "/#services" },
@@ -179,7 +179,7 @@ export default function ApartmentCleaningPage() {
         <FAQ title="Apartment cleaning questions" items={faqs} />
         <CTABand
           title="Get your apartment cleaned this week"
-          description="Send your unit size and building details. We reply with a flat price and the first available slots."
+          description="Send your unit size and building details. We reply with an upfront price and the first available slots."
           defaultService={KEY}
         />
       </PageShell>

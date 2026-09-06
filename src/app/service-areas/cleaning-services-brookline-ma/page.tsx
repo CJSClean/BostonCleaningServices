@@ -8,7 +8,7 @@ const loc = getLocationByKey("brookline")!;
 export const metadata: Metadata = {
   title: "Cleaning Services Brookline MA",
   description:
-    "House and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured local teams, flat pricing, weekly to monthly plans.",
+    "House and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured local teams, upfront pricing, weekly to monthly plans.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Families are the core of our Brookline clientele, and family homes have a specific cleaning profile: kitchens that produce three meals a day, bathrooms shared by kids, playrooms, and floors that see cleats, boots, and paws. Weekly and biweekly plans are the norm here, and our checklist puts extra attention on high-touch surfaces like switch plates, cabinet handles, and the fridge door.",
     "Pets are nearly universal. Our teams are comfortable working around dogs and cats, know how to get fur out of upholstery and off stair runners, and carry an enzyme cleaner for the occasional accident. Tell us about the animals when booking and we will note anything that helps the visit go smoothly, including which room the cat hides in.",
     "Seasonal deep cleans are popular in Brookline as well, particularly in spring when the salt and sand of a Norfolk County winter finally leave the entryway, and in late summer before the school year restarts. We also serve landlords managing multi-family Victorians and condo owners preparing units for sale, where a deep clean before photographs makes a measurable difference.",
-    "Whatever the property, the process is the same: a flat quote based on size, layout, and condition, a trained team, a text when we arrive and finish, and a 24-hour guarantee that we return to fix anything missed. Brookline residents can reach a coordinator seven days a week to adjust a plan around school vacations, travel, or a new baby.",
+    "Whatever the property, the process is the same: an upfront quote based on size, layout, and condition, a trained team, a text when we arrive and finish, and a 24-hour guarantee that we return to fix anything missed. Brookline residents can reach a coordinator seven days a week to adjust a plan around school vacations, travel, or a new baby.",
   ],
   servicesTitle: "Cleaning services available in Brookline",
   servicesIntro: "From a Coolidge Corner studio to a Fisher Hill colonial, each service is priced for the home. Open one for Brookline-specific notes.",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Brookline cleaning this week",
-  ctaDescription: "Send bedrooms, bathrooms, and your preferred schedule. A flat quote and open times arrive within the hour.",
+  ctaDescription: "Send bedrooms, bathrooms, and your preferred schedule. An upfront quote and open times arrive within the hour.",
   areaServed: ["Brookline, MA"],
 };
 

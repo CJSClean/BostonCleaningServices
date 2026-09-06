@@ -12,7 +12,7 @@ import { generateBreadcrumbSchema, generateContactPageSchema, SchemaScript } fro
 export const metadata: Metadata = {
   title: "Contact Boston Cleaning Services",
   description:
-    "Call, text, or send a quick form to Boston Cleaning Services for a flat-rate quote. Coordinators reply within an hour, 7 days a week.",
+    "Call, text, or send a quick form to Boston Cleaning Services for an upfront quote. Coordinators reply within an hour, 7 days a week.",
   alternates: { canonical: `${SITE_URL}/contact` },
 };
 
@@ -62,7 +62,7 @@ export default function ContactPage() {
         <Hero
           eyebrow="Contact"
           title="Contact Boston Cleaning Services"
-          subtitle="Send the form, text, or call. Tell us the size of your place and what you need, and you will have a flat price and open time slots shortly after."
+          subtitle="Send the form, text, or call. Tell us the size of your place and what you need, and you will have an upfront price and open time slots shortly after."
           breadcrumbs={[
             { name: "Home", href: "/" },
             { name: "Contact", href: "/contact" },

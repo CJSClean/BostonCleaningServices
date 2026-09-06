@@ -20,7 +20,7 @@ const content: AreaPageContent = {
   h1: "Professional Cleaning Services in Suffolk County, MA",
   subtitle:
     "Suffolk County is Boston. From the harbor to the Arboretum, our teams clean apartments, condos, and houses across every neighborhood with one checklist and one standard of service.",
-  highlights: ["All Boston neighborhoods", "Brownstones, triple-deckers, and towers", "Flat quotes before booking", "Seven-day dispatch"],
+  highlights: ["All Boston neighborhoods", "Brownstones, triple-deckers, and towers", "Upfront quotes before booking", "Seven-day dispatch"],
   introTitle: "One county, twenty-plus neighborhoods, one standard",
   intro: [
     "Suffolk County is small in area and enormous in variety. It includes all of Boston plus Chelsea, Revere, and Winthrop, and within Boston alone the housing ranges from 1790s brick on Beacon Hill to glass towers finished last year in the Seaport. Boston Cleaning Services is headquartered here, and our teams cover the county's neighborhoods every day of the week.",
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "What unites the county's housing is age and density. Most Boston homes were built before 1940, which means hardwood, plaster, radiators, and tile that need specific care. Most are close together, which means permit parking, shared entries, and neighbors on the other side of the wall. Our teams train on the surfaces and plan for the logistics so neither shows up as a problem, or a line item, for you.",
     "The county's rental calendar is the most concentrated in the country. September 1 and the first of each month bring waves of move-in and move-out cleans, and we hold capacity for those dates and coordinate with landlords and managers who run units across multiple neighborhoods. For homeowners, seasonal deep cleans in spring and fall bookend the salt-and-sand winter.",
     "Recurring service is the backbone of our Suffolk County work. Weekly, biweekly, and monthly plans get a consistent lead cleaner, a standing slot, and a discount on every visit after the first. Because our teams are already in the city, first-time visits can usually be placed within the same week, and evening and weekend slots are available.",
-    "Every job in the county comes with the same guarantees: a flat price confirmed before booking, a team of background-checked employees, texts at arrival and completion, and a 24-hour window in which we return to fix anything missed. Coordinators are reachable seven days a week by phone or text.",
+    "Every job in the county comes with the same guarantees: an upfront price confirmed before booking, a team of background-checked employees, texts at arrival and completion, and a 24-hour window in which we return to fix anything missed. Coordinators are reachable seven days a week by phone or text.",
   ],
   servicesTitle: "Cleaning services across Suffolk County",
   servicesIntro: "Every service is available in every Boston neighborhood. Open one for city-wide details and pricing.",
@@ -104,7 +104,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a cleaning anywhere in Boston",
-  ctaDescription: "Tell us the neighborhood, home size, and what you need. A flat quote and available times arrive within the hour.",
+  ctaDescription: "Tell us the neighborhood, home size, and what you need. An upfront quote and available times arrive within the hour.",
   areaServed: ["Suffolk County, MA", "Boston, MA"],
   relatedAreas: [{ name: "Boston", href: "/" }, ...towns.map((t) => ({ name: t.name, href: t.href }))],
   relatedTitle: "Suffolk County area pages",

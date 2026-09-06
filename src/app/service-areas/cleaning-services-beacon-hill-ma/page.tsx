@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Access is part of the job here. Many units are reached through a shared front door with a second door at the top of a flight of stairs, and street parking is resident-permit only. Our coordinators note entry instructions at booking, and teams plan their route in from the Cambridge Street side or the Common depending on the block. You leave a key or a code and hear from us when we arrive and when we finish.",
     "Routine visits on Beacon Hill focus on the surfaces that show fastest in small, old homes: dark hardwood, black iron fixtures, marble mantels, white bathroom tile, and the dust that gathers in deep window wells. We dry-mop pine floors rather than soaking them, use pH-neutral products on marble and soapstone, and clean radiators fin by fin rather than pushing dust into the air.",
     "Deep cleans here are frequently about reaching what compact layouts hide: the top of a built-in bookcase, the space behind a claw-foot tub, grout in a hex-tile bathroom floor, and cabinet fronts in a galley kitchen that has seen decades of cooking. We take our time and treat the details as the point, not the extra.",
-    "Turnover cleaning follows the September 1 and first-of-month rhythm that governs Boston rentals, and we coordinate with landlords and agents who manage multiple Beacon Hill units. Whether it is a weekly plan for a family on Mount Vernon Street or a single deep clean before guests arrive, you get a flat price, a trained team, and a 24-hour re-clean guarantee.",
+    "Turnover cleaning follows the September 1 and first-of-month rhythm that governs Boston rentals, and we coordinate with landlords and agents who manage multiple Beacon Hill units. Whether it is a weekly plan for a family on Mount Vernon Street or a single deep clean before guests arrive, you get an upfront price, a trained team, and a 24-hour re-clean guarantee.",
   ],
   servicesTitle: "Cleaning services available on Beacon Hill",
   servicesIntro: "Each service is adapted for compact historic homes. Open one for Beacon Hill pricing notes and FAQs.",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Beacon Hill cleaning this week",
-  ctaDescription: "Send the street, unit size, and how we get in. A flat quote and available times come back within the hour.",
+  ctaDescription: "Send the street, unit size, and how we get in. An upfront quote and available times come back within the hour.",
   areaServed: ["Beacon Hill, Boston, MA"],
 };
 

@@ -66,7 +66,7 @@ const shared: Record<string, ServiceShared> = {
     benefits: [
       { title: "Right-sized crew, one consistent lead", description: "We size the crew to the home, and cleaners check each other's work. Your lead cleaner stays the same on recurring plans." },
       { title: "Published checklist", description: "Every room's tasks are listed on this site. There is no guessing about whether the baseboards or the microwave were supposed to be done." },
-      { title: "Flat pricing, no meter", description: "The quote is set before we arrive and does not change unless you add a service on the day." },
+      { title: "Upfront pricing, no meter", description: "The quote reflects your home's size and condition. Heavy-duty or pet-shedding fees are confirmed with you before work begins, never added silently." },
       { title: "24-hour guarantee", description: "Anything missed is re-cleaned free within 24 hours of your call or text." },
     ],
     showFrequencies: true,
@@ -108,7 +108,7 @@ const shared: Record<string, ServiceShared> = {
       { title: "We move things", description: "Couches, beds, and the stove come away from the wall so the surfaces behind them are actually cleaned, then go back exactly where they were." },
       { title: "Grout and fixtures by hand", description: "Tile lines, shower tracks, and faucet bases are scrubbed with brushes and the right product, not sprayed and wiped." },
       { title: "Kitchen degreasing that lasts", description: "Range hood, backsplash, and cabinet fronts near the stove are degreased, which routine cleaning skips." },
-      { title: "Generous time, fixed price", description: "Deep cleans are scheduled with room to breathe, and the flat quote does not change once the team is in the door." },
+      { title: "Generous time, fixed price", description: "Deep cleans are scheduled with room to breathe, and any condition-based fee is agreed before the team starts." },
     ],
     showFrequencies: false,
   },
@@ -146,7 +146,7 @@ const shared: Record<string, ServiceShared> = {
     benefitsTitle: (l) => `Why departing ${l} tenants use us`,
     benefits: [
       { title: "Built around the inspection", description: "Our checklist follows the items landlords check most, and photos of each finished room are available on request." },
-      { title: "One flat price", description: "Cabinets, drawers, and closets are all included in the flat price. Oven and fridge interiors are the only optional add-ons." },
+      { title: "One upfront price", description: "Cabinets, drawers, and closets are all included in the upfront price. Oven and fridge interiors are the only optional add-ons." },
       { title: "Remote coordination", description: "Already moved? We collect and return keys via lockbox or leasing office and confirm completion by text and email." },
       { title: "Turnover experience everywhere", description: "From student blocks to concierge towers, our coordinators have handled the building's move-out rules before." },
     ],

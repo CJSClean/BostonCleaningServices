@@ -9,7 +9,7 @@ const towns = getLocationsByCounty("Norfolk County");
 export const metadata: Metadata = {
   title: "Cleaning Services Norfolk County MA",
   description:
-    "House cleaning in inner Norfolk County, MA: Brookline, Newton, Needham, Wellesley, Dedham, and Milton. Insured teams sized for family homes, flat quotes.",
+    "House cleaning in inner Norfolk County, MA: Brookline, Newton, Needham, Wellesley, Dedham, and Milton. Insured teams sized for family homes, upfront quotes.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 
@@ -19,7 +19,7 @@ const content: AreaPageContent = {
   eyebrow: "Norfolk County",
   h1: "Professional Cleaning Services in Norfolk County, MA",
   subtitle:
-    "Brookline and Newton are our Norfolk County base, with teams reaching Needham, Wellesley, Dedham, and Milton. Larger family homes, longer appointments, and the same flat pricing and guarantee.",
+    "Brookline and Newton are our Norfolk County base, with teams reaching Needham, Wellesley, Dedham, and Milton. Larger family homes, longer appointments, and the same upfront pricing and guarantee.",
   highlights: ["Brookline and Newton daily", "Sized for larger family homes", "Weekly and biweekly plans", "Kid and pet friendly teams"],
   introTitle: "Cleaning for the family-home suburbs west and south of Boston",
   intro: [
@@ -27,7 +27,7 @@ const content: AreaPageContent = {
     "The housing here is bigger than in the city. Three- to five-bedroom colonials, capes, Tudors, and new builds with finished basements, mudrooms, home offices, and two or three full bathrooms are the norm. Our Norfolk County appointments are scheduled accordingly, with the team working upstairs to down in a logical sequence and a quote that includes every finished space from the start.",
     "Family life shapes the work. Kitchens produce three meals a day, bathrooms are shared, and the entryway takes the full brunt of a New England winter. Weekly and biweekly plans are the most common choice, timed for school hours so the house is finished before pickup. Our teams organize toys rather than shove them aside, lift pet hair from runners and upholstery, and carry a plant-based product line for households that prefer it.",
     "Older Norfolk homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and open plans full of glass. Our teams are trained on both. Wood is dry-mopped before a barely damp pass. Stone gets a pH-neutral cleaner. Stainless is left streak-free. Nothing is soaked, scratched, or dulled.",
-    "Seasonal deep cleans bookend the year: spring to clear the salt and sand, fall before hosting season. Move-in cleans serve buyers in a fast market who close on Friday and move in Saturday. Post-construction cleans follow the many kitchen and whole-home renovations underway in Brookline and Newton. Each is flat-priced and confirmed before booking.",
+    "Seasonal deep cleans bookend the year: spring to clear the salt and sand, fall before hosting season. Move-in cleans serve buyers in a fast market who close on Friday and move in Saturday. Post-construction cleans follow the many kitchen and whole-home renovations underway in Brookline and Newton. Each is priced upfront and confirmed before booking.",
     "Every Norfolk County visit comes with a consistent lead cleaner, texts at arrival and completion, and a 24-hour guarantee that we return to fix anything missed. Coordinators are reachable seven days a week to adjust plans around school vacations, travel, and the arrival of a new baby.",
   ],
   servicesTitle: "Cleaning services across Norfolk County",
@@ -101,7 +101,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a cleaning in Norfolk County",
-  ctaDescription: "Tell us the town, bedrooms, bathrooms, and finished spaces. A flat quote and available times arrive within the hour.",
+  ctaDescription: "Tell us the town, bedrooms, bathrooms, and finished spaces. An upfront quote and available times arrive within the hour.",
   areaServed: ["Norfolk County, MA", "Brookline, MA", "Newton, MA", "Needham, MA", "Wellesley, MA", "Dedham, MA", "Milton, MA"],
   relatedAreas: towns.map((t) => ({ name: t.name, href: t.href })),
   relatedTitle: "Norfolk County area pages",

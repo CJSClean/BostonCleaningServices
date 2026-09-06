@@ -19,8 +19,8 @@ const content: AreaPageContent = {
   eyebrow: "Jamaica Plain, Boston",
   h1: "Professional Cleaning Services in Jamaica Plain, MA",
   subtitle:
-    "Triple-deckers off Centre Street, Victorians around the Pond, and new condos near Forest Hills. Our JP teams clean them all with flat pricing, plant-based products on request, and schedules that fit real life.",
-  highlights: ["Triple-decker and Victorian experience", "Plant-based, fragrance-free option", "Pet and kid friendly", "Flat quotes, no hourly meter"],
+    "Triple-deckers off Centre Street, Victorians around the Pond, and new condos near Forest Hills. Our JP teams clean them all with upfront pricing, plant-based products on request, and schedules that fit real life.",
+  highlights: ["Triple-decker and Victorian experience", "Plant-based, fragrance-free option", "Pet and kid friendly", "Upfront quotes, no hourly meter"],
   introTitle: "Cleaning for a neighborhood that does things its own way",
   intro: [
     "Jamaica Plain has a reputation as Boston's most independent-minded neighborhood, and its housing matches. Rows of triple-deckers climb the hills off Centre and Washington Streets. Grand Victorians and shingle-style homes ring Jamaica Pond and fill Sumner Hill and Moss Hill. Newer condo buildings cluster near Forest Hills and along the Southwest Corridor. Our JP teams work across all of it, adjusting tools and products to each home rather than treating the neighborhood as one thing.",
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "The Victorians around the Pond and in Sumner Hill bring high ceilings, ornate trim, stained glass, and staircases with turned balusters. These homes collect dust in places a quick clean never reaches. Our routine visits dust from the top down, and deep cleans get into picture rails, ceiling medallions, and the grooves of wainscoting with brushes rather than sprays.",
     "JP residents are among the most likely in the city to ask what is in our cleaning products, and we are glad to answer. Our standard kit is professional grade and residue-free once dry. We also carry a plant-based, fragrance-free line that we will use exclusively at no extra charge. Many of our JP customers have it as a permanent note on their account, along with instructions about the compost bin and which door the dog does not go through.",
     "Households here range from young families and artists in shared triple-decker floors to long-time homeowners on Pondside and hospital staff commuting to Longwood. Biweekly plans dominate, with weekly service for larger family homes and monthly visits for smaller condos. We hold weekday and Saturday morning slots in JP because that is when the neighborhood wants us.",
-    "Move cleans follow the first-of-month and September 1 rental cycle, and we coordinate with the many small landlords who own and live in JP triple-deckers. Whatever the job, you get a flat price before booking, a trained team, a text at arrival and completion, and our 24-hour re-clean guarantee.",
+    "Move cleans follow the first-of-month and September 1 rental cycle, and we coordinate with the many small landlords who own and live in JP triple-deckers. Whatever the job, you get an upfront price before booking, a trained team, a text at arrival and completion, and our 24-hour re-clean guarantee.",
   ],
   servicesTitle: "Cleaning services available in Jamaica Plain",
   servicesIntro: "Priced for triple-decker floors, Victorians, and condos alike. Open a service for JP pricing notes and FAQs.",
@@ -65,7 +65,7 @@ const content: AreaPageContent = {
     {
       question: "How much does it cost to clean a triple-decker floor in JP?",
       answer:
-        "A typical two- or three-bedroom triple-decker unit runs $170 to $220 for a routine clean and $250 to $380 for a deep clean, depending on condition. Quotes are flat and confirmed before booking.",
+        "A typical two- or three-bedroom triple-decker unit runs $170 to $220 for a routine clean and $250 to $380 for a deep clean, depending on condition. Quotes are based on size and condition and confirmed before booking.",
     },
     {
       question: "Do you use non-toxic products?",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Jamaica Plain cleaning this week",
-  ctaDescription: "Send the unit size, your schedule, and any product preferences. A flat quote and open times arrive within the hour.",
+  ctaDescription: "Send the unit size, your schedule, and any product preferences. An upfront quote and open times arrive within the hour.",
   areaServed: ["Jamaica Plain, Boston, MA"],
 };
 

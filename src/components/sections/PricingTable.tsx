@@ -41,7 +41,12 @@ export default function PricingTable({ title, intro, table, tone = "canvas", def
         </table>
       </div>
       <div className="mt-6 flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
-        <p className="max-w-2xl text-sm text-muted">{table.footnote}</p>
+        <div className="max-w-2xl space-y-2 text-sm text-muted">
+          <p>{table.footnote}</p>
+          <p>
+            <span className="font-semibold text-ink">Heavy-duty and pet fees:</span> homes with heavy buildup, a long gap since the last professional clean, or pets that shed heavily carry an additional fee. We quote it before you book, never on the invoice.
+          </p>
+        </div>
         <QuoteButton label="Get an exact price" defaultService={defaultService} />
       </div>
     </Section>

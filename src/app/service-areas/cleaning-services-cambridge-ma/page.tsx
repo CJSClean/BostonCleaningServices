@@ -19,7 +19,7 @@ const content: AreaPageContent = {
   eyebrow: "Cambridge, Middlesex County",
   h1: "Professional Cleaning Services in Cambridge, MA",
   subtitle:
-    "From Porter Square Victorians to glass condos over Kendall, our Cambridge teams clean the full range of the city's housing with flat pricing and schedules that flex around academic and lab life.",
+    "From Porter Square Victorians to glass condos over Kendall, our Cambridge teams clean the full range of the city's housing with upfront pricing and schedules that flex around academic and lab life.",
   highlights: ["All five Cambridge zip codes", "Flexible around semesters and travel", "Triple-decker and condo experience", "Plant-based products on request"],
   introTitle: "Cleaning across the Squares, from Harvard to Kendall",
   intro: [
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Older Cambridge homes reward careful cleaning. Wide-plank and narrow-strip hardwood, built-in bookshelves, original woodwork, and radiators under every window are common in Mid-Cambridge, Riverside, and Huron Village. Our cleaners dry-mop wood floors before a barely damp pass, dust radiator fins by hand rather than blowing dust around, and skip harsh chemicals on painted trim. Nothing gets soaked, scratched, or stripped.",
     "Newer buildings bring different logistics. Kendall Square and East Cambridge towers have concierges, freight elevator reservations, and insurance requirements for vendors. We provide certificates of insurance to management, follow quiet-hour rules, and coordinate access so you do not need to be home. Floor-to-ceiling glass and stone countertops are cleaned streak-free with the right products.",
     "Cambridge residents care about what goes into their homes and down their drains. Our standard products are professional grade and residue-free once dry, and we carry a plant-based, fragrance-free line that we will use exclusively at no extra charge. Tell us at booking and it becomes a permanent note on your account.",
-    "Whether you need a biweekly plan for a Cambridgeport condo, a deep clean before a thesis defense celebration, or a move-out clean at the end of a graduate lease, the process is the same: a flat quote before booking, a trained team, arrival and completion texts, and a 24-hour guarantee. We cover all of Cambridge from Alewife to the Charles.",
+    "Whether you need a biweekly plan for a Cambridgeport condo, a deep clean before a thesis defense celebration, or a move-out clean at the end of a graduate lease, the process is the same: an upfront quote before booking, a trained team, arrival and completion texts, and a 24-hour guarantee. We cover all of Cambridge from Alewife to the Charles.",
   ],
   servicesTitle: "Cleaning services available in Cambridge",
   servicesIntro: "Each service is tailored to Cambridge housing and schedules. Open one for local pricing notes and FAQs.",
@@ -70,7 +70,7 @@ const content: AreaPageContent = {
     {
       question: "How much does apartment cleaning cost in Cambridge?",
       answer:
-        "A one-bedroom typically runs $130 to $170 for a routine clean and $190 to $250 for a deep clean. Two-bedrooms in triple-deckers run $170 to $220 routine. Quotes are flat and confirmed before booking.",
+        "A one-bedroom typically runs $130 to $170 for a routine clean and $190 to $250 for a deep clean. Two-bedrooms in triple-deckers run $170 to $220 routine. Quotes are based on size and condition and confirmed before booking.",
     },
     {
       question: "Can I pause my plan over the summer?",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Cambridge cleaning this week",
-  ctaDescription: "Tell us the square, the unit size, and your schedule. A flat quote and available times come back within the hour.",
+  ctaDescription: "Tell us the square, the unit size, and your schedule. An upfront quote and available times come back within the hour.",
   areaServed: ["Cambridge, MA"],
 };
 

@@ -25,7 +25,7 @@ const KEY = "house-cleaning";
 export const metadata: Metadata = {
   title: "House Cleaning Boston MA",
   description:
-    "Flat-rate house cleaning in Boston, MA from insured, background-checked employees. Weekly, biweekly, monthly, or one-time visits with a 24-hour guarantee.",
+    "House cleaning in Boston, MA with upfront quotes from insured, background-checked employees. Weekly, biweekly, monthly, or one-time visits with a 24-hour guarantee.",
   alternates: { canonical: `${SITE_URL}${PATH}` },
 };
 
@@ -34,7 +34,7 @@ const intro = [
   "Most of our house cleaning customers live in the neighborhoods where single-family and two-family homes dominate: Newton, Brookline, Jamaica Plain, West Roxbury, Cambridge west of Harvard Square, and the quieter streets of Somerville and Charlestown. These are homes with hardwood that needs the right mop solution, radiators that collect dust, and original woodwork that should never see an abrasive pad. Our teams are trained on those surfaces specifically.",
   "A routine visit covers every room top to bottom: dusting from light fixtures down, kitchen counters and appliance exteriors, full bathroom sanitizing, beds made, floors vacuumed and mopped. Deep clean tasks such as baseboards, inside the oven, and interior windows are available as add-ons or as a scheduled deep clean, and we recommend one before starting a recurring plan if the house has not had professional attention in a while.",
   "You choose the rhythm. Weekly service suits large families and homes with pets. Biweekly is the most common choice and keeps a typical three- or four-bedroom house in steady shape. Monthly works for smaller households that maintain between visits. Whatever you pick, we assign a consistent lead cleaner so the team learns your home, your preferences, and where the dog likes to hide.",
-  "Pricing is flat and confirmed before the first visit. It is based on bedrooms, bathrooms, approximate square footage, and the current condition of the home, and it drops on every recurring visit after the first. There are no hourly surprises and no charge for supplies or equipment. If anything on the checklist is missed, tell us within 24 hours and we return to fix it free.",
+  "Pricing is confirmed before the first visit. It is based on bedrooms, bathrooms, approximate square footage, and the current condition of the home, and it drops on every recurring visit after the first. Homes with heavy buildup or pets that shed heavily carry an additional fee that we disclose when we quote. There are no hourly surprises and no charge for supplies or equipment. If anything on the checklist is missed, tell us within 24 hours and we return to fix it free.",
 ];
 
 const scenarios = [
@@ -79,7 +79,7 @@ const benefits = [
   {
     title: "Honest scope, honest pricing",
     description:
-      "If the house is bigger or in rougher shape than described, we tell you before starting and agree on a number. No silent overages on the invoice.",
+      "Quotes reflect the size and condition of the house. Heavy buildup or heavy pet shedding adds a fee we disclose before booking, and if the home differs from what was described we agree on a number before starting.",
   },
 ];
 
@@ -148,7 +148,7 @@ export default function HouseCleaningPage() {
         <Hero
           eyebrow="House cleaning"
           title="House Cleaning Services in Boston, MA"
-          subtitle="Recurring or one-time cleaning for single-family homes, two-families, and townhouses. Two trained cleaners, a published checklist, and a flat price confirmed before we arrive."
+          subtitle="Recurring or one-time cleaning for single-family homes, two-families, and townhouses. Two trained cleaners, a published checklist, and an upfront price confirmed before we arrive."
           highlights={["Weekly, biweekly, or monthly plans", "Same lead cleaner on every visit", "Old-house surfaces handled correctly", "24-hour re-clean guarantee"]}
           breadcrumbs={[
             { name: "Home", href: "/" },
@@ -184,7 +184,7 @@ export default function HouseCleaningPage() {
         <FAQ title="House cleaning questions" items={faqs} />
         <CTABand
           title="Take house cleaning off the list for good"
-          description="Send the size of your home and preferred schedule. A flat quote and open dates come back within the hour."
+          description="Send the size of your home and preferred schedule. An upfront quote and open dates come back within the hour."
           defaultService={KEY}
         />
       </PageShell>

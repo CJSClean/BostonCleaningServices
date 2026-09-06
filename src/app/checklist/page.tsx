@@ -107,7 +107,7 @@ export default function ChecklistPage() {
 
         <CTABand
           title="Know what you want? Get it priced."
-          description="Tell us the size of the home and which level you need, and we will send a flat quote with the first open time slots."
+          description="Tell us the size of the home and which level you need, and we will send an upfront quote with the first open time slots."
         />
       </PageShell>
     </>

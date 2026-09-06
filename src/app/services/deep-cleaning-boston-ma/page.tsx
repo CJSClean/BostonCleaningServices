@@ -32,7 +32,7 @@ const intro = [
   "A deep clean is what happens when you stop cleaning around things and start cleaning them. It is the visit where the stove gets pulled forward, the vent covers come off, the grout gets scrubbed instead of wiped, and the dust on top of the kitchen cabinets that nobody has seen in three years finally leaves the building. Our Boston deep cleaning service is a scheduled, methodical version of that, done by a trained team in a single visit.",
   "Boston homes accumulate a particular kind of grime. Winter brings road salt and sand tracked onto every floor. Forced hot water radiators bake dust onto the fins. Older windows let in a steady film of city particulate that settles on sills and blinds. Add a summer of open windows and pollen, and by fall most homes have a layer that routine cleaning simply does not lift. A deep clean resets that baseline.",
   "The checklist includes everything in a routine visit plus the detail work: baseboards wiped by hand, doors and frames cleaned, light fixtures and ceiling fans dusted, range hood degreased, cabinet exteriors washed, tile grout scrubbed, shower tracks detailed, interior window glass cleaned, and furniture moved so floors can be vacuumed and mopped underneath. Inside the oven and refrigerator can be added if you want the kitchen fully reset.",
-  "Most customers book a deep clean in one of four situations: before starting a recurring plan, ahead of hosting or a major holiday, after a period of illness or renovation, or once or twice a year as a seasonal reset. Landlords and property managers also use it between tenants when a full move-out clean is not needed. Whatever the reason, the pricing is flat and set before the team arrives.",
+  "Most customers book a deep clean in one of four situations: before starting a recurring plan, ahead of hosting or a major holiday, after a period of illness or renovation, or once or twice a year as a seasonal reset. Landlords and property managers also use it between tenants when a full move-out clean is not needed. Whatever the reason, the price is set before the team arrives and reflects the size and condition of the home.",
   "Expect a deep clean of a two-bedroom apartment to take roughly four hours, and a three- or four-bedroom house closer to five or six. We do not rush it. If the home is in rougher shape than described, we tell you before starting and agree on any adjustment. When the team leaves, you should notice the difference in every room, not just the ones you were worried about.",
 ];
 
@@ -78,7 +78,7 @@ const benefits = [
   {
     title: "Fixed price, generous time",
     description:
-      "Deep cleans are scheduled with room to breathe. You get a single flat number before booking, and the team stays until the list is finished.",
+      "Deep cleans are scheduled with room to breathe. You get a single number before booking that accounts for the home's condition, and the team stays until the list is finished.",
   },
 ];
 
@@ -91,7 +91,7 @@ const faqs = [
   {
     question: "How much does deep cleaning cost in Boston?",
     answer:
-      "A studio or one-bedroom typically runs $200 to $280, a two-bedroom apartment $280 to $380, and houses $350 to $650 depending on size and condition. Add inside the oven and fridge for a set fee. Every quote is flat and confirmed in writing.",
+      "A studio or one-bedroom typically runs $200 to $280, a two-bedroom apartment $280 to $380, and houses $350 to $650 depending on size and condition. Add inside the oven and fridge for a set fee. Every quote reflects size and condition and is confirmed in writing.",
   },
   {
     question: "How long does a deep clean take?",
@@ -147,7 +147,7 @@ export default function DeepCleaningPage() {
         <Hero
           eyebrow="Deep cleaning"
           title="Deep Cleaning Services in Boston, MA"
-          subtitle="The visit that gets behind the stove, into the grout, and along every baseboard. A full reset for homes that need more than maintenance, priced flat and done in one appointment."
+          subtitle="The visit that gets behind the stove, into the grout, and along every baseboard. A full reset for homes that need more than maintenance, quoted upfront and done in one appointment."
           highlights={["Furniture and appliances moved", "Grout, vents, and fixtures detailed", "Interior windows included", "Oven and fridge add-ons available"]}
           breadcrumbs={[
             { name: "Home", href: "/" },
@@ -182,7 +182,7 @@ export default function DeepCleaningPage() {
         <FAQ title="Deep cleaning questions" items={faqs} tone="canvas" />
         <CTABand
           title="Ready for the whole home to feel new again?"
-          description="Tell us the size and how long it has been since the last professional clean. A flat deep-clean quote comes back within the hour."
+          description="Tell us the size and how long it has been since the last professional clean. An upfront deep-clean quote comes back within the hour."
           defaultService={KEY}
         />
       </PageShell>

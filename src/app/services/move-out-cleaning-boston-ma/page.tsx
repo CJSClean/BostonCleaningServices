@@ -33,7 +33,7 @@ const intro = [
   "The inspection sheet is predictable. Cabinet shelves and drawers. Bathroom grout, tub ring, and the base of the toilet. Closet floors and shelves. Window sills and blinds. Baseboards and the floor along the wall where the bed used to be. Our teams work from a move-out checklist that mirrors those items and photograph the finished rooms so you have a record if a dispute arises.",
   "We recommend booking the clean for after your belongings are out and before the final walkthrough, ideally the day before you hand over keys. An empty unit lets us reach every surface, and finishing a day early leaves room for a touch-up if something is spotted. If the lease ends on August 31 or September 1, book two to three weeks ahead. Those days are the busiest of the year for every cleaner in the city.",
   "Landlords, property managers, and real estate agents are a large part of our move-out clientele. We handle turnover cleans between tenants, coordinate key pickup and return, and can email a completion summary with photos directly to the owner. For tenants, we provide a receipt that many landlords accept as proof of professional cleaning.",
-  "Pricing is flat by unit size and already includes cabinets and closets, so the only add-on decision is whether to include the oven and fridge interiors. Most one-bedroom move-out cleans take about three hours. Trash removal beyond a few bags, wall repairs, and carpet shampooing are outside the scope but we can point you to providers.",
+  "Pricing is quoted by unit size and condition and already includes cabinets and closets, so the only add-on decision is whether to include the oven and fridge interiors. Most one-bedroom move-out cleans take about three hours. Trash removal beyond a few bags, wall repairs, and carpet shampooing are outside the scope but we can point you to providers.",
 ];
 
 const scenarios = [
@@ -66,9 +66,9 @@ const benefits = [
       "Our move-out checklist follows the items landlords and managers check most. Photos of each finished room are available on request for your records.",
   },
   {
-    title: "One flat price, one decision",
+    title: "One upfront price, one decision",
     description:
-      "Cabinets, drawers, closets, and window sills are included in the flat price. Inside the oven and refrigerator are the only optional add-ons, quoted up front.",
+      "Cabinets, drawers, closets, and window sills are included in the upfront price. Inside the oven and refrigerator are the only optional add-ons, quoted up front.",
   },
   {
     title: "Key handling and remote coordination",
@@ -165,7 +165,7 @@ export default function MoveOutCleaningPage() {
         />
         <PricingTable
           title="Move-out cleaning prices in Boston"
-          intro="Flat by unit size, cabinet and closet interiors included, confirmed before you book."
+          intro="Quoted by unit size and condition, cabinet and closet interiors included, confirmed before you book."
           table={movePricing}
           defaultService={KEY}
         />
@@ -182,7 +182,7 @@ export default function MoveOutCleaningPage() {
         <FAQ title="Move-out cleaning questions" items={faqs} tone="canvas" />
         <CTABand
           title="Protect the deposit and skip the scrubbing"
-          description="Send your move-out date and unit size. We confirm a flat price and reserve a slot before the walkthrough."
+          description="Send your move-out date and unit size. We confirm an upfront price and reserve a slot before the walkthrough."
           defaultService={KEY}
         />
       </PageShell>

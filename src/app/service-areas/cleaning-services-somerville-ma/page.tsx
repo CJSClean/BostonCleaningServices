@@ -19,7 +19,7 @@ const content: AreaPageContent = {
   eyebrow: "Somerville, Middlesex County",
   h1: "Professional Cleaning Services in Somerville, MA",
   subtitle:
-    "The densest city in New England is mostly triple-deckers, and we know them floor by floor. From Davis to Assembly Row, flat pricing, flexible scheduling, and teams who carry the vacuum up three flights.",
+    "The densest city in New England is mostly triple-deckers, and we know them floor by floor. From Davis to Assembly Row, upfront pricing, flexible scheduling, and teams who carry the vacuum up three flights.",
   highlights: ["Triple-decker specialists", "Roommate and sublet friendly", "Green Line Extension neighborhoods covered", "Same-week first visits"],
   introTitle: "Cleaning for the city of squares and three-family homes",
   intro: [
@@ -28,7 +28,7 @@ const content: AreaPageContent = {
     "Somerville households are often shared. Graduate students from Tufts and Harvard, young professionals commuting to Kendall, artists, and families sharing a floor all rely on us to keep common spaces peaceful. Roommates split the cost, rotate the card on file, and text the coordinator when someone new moves in. Weekly and biweekly plans are the most common because a shared kitchen and bathroom see a lot of use.",
     "Access and parking follow the Somerville pattern: shared front doors with a second door at the unit, resident-permit street parking, and steep exterior stairs on the back. Our teams plan a stopping strategy for each block and carry everything up. You leave a key or a code, receive a text when we arrive, and another when we finish. There is no stair or parking charge on any quote.",
     "Deep cleans in Somerville frequently tackle the specific grime of old three-families: kitchen grease in the rear of the unit, dust behind radiators, soap scum in a cast-iron tub, and pollen and city dust on wide window sills. We also see a lot of turnover. Move-in and move-out cleans peak on September 1, when much of the city changes hands at once, and we hold capacity for those dates well in advance.",
-    "Whether it is a monthly visit to a Davis Square studio, a biweekly plan for a shared three-bedroom in Spring Hill, or a move-out clean at the end of a lease near Union Square, you get a flat price before booking, a trained team, and a 24-hour guarantee. Coordinators are reachable seven days a week.",
+    "Whether it is a monthly visit to a Davis Square studio, a biweekly plan for a shared three-bedroom in Spring Hill, or a move-out clean at the end of a lease near Union Square, you get an upfront price before booking, a trained team, and a 24-hour guarantee. Coordinators are reachable seven days a week.",
   ],
   servicesTitle: "Cleaning services available in Somerville",
   servicesIntro: "Priced for triple-decker floors, condos, and shared apartments. Open a service for Somerville notes and FAQs.",
@@ -65,7 +65,7 @@ const content: AreaPageContent = {
     {
       question: "How much does it cost to clean a Somerville apartment?",
       answer:
-        "A two-bedroom triple-decker floor typically runs $170 to $220 for a routine clean and $280 to $380 for a deep clean. Studios start at $110. Quotes are flat and confirmed before booking.",
+        "A two-bedroom triple-decker floor typically runs $170 to $220 for a routine clean and $280 to $380 for a deep clean. Studios start at $110. Quotes are based on size and condition and confirmed before booking.",
     },
     {
       question: "Can roommates split the bill?",
@@ -89,7 +89,7 @@ const content: AreaPageContent = {
     },
   ],
   ctaTitle: "Book a Somerville cleaning this week",
-  ctaDescription: "Send the square, unit size, and roommate count. A flat quote and available times come back within the hour.",
+  ctaDescription: "Send the square, unit size, and roommate count. An upfront quote and available times come back within the hour.",
   areaServed: ["Somerville, MA"],
 };
 

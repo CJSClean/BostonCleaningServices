@@ -33,7 +33,7 @@ const intro = [
   "Boston moves cluster hard around September 1 and the first of each month, and landlords in this market are rarely required to deliver a professionally cleaned unit. Many of our move-in customers arrive to find a place that is technically vacant but far from clean: sticky cabinet shelves, a greasy range hood, hair in the bathroom drain, and radiator fins caked with years of dust. We take all of that on so you do not have to unpack into it.",
   "A move-in clean is a deep clean plus everything that only makes sense in an empty home. We wash the insides of every cabinet and drawer, wipe closet shelves and rods, scrub the tub and tile, detail baseboards and door frames, and vacuum and mop every floor edge to edge. Light fixtures, switch plates, and window sills are cleaned so the first surface your hand touches is one we cleaned.",
   "Timing matters and we plan around it. The ideal slot is after the previous occupant is out and before your movers arrive, which is often a same-day handoff. We coordinate with property managers and real estate agents regularly and can often collect keys from a lockbox or leasing office. If your move is on the September 1 weekend, reserve early; those dates fill weeks in advance.",
-  "Pricing is flat based on the unit size and confirmed before booking, with interior appliance and cabinet cleaning already included rather than added as extras. Most one-bedroom move-in cleans take about three hours. Once your boxes are in and unpacked, many customers switch to a recurring plan and keep the same standard going forward.",
+  "Pricing is quoted by unit size and condition and confirmed before booking, with cabinet and closet interiors included and oven and fridge interiors available as add-ons. Most one-bedroom move-in cleans take about three hours. Once your boxes are in and unpacked, many customers switch to a recurring plan and keep the same standard going forward.",
 ];
 
 const scenarios = [
@@ -160,7 +160,7 @@ export default function MoveInCleaningPage() {
         />
         <PricingTable
           title="Move-in cleaning prices in Boston"
-          intro="Flat rates by unit size, with cabinet and closet interiors included."
+          intro="Upfront quotes by unit size and condition, with cabinet and closet interiors included."
           table={movePricing}
           defaultService={KEY}
         />
@@ -177,7 +177,7 @@ export default function MoveInCleaningPage() {
         <FAQ title="Move-in cleaning questions" items={faqs} tone="canvas" />
         <CTABand
           title="Start in a home that is actually clean"
-          description="Send your move date, unit size, and key handoff time. We will confirm a flat price and hold the slot."
+          description="Send your move date, unit size, and key handoff time. We will confirm an upfront price and hold the slot."
           defaultService={KEY}
         />
       </PageShell>

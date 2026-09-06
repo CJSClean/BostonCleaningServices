@@ -12,13 +12,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Back Bay apartments split neatly into two categories. Brownstone units on Marlborough, Commonwealth, and Beacon are reached by narrow stairs, often four flights up, and feature parquet floors, marble fireplaces, and tall windows. Full-service buildings near Copley Square and the Prudential Center have concierges, elevators, and modern finishes. Our apartment cleaning teams handle both weekly and know that the first requires a light hand on historic surfaces and the second requires paperwork.",
       "For brownstones, we dry-mop parquet before a barely damp pass, use pH-neutral cleaner on marble, and dust plaster mouldings with soft brushes. Teams carry equipment up every flight without complaint and there is no stair surcharge. For managed buildings, we deliver certificates of insurance to management, follow freight elevator rules, and check in with the concierge so you can leave a key at the desk and never be home for the visit.",
-      "Back Bay apartment dwellers are professionals working long hours downtown and in Longwood, and residents who split time with a second home. Biweekly plans with a consistent lead cleaner are the norm, and plans pause and resume around travel with a text. A one-bedroom takes our team about 90 minutes. Pricing is flat and based on unit size and condition, never on how hard the building is to reach.",
+      "Back Bay apartment dwellers are professionals working long hours downtown and in Longwood, and residents who split time with a second home. Biweekly plans with a consistent lead cleaner are the norm, and plans pause and resume around travel with a text. A one-bedroom takes our team about 90 minutes. Pricing is quoted upfront based on unit size and condition, never on how hard the building is to reach.",
     ],
     faqs: [
       {
         question: "How much does apartment cleaning cost in Back Bay?",
         answer:
-          "A one-bedroom typically runs $130 to $170 for a routine visit and $190 to $250 for a deep clean. Studios start at $110. Quotes are flat and confirmed before booking.",
+          "A one-bedroom typically runs $130 to $170 for a routine visit and $190 to $250 for a deep clean. Studios start at $110. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Do you clean fourth-floor walk-ups?",
@@ -37,12 +37,12 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Back Bay apartment cleaning this week",
-    ctaDescription: "Send the building or street, unit size, and how we get in. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the building or street, unit size, and how we get in. An upfront quote and open times arrive within the hour.",
   },
   "beacon-hill": {
     title: "Apartment Cleaning Beacon Hill Boston",
     description:
-      "Apartment cleaning on Beacon Hill for studios, garden-level units, and Charles Street walk-ups. Compact-space techniques and flat quotes from $110.",
+      "Apartment cleaning on Beacon Hill for studios, garden-level units, and Charles Street walk-ups. Compact-space techniques and upfront quotes from $110.",
     h1: "Apartment Cleaning Services in Beacon Hill, MA",
     subtitle:
       "Studios under 500 square feet, garden-level one-bedrooms, and third-floor walk-ups with sloped ceilings. Small spaces with big character, cleaned by teams who know how to move in them.",
@@ -56,7 +56,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How much is it to clean a Beacon Hill studio?",
         answer:
-          "Studio routine cleans start at $110 and deep cleans at $160. One-bedrooms run $130 to $170 routine. Quotes are flat and confirmed before booking.",
+          "Studio routine cleans start at $110 and deep cleans at $160. One-bedrooms run $130 to $170 routine. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Do you clean garden-level apartments?",
@@ -75,7 +75,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Beacon Hill apartment cleaning this week",
-    ctaDescription: "Tell us the street, unit size, and how we get in. A flat quote and available times come back within the hour.",
+    ctaDescription: "Tell us the street, unit size, and how we get in. An upfront quote and available times come back within the hour.",
   },
   brookline: {
     title: "Apartment Cleaning Brookline MA",
@@ -88,13 +88,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "North Brookline is one of the densest residential areas in Massachusetts, with brick apartment buildings from the 1920s lining Beacon Street, Harvard Street, and the side streets around Coolidge Corner. Many have been converted to condos; others remain rentals. Units range from studios to spacious two- and three-bedrooms with original hardwood, plaster walls, and radiators. Our apartment cleaning teams are on these blocks daily and know the buildings.",
       "Brookline renters and condo owners include hospital staff commuting to Longwood, graduate students, young families, and retirees who downsized from a Newton house. Schedules vary, but weekday mornings and early evenings are the most requested slots. Biweekly plans with a consistent lead cleaner are the most common, and a one-bedroom takes our team about 90 minutes. Condo associations that require insurance certificates receive them within a business day.",
-      "Cleaning follows our published checklist: kitchen counters, stovetop, and appliance exteriors; bathroom scrubbed and sanitized including grout in older units; dusting from high shelves to baseboards; floors vacuumed and mopped with the right solution for hardwood or tile. Pets are common and welcome. A plant-based product line is available on request. Pricing is flat, confirmed before booking, and lower on every recurring visit after the first.",
+      "Cleaning follows our published checklist: kitchen counters, stovetop, and appliance exteriors; bathroom scrubbed and sanitized including grout in older units; dusting from high shelves to baseboards; floors vacuumed and mopped with the right solution for hardwood or tile. Pets are common and welcome. A plant-based product line is available on request. Pricing is quoted upfront, confirmed before booking, and lower on every recurring visit after the first.",
     ],
     faqs: [
       {
         question: "How much does apartment cleaning cost in Brookline?",
         answer:
-          "Studios start at $110, one-bedrooms run $130 to $170, and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are flat and confirmed before booking.",
+          "Studios start at $110, one-bedrooms run $130 to $170, and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Does my condo association need anything from you?",
@@ -113,7 +113,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Brookline apartment cleaning this week",
-    ctaDescription: "Send the building, unit size, and preferred window. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the building, unit size, and preferred window. An upfront quote and open times arrive within the hour.",
   },
   cambridge: {
     title: "Apartment Cleaning Cambridge MA",
@@ -132,7 +132,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       {
         question: "How much does apartment cleaning cost in Cambridge?",
         answer:
-          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans run $190 to $380. Quotes are flat and confirmed before booking.",
+          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans run $190 to $380. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Can roommates split the cost?",
@@ -151,7 +151,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Cambridge apartment cleaning this week",
-    ctaDescription: "Tell us the square, unit size, and roommate count. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Tell us the square, unit size, and roommate count. An upfront quote and open times arrive within the hour.",
   },
   charlestown: {
     title: "Apartment Cleaning Charlestown Boston",
@@ -164,13 +164,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Charlestown apartments fall into two groups. The Navy Yard and the buildings along the water offer elevator living with concierges, floor-to-ceiling glass, and stone counters. Up the hill, units in converted townhouses and triple-deckers have period details, steep stairs, and tight kitchens. Our apartment cleaning teams work both every week and adjust the approach: paperwork and streak-free glass for the water, gentle products and stair plans for the hill.",
       "Navy Yard buildings require certificates of insurance, freight elevator bookings, and concierge check-ins, all of which our coordinators arrange before the visit. Harbor-facing windows are finished with a squeegee technique that leaves no streaks. Quartz and granite counters get pH-neutral cleaners. On the hill, hardwood is dry-mopped before a damp pass, brick is dusted and spot cleaned, and cast-iron tubs are scrubbed with products that protect the enamel.",
-      "Charlestown renters and condo owners are young professionals and couples commuting to the Financial District or across to Kendall. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Access is a key at the desk or a lockbox, and our teams handle permit parking on the hill without it affecting your quote. Every visit is flat-priced with a 24-hour guarantee.",
+      "Charlestown renters and condo owners are young professionals and couples commuting to the Financial District or across to Kendall. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Access is a key at the desk or a lockbox, and our teams handle permit parking on the hill without it affecting your quote. Every visit is priced upfront with a 24-hour guarantee.",
     ],
     faqs: [
       {
         question: "How much does apartment cleaning cost in Charlestown?",
         answer:
-          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are flat and confirmed before booking.",
+          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Do you clean Navy Yard condos?",
@@ -189,7 +189,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Charlestown apartment cleaning this week",
-    ctaDescription: "Send the building or street, unit size, and how we get in. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the building or street, unit size, and how we get in. An upfront quote and open times arrive within the hour.",
   },
   "jamaica-plain": {
     title: "Apartment Cleaning Jamaica Plain Boston",
@@ -202,13 +202,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Most Jamaica Plain apartments are floors of triple-deckers: long, narrow layouts with a front room, bedrooms down a hallway, a kitchen at the back, and a porch beyond that. Newer condos near Forest Hills and along the Southwest Corridor add elevator buildings and modern finishes. Our apartment cleaning teams know both and work triple-decker floors front to back with a plan, finishing the rear kitchen and back hall that most services forget.",
       "JP renters ask what is in the caddy, and we tell them. Our standard products are professional grade and residue-free once dry. A plant-based, fragrance-free line is available at no extra charge and saved to your account, along with notes about compost, recycling, and which roommate works from home in the front room. We can clean a room first or last to stay clear of calls.",
-      "Saturday mornings are the most requested apartment cleaning window in Jamaica Plain, and we schedule seven days a week to accommodate them. Shared apartments often choose weekly or biweekly service to keep the common kitchen and bathroom peaceful, and roommates split the cost however they like. A two-bedroom triple-decker floor takes our team about two hours. Every visit is flat-priced with a 24-hour guarantee.",
+      "Saturday mornings are the most requested apartment cleaning window in Jamaica Plain, and we schedule seven days a week to accommodate them. Shared apartments often choose weekly or biweekly service to keep the common kitchen and bathroom peaceful, and roommates split the cost however they like. A two-bedroom triple-decker floor takes our team about two hours. Every visit is priced upfront with a 24-hour guarantee.",
     ],
     faqs: [
       {
         question: "How much is it to clean a triple-decker apartment in JP?",
         answer:
-          "A two- or three-bedroom floor typically runs $170 to $220 for a routine visit and $250 to $380 for a deep clean. Quotes are flat and confirmed before booking.",
+          "A two- or three-bedroom floor typically runs $170 to $220 for a routine visit and $250 to $380 for a deep clean. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Do you use non-toxic products?",
@@ -227,7 +227,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Jamaica Plain apartment cleaning this week",
-    ctaDescription: "Send the unit size, product preferences, and preferred day. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the unit size, product preferences, and preferred day. An upfront quote and open times arrive within the hour.",
   },
   newton: {
     title: "Apartment Cleaning Newton MA",
@@ -235,18 +235,18 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       "Apartment and condo cleaning in Newton, MA for units in Newton Centre, Newtonville, and Chestnut Hill, including elevator buildings and converted two-families.",
     h1: "Apartment Cleaning Services in Newton, MA",
     subtitle:
-      "Condos near Newton Centre, rentals in Newtonville two-families, and elevator buildings in Chestnut Hill. Smaller Newton homes get the same team, checklist, and flat pricing as the big ones.",
+      "Condos near Newton Centre, rentals in Newtonville two-families, and elevator buildings in Chestnut Hill. Smaller Newton homes get the same team, checklist, and upfront pricing as the big ones.",
     introTitle: "Apartment and condo cleaning across Newton's villages",
     intro: [
       "Newton is known for large houses, but a meaningful share of residents live in apartments and condos: elevator buildings near Newton Centre and Chestnut Hill, garden-style complexes in Newtonville and Waban, and rental floors of two-family homes throughout the villages. Many are downsizers who sold a big Newton house and want the same standard of cleaning in a smaller space. Our apartment cleaning teams deliver exactly that.",
       "Condo buildings in Newton frequently require certificates of insurance and have rules about service hours, which our coordinators handle before the visit. Two-family rentals bring older hardwood, radiators, and tile that need the same careful treatment we use across Boston. The checklist is identical in either case: kitchen surfaces and appliance exteriors, bathroom scrubbed and sanitized, dusting high to low, floors vacuumed and mopped correctly for the surface.",
-      "Biweekly and monthly plans are the most common in Newton apartments, with a consistent lead cleaner who learns the unit. A one-bedroom takes about 90 minutes and a two-bedroom about two hours. Pets are welcome and a plant-based product line is available on request. Pricing is flat, confirmed before booking, and lower on every recurring visit after the first.",
+      "Biweekly and monthly plans are the most common in Newton apartments, with a consistent lead cleaner who learns the unit. A one-bedroom takes about 90 minutes and a two-bedroom about two hours. Pets are welcome and a plant-based product line is available on request. Pricing is quoted upfront, confirmed before booking, and lower on every recurring visit after the first.",
     ],
     faqs: [
       {
         question: "How much does condo cleaning cost in Newton?",
         answer:
-          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are flat and confirmed before booking.",
+          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Does my building need an insurance certificate?",
@@ -265,7 +265,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Newton apartment cleaning this week",
-    ctaDescription: "Tell us the village, building, and unit size. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Tell us the village, building, and unit size. An upfront quote and open times arrive within the hour.",
   },
   somerville: {
     title: "Apartment Cleaning Somerville MA",
@@ -278,13 +278,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Somerville is mostly triple-deckers, and a triple-decker floor is a specific thing to clean: a front room, bedrooms down a long hall, a kitchen at the rear, and a back porch collecting grit. Our apartment cleaning teams work these units every day across Davis, Porter, Union, Magoun, and Ball Squares and move through them front to back with a plan. Newer condos at Assembly Row and along the Green Line Extension add elevator buildings with concierges and stone counters, which we handle just as routinely.",
       "Somerville apartments are frequently shared. Tufts and Harvard graduate students, young professionals commuting to Kendall, artists, and small families all split floors and split the cost of cleaning. We charge one card per visit and let roommates rotate it or settle up among themselves. Weekly and biweekly plans are the norm because a shared kitchen and bathroom see heavy use. A two-bedroom floor takes our team about two hours.",
-      "September 1 is the biggest day of the year in Somerville, when much of the city changes apartments at once. We hold move-in and move-out capacity for it and coordinate keys with landlords who manage several units. For routine cleaning, access is a key or code, teams carry equipment up every flight, and permit parking is planned block by block. None of it affects your flat quote or the 24-hour guarantee.",
+      "September 1 is the biggest day of the year in Somerville, when much of the city changes apartments at once. We hold move-in and move-out capacity for it and coordinate keys with landlords who manage several units. For routine cleaning, access is a key or code, teams carry equipment up every flight, and permit parking is planned block by block. None of it affects your upfront quote or the 24-hour guarantee.",
     ],
     faqs: [
       {
         question: "How much does it cost to clean a Somerville triple-decker floor?",
         answer:
-          "A two-bedroom floor typically runs $170 to $220 for a routine visit and $280 to $380 for a deep clean. Studios start at $110. Quotes are flat and confirmed before booking.",
+          "A two-bedroom floor typically runs $170 to $220 for a routine visit and $280 to $380 for a deep clean. Studios start at $110. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Can four roommates split one cleaning bill?",
@@ -303,7 +303,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book Somerville apartment cleaning this week",
-    ctaDescription: "Send the square, unit size, and roommate count. A flat quote and open times come back within the hour.",
+    ctaDescription: "Send the square, unit size, and roommate count. An upfront quote and open times come back within the hour.",
   },
   "south-boston": {
     title: "Apartment Cleaning South Boston",
@@ -316,13 +316,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South Boston apartments range from the newest in the city to some of the oldest. Seaport towers offer concierges, elevators, harbor views through floor-to-ceiling glass, and quartz or marble counters. Fort Point lofts have high ceilings, exposed brick and timber, and polished concrete or wide-plank floors. South of Broadway, three-decker units have rear kitchens, cast-iron tubs, and hardwood under decades of finish. Our apartment cleaning teams work all three weekly.",
       "Seaport buildings require certificates of insurance, freight elevator reservations, and concierge check-ins, which our coordinators arrange before the visit. Glass is finished with a squeegee for a streak-free result and stone gets pH-neutral cleaners. Lofts are dusted top down because high ceilings shed onto everything below. Southie three-deckers get dry-mopped hardwood, hand-dusted radiators, and tubs scrubbed with enamel-safe products.",
-      "South Boston renters are young and busy, and evening slots are popular here for residents who want the unit finished before they get home from the office or the gym. Dispatch runs 24/7. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Pricing is flat, confirmed before booking, and unaffected by building type or parking.",
+      "South Boston renters are young and busy, and evening slots are popular here for residents who want the unit finished before they get home from the office or the gym. Dispatch runs 24/7. Biweekly plans with a consistent lead cleaner are the norm, and a one-bedroom takes about 90 minutes. Pricing is quoted upfront, confirmed before booking, and unaffected by building type or parking.",
     ],
     faqs: [
       {
         question: "How much does apartment cleaning cost in South Boston?",
         answer:
-          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are flat and set before booking.",
+          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans are higher. Quotes are based on size and condition and set before booking.",
       },
       {
         question: "Do you clean in Seaport high-rises?",
@@ -341,7 +341,7 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book South Boston apartment cleaning this week",
-    ctaDescription: "Send the building or street, unit size, and preferred time. A flat quote and open slots come back within the hour.",
+    ctaDescription: "Send the building or street, unit size, and preferred time. An upfront quote and open slots come back within the hour.",
   },
   "south-end": {
     title: "Apartment Cleaning South End Boston",
@@ -354,13 +354,13 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "South End apartments are mostly carved from Victorian bowfront rowhouses: garden-level units with private entrances, parlor-floor units with marble mantels and tall windows, and upper floors with sloped ceilings and roof access. SoWa's converted warehouses add lofts with high ceilings and exposed brick, and Ink Block and the Harrison Avenue corridor add elevator buildings with concierges. Our apartment cleaning teams work all of them weekly.",
       "Rowhouse units reward careful technique. Marble gets pH-neutral cleaner, refinished hardwood is dry-mopped before a damp pass, plaster is dusted with soft brushes, and garden levels get extra attention to sills, corners, and bathroom ventilation. Loft and tower buildings require insurance certificates and have elevator and quiet-hour rules, which our coordinators arrange in advance so you can leave a key at the desk.",
-      "South End renters include professionals walking to Back Bay and the hospitals and a large community with restaurant and creative-industry hours. That is why we schedule seven days a week and why Sunday afternoons are a common standing slot here. Plant-based, fragrance-free products are available at no extra cost. A one-bedroom takes about 90 minutes, pricing is flat, and every visit carries a 24-hour guarantee.",
+      "South End renters include professionals walking to Back Bay and the hospitals and a large community with restaurant and creative-industry hours. That is why we schedule seven days a week and why Sunday afternoons are a common standing slot here. Plant-based, fragrance-free products are available at no extra cost. A one-bedroom takes about 90 minutes, pricing is quoted upfront, and every visit carries a 24-hour guarantee.",
     ],
     faqs: [
       {
         question: "How much is apartment cleaning in the South End?",
         answer:
-          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans run $190 to $380. Quotes are flat and confirmed before booking.",
+          "One-bedrooms run $130 to $170 and two-bedrooms $170 to $220 for a routine visit. Deep cleans run $190 to $380. Quotes are based on size and condition and confirmed before booking.",
       },
       {
         question: "Do you clean garden-level units?",
@@ -379,6 +379,6 @@ export const apartmentCleaningCopy: Record<string, ServiceLocationCopy> = {
       },
     ],
     ctaTitle: "Book South End apartment cleaning this week",
-    ctaDescription: "Send the street or building, unit layout, and preferred day. A flat quote and open times arrive within the hour.",
+    ctaDescription: "Send the street or building, unit layout, and preferred day. An upfront quote and open times arrive within the hour.",
   },
 };
