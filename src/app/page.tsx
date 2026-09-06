@@ -69,7 +69,7 @@ const faqs = [
   {
     question: "What is your cancellation policy?",
     answer:
-      "Reschedule or cancel at no charge with 48 hours' notice. Inside 48 hours we charge 25 percent, inside 24 hours 50 percent, and same-day cancellations or lockouts are billed in full because the team has already been dispatched.",
+      "Reschedule or cancel at no charge with 48 hours' notice. Inside 48 hours there is a $75 fee, inside 24 hours 50 percent of the booking, and same-day cancellations or lockouts are billed in full because the team has already been dispatched. Our Preparing for Your Cleaning page has the full table.",
   },
   {
     question: "Are there jobs you will not take?",

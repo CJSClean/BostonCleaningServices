@@ -105,6 +105,11 @@ export default function Footer() {
                 </li>
               ))}
               <li>
+                <Link href="/preparing-for-your-cleaning" className="text-sm text-muted hover:text-brick">
+                  Preparing for Your Cleaning
+                </Link>
+              </li>
+              <li>
                 <Link href="/privacy-policy" className="text-sm text-muted hover:text-brick">
                   Privacy Policy
                 </Link>

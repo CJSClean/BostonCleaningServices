@@ -35,7 +35,7 @@ const contactFaqs = [
   {
     question: "What if I need to change my appointment?",
     answer:
-      "Text or call us at least 48 hours ahead and we will move it at no charge. Shorter notice carries a fee because the team has been scheduled, but we do our best to find a swap.",
+      "Text or call us at least 48 hours ahead and we will move it at no charge. Inside 48 hours a $75 fee applies, inside 24 hours half the booking, and same-day changes are billed in full. We do our best to find a swap.",
   },
 ];
 

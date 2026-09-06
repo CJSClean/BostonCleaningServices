@@ -17,6 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry("/about", 0.6),
     entry("/checklist", 0.7),
     entry("/contact", 0.7),
+    entry("/preparing-for-your-cleaning", 0.5),
     entry("/privacy-policy", 0.2, "yearly"),
     entry("/terms", 0.2, "yearly"),
     ...services.map((s) => entry(s.href, 0.9)),
