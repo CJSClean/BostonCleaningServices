@@ -186,6 +186,15 @@ export function XIcon({ className = "w-5 h-5" }: Props) {
   );
 }
 
+export function GoogleIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <path d="M20.4 12.4a8.4 8.4 0 1 1-2.3-5.9" />
+      <path d="M20.5 12.4h-8.1" />
+    </svg>
+  );
+}
+
 export function NextdoorIcon({ className = "w-5 h-5" }: Props) {
   return (
     <svg {...base} className={className}>

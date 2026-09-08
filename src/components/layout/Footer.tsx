@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Logo from "@/components/ui/Logo";
-import { ClockIcon, FacebookIcon, InstagramIcon, LinkedInIcon, MailIcon, NextdoorIcon, PhoneIcon, PinIcon, XIcon } from "@/components/ui/Icons";
+import { ClockIcon, FacebookIcon, GoogleIcon, InstagramIcon, LinkedInIcon, MailIcon, NextdoorIcon, PhoneIcon, PinIcon, XIcon } from "@/components/ui/Icons";
 import { NAV_LINKS, SITE_CONFIG, SOCIAL_PROFILES } from "@/lib/constants";
 import { services } from "@/lib/data/services";
 
@@ -38,8 +38,8 @@ export default function Footer() {
             {SITE_CONFIG.streetAddress && (
               <div className="mt-6 max-w-sm overflow-hidden rounded-xl border border-line">
                 <iframe
-                  src={`https://www.google.com/maps?q=${encodeURIComponent(SITE_CONFIG.addressLine)}&output=embed`}
-                  title="Boston Cleaning Services office location"
+                  src={`https://www.google.com/maps?cid=${SITE_CONFIG.googleMapsCid}&output=embed`}
+                  title="Boston Cleaning Services on Google Maps"
                   width="100%"
                   height="200"
                   loading="lazy"
@@ -59,7 +59,7 @@ export default function Footer() {
                       aria-label={`Boston Cleaning Services on ${p.name === "x" ? "X" : p.name.charAt(0).toUpperCase() + p.name.slice(1)}`}
                       className="flex h-9 w-9 items-center justify-center rounded-lg border border-line text-navy transition-colors hover:border-navy hover:bg-navy hover:text-white"
                     >
-                      {p.name === "instagram" ? <InstagramIcon className="h-4 w-4" /> : p.name === "linkedin" ? <LinkedInIcon className="h-4 w-4" /> : p.name === "x" ? <XIcon className="h-4 w-4" /> : p.name === "nextdoor" ? <NextdoorIcon className="h-4 w-4" /> : <FacebookIcon className="h-4 w-4" />}
+                      {p.name === "instagram" ? <InstagramIcon className="h-4 w-4" /> : p.name === "linkedin" ? <LinkedInIcon className="h-4 w-4" /> : p.name === "x" ? <XIcon className="h-4 w-4" /> : p.name === "nextdoor" ? <NextdoorIcon className="h-4 w-4" /> : p.name === "google" ? <GoogleIcon className="h-4 w-4" /> : <FacebookIcon className="h-4 w-4" />}
                     </a>
                   </li>
                 ))}

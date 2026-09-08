@@ -17,6 +17,11 @@ export const SITE_CONFIG = {
   hoursShort: "Open 24/7",
   rating: "5.0",
   reviewCount: "300+",
+  // Google Business Profile CID. Embedding by CID pins the map to the actual
+  // listing (name, rating, directions) instead of a bare address pin. Do not
+  // swap this for a name+address query: that renders a search and surfaces
+  // competing cleaning companies inside our own footer.
+  googleMapsCid: "4512574352230918506",
 };
 
 // Only entries that are full URLs are rendered in the footer and schema.
@@ -26,7 +31,7 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/company/bostoncleaningservices/",
   x: "https://x.com/BostonCleaningS",
   nextdoor: "https://nextdoor.com/page/boston-cleaning-services-brookline-ma",
-  google: "",
+  google: "https://share.google/S1d3ty0VRxb4O7htt",
   yelp: "",
 };
 
