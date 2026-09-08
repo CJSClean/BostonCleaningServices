@@ -25,6 +25,7 @@ export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/profile.php?id=61593781965617",
   linkedin: "https://www.linkedin.com/company/bostoncleaningservices/",
   x: "https://x.com/BostonCleaningS",
+  nextdoor: "https://nextdoor.com/page/boston-cleaning-services-brookline-ma",
   google: "",
   yelp: "",
 };

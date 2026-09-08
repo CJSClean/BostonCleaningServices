@@ -186,6 +186,15 @@ export function XIcon({ className = "w-5 h-5" }: Props) {
   );
 }
 
+export function NextdoorIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <path d="M3.5 11.3 12 4.6l8.5 6.7" />
+      <path d="M6.2 10.7v8.2a.6.6 0 0 0 .6.6h10.4a.6.6 0 0 0 .6-.6v-8.2" />
+    </svg>
+  );
+}
+
 export function FacebookIcon({ className = "w-5 h-5" }: Props) {
   return (
     <svg {...base} className={className}>
