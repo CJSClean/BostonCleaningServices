@@ -79,12 +79,13 @@ export default function AreaPage({ c }: { c: AreaPageContent }) {
         />
         <TrustStrip />
         <Prose eyebrow={`Cleaning in ${c.name}`} title={c.introTitle} paragraphs={c.intro} />
-        <ServicesGrid
-          title={c.servicesTitle}
-          intro={c.servicesIntro}
-          locationKey={c.locationKey}
-          locationName={c.locationKey ? c.name : undefined}
-        />
+        {/*
+          Area pages link to the canonical Boston service pages rather than
+          per-city service pages. A city x service matrix reads as doorway
+          content to search engines, so the city pages funnel into one set of
+          service pages instead.
+        */}
+        <ServicesGrid title={c.servicesTitle} intro={c.servicesIntro} />
         <Neighborhoods title={c.neighborhoodsTitle} intro={c.neighborhoodsIntro} items={c.neighborhoods} zipCodes={c.zipCodes} />
         <Frequencies title={c.frequenciesTitle} intro={c.frequenciesIntro} />
         <WhyChoose title={c.whyTitle} intro={c.whyIntro} benefits={c.benefits} />

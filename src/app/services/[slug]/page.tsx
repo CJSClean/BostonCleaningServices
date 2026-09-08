@@ -39,6 +39,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: data.copy.title,
     description: data.copy.description,
     alternates: { canonical: `${SITE_URL}/services/${slug}` },
+    // These city x service pages are kept live so existing links keep working,
+    // but they are deliberately not indexed: a full city x service matrix reads
+    // as doorway content. follow stays on so crawlers still pass through to the
+    // canonical Boston service pages. They are also excluded from the sitemap.
+    robots: { index: false, follow: true },
   };
 }
 

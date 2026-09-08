@@ -2,7 +2,6 @@ import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/constants";
 import { services } from "@/lib/data/services";
 import { locations, countyPages } from "@/lib/data/locations";
-import { getAllServiceLocationSlugs } from "@/lib/data/service-locations";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -23,6 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...services.map((s) => entry(s.href, 0.9)),
     ...countyPages.map((c) => entry(c.href, 0.7)),
     ...locations.map((l) => entry(l.href, 0.8)),
-    ...getAllServiceLocationSlugs().map((slug) => entry(`/services/${slug}`, 0.7)),
+    // The /services/[slug] city x service pages are intentionally omitted. They
+    // stay reachable so existing links keep working, but they carry noindex and
+    // are not advertised for crawling.
   ];
 }
