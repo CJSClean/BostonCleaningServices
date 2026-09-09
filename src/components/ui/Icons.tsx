@@ -204,6 +204,14 @@ export function NextdoorIcon({ className = "w-5 h-5" }: Props) {
   );
 }
 
+export function YelpIcon({ className = "w-5 h-5" }: Props) {
+  return (
+    <svg {...base} className={className}>
+      <path d="M11 3v9l-4-1.5M9.5 15 5 17M13.5 13.5 19 12M13 16.5l4 4M12.5 10.5 16 5" />
+    </svg>
+  );
+}
+
 export function FacebookIcon({ className = "w-5 h-5" }: Props) {
   return (
     <svg {...base} className={className}>

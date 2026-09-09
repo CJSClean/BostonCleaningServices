@@ -32,7 +32,7 @@ export const SOCIAL_LINKS = {
   x: "https://x.com/BostonCleaningS",
   nextdoor: "https://nextdoor.com/page/boston-cleaning-services-brookline-ma",
   google: "https://share.google/S1d3ty0VRxb4O7htt",
-  yelp: "",
+  yelp: "https://www.yelp.com/biz/boston-cleaning-services-brookline",
 };
 
 export const SOCIAL_PROFILES = Object.entries(SOCIAL_LINKS)
