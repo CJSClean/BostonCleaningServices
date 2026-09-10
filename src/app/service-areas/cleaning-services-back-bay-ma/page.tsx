@@ -23,12 +23,12 @@ const content: AreaPageContent = {
   highlights: ["Brownstone and walk-up specialists", "Concierge and doorman coordination", "Fragrance-free products on request", "Upfront quotes, no hourly meter"],
   introTitle: "Cleaning the most architecturally particular square mile in Boston",
   intro: [
-    "Back Bay was built on filled tidal marsh in the second half of the nineteenth century, and its brownstones were designed as single-family mansions before being carved into the condos and apartments most residents occupy today. That history shows up in the cleaning: original parquet floors, marble fireplace surrounds, plaster crown moulding, tall single-pane windows, and radiators under every sill. Our teams are trained on those surfaces before they ever set foot on Commonwealth Avenue.",
+    "Back Bay was built on filled tidal marsh in the second half of the nineteenth century, and its brownstones were designed as single-family mansions before being carved into the condos and apartments most residents occupy today. That history shows up in the cleaning: original parquet floors, marble fireplace surrounds, plaster crown moulding, tall single-pane windows, and radiators under every sill. Our teams are experienced with those surfaces before they ever set foot on Commonwealth Avenue.",
     "The neighborhood also has the newer side. Full-service buildings near Copley Square and the Prudential Center come with concierges, freight elevator rules, and unit layouts with floor-to-ceiling glass. We collect building requirements at booking, deliver certificates of insurance to management when asked, and schedule around quiet hours. Whether the doorman signs us in or a lockbox on a wrought-iron railing lets us up, the process is handled without you present.",
     "Back Bay residents tend to be busy in a particular way: professionals working long hours in the Financial District or Longwood, empty nesters who split time between the city and the Cape, and students and postdocs on Newbury Street's side streets. Recurring plans are the most common choice here, with biweekly visits keeping a two-bedroom condo in showing condition and weekly service handling larger family units on the water side of Beacon Street.",
     "Walk-ups are a fact of life in this neighborhood, and our cleaners carry equipment up four flights without a second thought. Parking is not, so we plan for it: teams arrive by van with a permit strategy for each block, or by T when the job is small enough. None of that appears on your invoice. The quote you receive is based on the size and condition of the home, not the difficulty of reaching it.",
     "Deep cleans in Back Bay often focus on the details that make these homes special and hard to maintain: dust in the ridges of decorative plaster, film on tall windows facing the Mall, grout in original hex tile bathrooms, and the fireplace surround that has not been touched since the last tenant. We treat those surfaces with the correct products and never use abrasive pads on historic finishes.",
-    "Move-in and move-out cleans follow the neighborhood's rental calendar, which peaks on September 1 and the first of each month. For sales, we work with agents to have a unit cleaned before photography or between showings. Whatever brings you to us, expect a trained team, a published checklist, a text when we arrive and finish, and a 100% satisfaction guarantee.",
+    "Move-in and move-out cleans follow the neighborhood's rental calendar, which peaks on September 1 and the first of each month. For sales, we work with agents to have a unit cleaned before photography or between showings. Whatever brings you to us, expect an experienced team, a published checklist, a text when we arrive and finish, and a 100% satisfaction guarantee.",
   ],
   servicesTitle: "Cleaning services available in Back Bay",
   servicesIntro: "Every service adapts to brownstone or tower living. Pick one to see Back Bay pricing notes and neighborhood FAQs.",
@@ -80,7 +80,7 @@ const content: AreaPageContent = {
     {
       question: "Are you careful with original hardwood and marble?",
       answer:
-        "Very. Our product kit includes pH-neutral stone cleaner and a wood-safe floor solution. Teams are trained to dry-mop parquet and never leave standing water on any historic surface.",
+        "Very. Our product kit includes pH-neutral stone cleaner and a wood-safe floor solution. Teams dry-mop parquet and never leave standing water on any historic surface.",
     },
     {
       question: "Do you clean short-term rentals in Back Bay?",

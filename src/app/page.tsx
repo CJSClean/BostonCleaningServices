@@ -95,9 +95,9 @@ const benefits = [
       "Brownstone stairs, triple-decker back porches, Seaport glass, and 1920s Newton colonials each need a different approach. Our crews have cleaned all of them, many times.",
   },
   {
-    title: "Employees, checked and trained",
+    title: "Employees, checked and experienced",
     description:
-      "Everyone who enters your home is on our payroll, background-checked, and trained on our checklist. We carry liability insurance and a bond so you are protected either way.",
+      "Everyone who enters your home is on our payroll, background-checked, and experienced with our checklist. We carry liability insurance and a bond so you are protected either way.",
   },
   {
     title: "Real availability, seven days a week",
@@ -107,7 +107,7 @@ const benefits = [
 ];
 
 const introParagraphs = [
-  "Boston is a city of stairs, radiators, old wood, and small closets, and it takes a certain kind of cleaning company to keep up with it. Boston Cleaning Services was built for exactly this housing stock. We send trained, insured teams to apartments and houses across the city and the inner suburbs, working from a written checklist that covers every room and finishing with a text to let you know the job is done.",
+  "Boston is a city of stairs, radiators, old wood, and small closets, and it takes a certain kind of cleaning company to keep up with it. Boston Cleaning Services was built for exactly this housing stock. We send experienced, insured teams to apartments and houses across the city and the inner suburbs, working from a written checklist that covers every room and finishing with a text to let you know the job is done.",
   "Our customers are graduate students sharing a Somerville triple-decker, families in Newton colonials, empty nesters in Back Bay condos, and hospital staff near Longwood who simply do not have hours left in the week to scrub a tub. What they have in common is a desire for the same result every time: a home that feels reset, not just tidied, delivered by people they trust with a key.",
   "We keep our promises simple. The price we quote reflects your home's size and condition, and any heavy-duty or pet-shedding fee is disclosed before we start. The cleaners who arrive are our employees, not strangers from an app. Every visit is backed by a 100% satisfaction guarantee. And you can reach a human coordinator by phone or text seven days a week to change a time, add a task, or ask a question.",
   "Whether you need a weekly plan to keep a busy household on track, a one-time deep clean before hosting, or a move-out clean that protects your deposit ahead of a September 1 turnover, we have a service built for the situation. Browse the options below, check the pricing tables on each service page, and request a quote when you are ready. Most first cleanings are booked within the same week.",

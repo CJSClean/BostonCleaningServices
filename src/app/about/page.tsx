@@ -147,7 +147,7 @@ export default function AboutPage() {
               <p>
                 As word spread, so did our map. Today our teams work from the Seaport to Newton Centre, in everything from
                 400-square-foot studios to five-bedroom colonials. What has not changed is the way we staff the company.
-                Every cleaner is an employee, trained by us, checked by us, and paid a living wage. We think that is why
+                Every cleaner is an employee, experienced, checked by us, and paid a living wage. We think that is why
                 so many of our customers have kept the same cleaner for years.
               </p>
               <p>

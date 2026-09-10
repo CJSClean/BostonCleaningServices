@@ -8,7 +8,7 @@ const loc = getLocationByKey("south-end")!;
 export const metadata: Metadata = {
   title: "Cleaning Services South End Boston",
   description:
-    "Brownstone, condo, and loft cleaning in Boston's South End. Teams trained on Victorian woodwork, garden-level units, and SoWa lofts.",
+    "Brownstone, condo, and loft cleaning in Boston's South End. Teams experienced with Victorian woodwork, garden-level units, and SoWa lofts.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 
@@ -23,12 +23,12 @@ const content: AreaPageContent = {
   highlights: ["Victorian bowfront specialists", "Garden-level and multi-floor units", "SoWa and Ink Block buildings", "Weekly to monthly plans"],
   introTitle: "Cleaning for brick bowfronts and everything built since",
   intro: [
-    "The South End holds more Victorian rowhouses than any neighborhood in the United States, most of them brick bowfronts on tree-lined streets and around the small garden squares that give the area its character. Inside, these homes have been divided into garden-level units, floor-throughs, and duplexes with original details: marble mantels, plaster medallions, pocket doors, and hardwood that has been refinished a dozen times. Our South End teams are trained to clean those surfaces without damaging them.",
+    "The South End holds more Victorian rowhouses than any neighborhood in the United States, most of them brick bowfronts on tree-lined streets and around the small garden squares that give the area its character. Inside, these homes have been divided into garden-level units, floor-throughs, and duplexes with original details: marble mantels, plaster medallions, pocket doors, and hardwood that has been refinished a dozen times. Our South End teams are experienced at cleaning those surfaces without damaging them.",
     "The neighborhood also has a newer edge. SoWa's converted warehouses hold lofts with high ceilings and exposed brick. Ink Block and the buildings along Harrison Avenue and Albany Street bring elevator living with concierges and modern finishes. Our coordinators collect building requirements at booking, deliver insurance certificates to management, and schedule around quiet hours so the visit is seamless.",
     "South End residents are a mix of long-time homeowners, young professionals within walking distance of Back Bay offices and the hospitals, and a large community of restaurant and creative-industry workers with unconventional hours. That last group is why we run 24/7 and why recurring plans here often land on weekday mornings or Sunday afternoons.",
     "Rowhouse cleaning has its own logic. Units span multiple levels connected by steep stairs. Garden-level apartments have their own humidity and dust patterns. Bathrooms are often tucked under stairs or into former closets. We work top to bottom, treat marble and stone with pH-neutral cleaners, dry-mop hardwood before a damp pass, and dust the high mouldings and ceiling medallions that collect a season of particulate.",
     "The South End's product preferences match Cambridge and JP: a lot of our customers ask for plant-based, fragrance-free cleaning, and we provide it at no extra cost as a permanent account note. Pets are common in the neighborhood and our teams are comfortable working around them and lifting fur from upholstery and stair runners.",
-    "Turnover cleans follow the first-of-month rental cycle, and we work with agents preparing units for the neighborhood's active sales market, where a deep clean before photographs matters. Whatever the job, you receive an upfront quote before booking, a trained team, arrival and completion texts, and a 100% satisfaction guarantee.",
+    "Turnover cleans follow the first-of-month rental cycle, and we work with agents preparing units for the neighborhood's active sales market, where a deep clean before photographs matters. Whatever the job, you receive an upfront quote before booking, an experienced team, arrival and completion texts, and a 100% satisfaction guarantee.",
   ],
   servicesTitle: "Cleaning services available in the South End",
   servicesIntro: "Bowfront, loft, or tower, each service is priced for the home. Open one for South End notes and FAQs.",
@@ -70,7 +70,7 @@ const content: AreaPageContent = {
     {
       question: "Are you careful with original marble and woodwork?",
       answer:
-        "Yes. Our kit includes pH-neutral stone cleaner and wood-safe floor solution, and teams are trained never to use abrasive pads or acidic products on historic surfaces.",
+        "Yes. Our kit includes pH-neutral stone cleaner and wood-safe floor solution, and teams know never to use abrasive pads or acidic products on historic surfaces.",
     },
     {
       question: "Do you clean SoWa lofts and Ink Block condos?",

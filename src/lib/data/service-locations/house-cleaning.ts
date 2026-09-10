@@ -42,7 +42,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
   "beacon-hill": {
     title: "House Cleaning Beacon Hill Boston",
     description:
-      "House cleaning for Beacon Hill townhouses and multi-level homes. Two-hundred-year-old pine floors, steep stairs, and tight rooms handled by trained teams.",
+      "House cleaning for Beacon Hill townhouses and multi-level homes. Two-hundred-year-old pine floors, steep stairs, and tight rooms handled by experienced teams.",
     h1: "House Cleaning Services in Beacon Hill, MA",
     subtitle:
       "Federal townhouses on Mount Vernon and Chestnut Streets span four or five narrow floors. We clean them top to bottom with a light hand and a plan for every staircase.",
@@ -240,7 +240,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
     intro: [
       "Newton homes are big. Four and five bedrooms, two or three full bathrooms, a finished basement, a mudroom, a home office, and often a third-floor guest room are standard across the thirteen villages. Our house cleaning appointments here are scheduled for that reality, with the team working upstairs to down in a logical sequence and a quote that includes every finished space from the start, so there are no mid-visit questions about what counts.",
       "Family life shapes the work. Kitchens run all day. Bathrooms are shared. The entry takes the full force of a Massachusetts winter. Our checklist emphasizes high-touch surfaces and our teams organize toys and gear rather than pushing them aside. Pets are common and our cleaners lift fur from runners and upholstery as a matter of course. A plant-based product line is available for households that prefer it, at no extra charge.",
-      "Older Newton homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and a lot of glass. Our teams are trained on both. The most requested window is weekday mornings during school hours, and recurring customers hold a standing slot with a consistent lead cleaner who learns the house. Every visit is priced upfront with a 100% satisfaction guarantee.",
+      "Older Newton homes have hardwood, plaster, and radiators; newer ones have wide-plank engineered floors, quartz counters, and a lot of glass. Our teams are experienced with both. The most requested window is weekday mornings during school hours, and recurring customers hold a standing slot with a consistent lead cleaner who learns the house. Every visit is priced upfront with a 100% satisfaction guarantee.",
     ],
     faqs: [
       {
@@ -349,7 +349,7 @@ export const houseCleaningCopy: Record<string, ServiceLocationCopy> = {
       "House cleaning for South End rowhouses and multi-level homes around Union Park, Rutland Square, and Worcester Square. Marble, plaster, and hardwood done right.",
     h1: "House Cleaning Services in the South End, MA",
     subtitle:
-      "Full bowfront rowhouses and multi-floor duplexes around the garden squares, cleaned top to bottom by a team trained on marble mantels, plaster medallions, and refinished hardwood.",
+      "Full bowfront rowhouses and multi-floor duplexes around the garden squares, cleaned top to bottom by a team experienced with marble mantels, plaster medallions, and refinished hardwood.",
     introTitle: "House cleaning for the country's largest Victorian rowhouse district",
     intro: [
       "A South End house is usually a brick bowfront on Union Park, Rutland Square, Worcester Square, or one of the tree-lined streets between Columbus and Harrison. Whether it is a single-family home restored to its original layout or a duplex spanning the upper floors, it has marble mantels, plaster medallions, pocket doors, tall windows, and hardwood refinished many times over. Our house cleaning teams treat those surfaces as the point of the job, not an obstacle.",
