@@ -102,6 +102,41 @@ const content: AreaPageContent = {
       answer:
         "Yes. We handle turnover cleans, key logistics, insurance certificates, and direct invoicing for managers and owners with units across the county.",
     },
+    {
+      question: "Which parts of Suffolk County do you serve?",
+      answer:
+        "Boston and the neighbourhoods within it, along with the surrounding Suffolk County communities.",
+    },
+    {
+      question: "Do you charge more depending on where in the county I am?",
+      answer:
+        "No. Pricing follows the size and condition of the property and the service requested, not the address. If somewhere falls outside our area we say so before you book.",
+    },
+    {
+      question: "How much does cleaning cost in Suffolk County?",
+      answer:
+        "Size, bathroom count, and condition set it. The county covers everything from studio apartments to large single-family homes, so each is quoted on its own property.",
+    },
+    {
+      question: "Do you clean both apartments and houses?",
+      answer:
+        "Yes. House cleaning, apartment cleaning, deep cleans, move-related work, and post-construction cleanup all run county-wide.",
+    },
+    {
+      question: "Can you handle buildings with concierge access?",
+      answer:
+        "Yes. Front desks, fobs, and vendor insurance certificates are routine across the county's newer buildings and we set access up once.",
+    },
+    {
+      question: "What about older housing stock?",
+      answer:
+        "Much of Suffolk County is pre-war. Original floors, plaster, and period tile get less moisture and gentler products than newer construction.",
+    },
+    {
+      question: "How does September 1 affect scheduling?",
+      answer:
+        "Heavily. Boston's move day concentrates nearly every lease change into one week across the county, so move-related bookings need weeks of notice.",
+    },
   ],
   ctaTitle: "Book a cleaning anywhere in Boston",
   ctaDescription: "Tell us the neighborhood, home size, and what you need. An upfront quote and available times arrive within the hour.",

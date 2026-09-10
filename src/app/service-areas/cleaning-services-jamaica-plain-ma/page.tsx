@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Frequently. We coordinate turnover cleans between tenants, handle keys, and can invoice directly. Many JP owner-occupants also keep a recurring plan for their own floor.",
     },
+    {
+      question: "Do you clean throughout Jamaica Plain?",
+      answer:
+        "Yes, across the Victorians, triple-deckers, and condo conversions from Centre Street out toward the Arboretum and the pond.",
+    },
+    {
+      question: "How much does cleaning cost in Jamaica Plain?",
+      answer:
+        "Size, bathroom count, and condition. JP housing ranges from small condo conversions to large Victorians, so quotes are built on the property rather than a flat rate.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes. Each floor is quoted as its own unit, since layouts and condition frequently differ between floors of the same building.",
+    },
+    {
+      question: "Can you handle large Victorians?",
+      answer:
+        "Yes. Bigger houses get a larger crew so the visit finishes in one stretch rather than stretching into the evening.",
+    },
+    {
+      question: "What about original woodwork?",
+      answer:
+        "JP Victorians kept more original trim than most Boston neighbourhoods. It gets dusted and spot-cleaned rather than washed, which is what preserves the finish.",
+    },
+    {
+      question: "Do you clean porches?",
+      answer:
+        "Yes on request. Front porches here collect pollen in spring and leaf debris in autumn, and both are worth a seasonal pass.",
+    },
+    {
+      question: "Can you work around pets?",
+      answer:
+        "Yes. Tell us at booking so the cleaner expects them. Homes with dogs or cats usually want biweekly rather than monthly to stay ahead of hair in floor seams.",
+    },
   ],
   ctaTitle: "Book a Jamaica Plain cleaning this week",
   ctaDescription: "Send the unit size, your schedule, and any product preferences. An upfront quote and open times arrive within the hour.",

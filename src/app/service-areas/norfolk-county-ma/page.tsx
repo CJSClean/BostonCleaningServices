@@ -99,6 +99,41 @@ const content: AreaPageContent = {
       answer:
         "Of course. Text your coordinator with the dates and your slot and rate are held for pauses up to eight weeks.",
     },
+    {
+      question: "Do you charge more outside Boston proper?",
+      answer:
+        "No. Pricing follows the size and condition of the property and the service requested, not where in the county you are.",
+    },
+    {
+      question: "Do you clean single-family homes?",
+      answer:
+        "Yes, and they are a large share of Norfolk County work. Larger properties get a bigger crew so the visit finishes in one stretch.",
+    },
+    {
+      question: "Can you work around school hours?",
+      answer:
+        "Yes. It is the most requested arrangement in this part of the region and holds as a standing slot once set.",
+    },
+    {
+      question: "What about older homes?",
+      answer:
+        "Plenty of the county's housing is pre-war, with original hardwood and plaster that take less moisture than newer construction.",
+    },
+    {
+      question: "How do you handle winter?",
+      answer:
+        "Entryways and stairs take salt and sand from December onward and get extra attention. Storm days get rescheduled rather than attempted.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes and lockboxes work fine. Our cleaners are background-checked and we text on arrival and completion.",
+    },
+    {
+      question: "What if something gets missed?",
+      answer:
+        "Tell us within 24 hours and we come back to re-clean that area at no additional cost.",
+    },
   ],
   ctaTitle: "Book a cleaning in Norfolk County",
   ctaDescription: "Tell us the town, bedrooms, bathrooms, and finished spaces. An upfront quote and available times arrive within the hour.",

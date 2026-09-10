@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes: 02143, 02144, and 02145, from Teele Square and Davis in the west to East Somerville and Assembly Row along the Mystic.",
     },
+    {
+      question: "Do you clean throughout Somerville?",
+      answer:
+        "Yes, from Davis and Union Square across the triple-decker streets between them.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes, and they are the bulk of Somerville work. Each floor is quoted as its own unit rather than as a share of the building.",
+    },
+    {
+      question: "How much does cleaning cost in Somerville?",
+      answer:
+        "Size, bathroom count, and condition. Units here are often compact, and small places are quoted on the same basis rather than hitting a flat minimum.",
+    },
+    {
+      question: "Can you handle student and shared housing?",
+      answer:
+        "Yes. Shared apartments are common here. Tell us which rooms are in scope and which are not, and it stays on the account.",
+    },
+    {
+      question: "Do you handle move-out cleans?",
+      answer:
+        "Yes, and they cluster hard around September 1. Boston's lease calendar puts nearly every turnover into one week, so book those dates well ahead.",
+    },
+    {
+      question: "What about narrow stairs and no elevator?",
+      answer:
+        "Standard in Somerville and not an issue. Our cleaners carry a compact kit rather than equipment that will not go up a triple-decker stair.",
+    },
+    {
+      question: "Do you clean back porches?",
+      answer:
+        "On request. The stacked back porches on these buildings collect grit and leaf debris and are worth a seasonal pass rather than every visit.",
+    },
   ],
   ctaTitle: "Book a Somerville cleaning this week",
   ctaDescription: "Send the square, unit size, and roommate count. An upfront quote and available times come back within the hour.",

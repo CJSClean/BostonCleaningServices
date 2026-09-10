@@ -124,6 +124,26 @@ const faqs = [
     answer:
       "All of Boston proper plus Cambridge, Somerville, Brookline, and Newton. Each area has its own page on this site with local notes, and if you are just outside those boundaries, send us your zip code and we will check.",
   },
+  {
+    question: "How do you handle old hardwood and painted trim?",
+    answer:
+      "Barely damp, never wet. Much of Boston's housing stock predates the war, and old finishes let water through at the seams. Painted trim gets wiped rather than scrubbed.",
+  },
+  {
+    question: "What about radiators in heating season?",
+    answer:
+      "Radiators and the wall behind them get attention from October onward. Dust that settles there bakes on and circulates through the place once the heat comes up.",
+  },
+  {
+    question: "Do you clean walk-up apartments?",
+    answer:
+      "Yes, and most of our city work is walk-ups. Cleaners carry a compact kit sized for narrow Victorian stairwells rather than a full cart.",
+  },
+  {
+    question: "How does winter affect scheduling?",
+    answer:
+      "Storm days get rescheduled rather than attempted. Entryways take salt and sand from December through March and get extra attention through those months.",
+  },
 ];
 
 export default function HouseCleaningPage() {

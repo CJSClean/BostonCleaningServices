@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes. Move-out cleans include the inside of cabinets and closets and are aimed at the landlord walkthrough. Book two to three weeks ahead for late-August and September 1 dates.",
     },
+    {
+      question: "Do you clean near Harvard and MIT?",
+      answer:
+        "Yes. Cambridge work runs across the university areas and the residential streets around them, from Harvard Square through Central and Kendall.",
+    },
+    {
+      question: "Can you handle student rentals?",
+      answer:
+        "Yes, and turnover cleans are a large part of Cambridge work. The academic calendar concentrates them into a few weeks, so book those dates as early as you can.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes. Each unit is quoted separately rather than as a fraction of the building, since floors often differ in size and condition.",
+    },
+    {
+      question: "Can you work with a university lease schedule?",
+      answer:
+        "Yes. Leases here cluster around fixed dates and the move weeks fill fast. Give us the key dates and we schedule around them rather than hoping for a slot.",
+    },
+    {
+      question: "What about older buildings with no elevator?",
+      answer:
+        "Common here and not a problem. Our cleaners carry a compact kit for walk-ups rather than equipment that will not go up a narrow stair.",
+    },
+    {
+      question: "Do you clean home offices and study spaces?",
+      answer:
+        "Yes, with direction. Tell us which surfaces to leave alone — papers, equipment, lab materials — and it becomes a standing note rather than a conversation each visit.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes and lockboxes are routine, and we text on arrival and completion. Our cleaners are background-checked.",
+    },
   ],
   ctaTitle: "Book a Cambridge cleaning this week",
   ctaDescription: "Tell us the square, the unit size, and your schedule. An upfront quote and available times come back within the hour.",

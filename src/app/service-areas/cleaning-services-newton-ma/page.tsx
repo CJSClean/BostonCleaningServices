@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes. Kitchen remodels and whole-home renovations are common across the city, and our post-construction service removes drywall dust, adhesive, and haze in rough and final passes. Quotes are per project.",
     },
+    {
+      question: "Do you clean across Newton's villages?",
+      answer:
+        "Yes, throughout the city and its villages, covering single-family homes, condos, and townhouses.",
+    },
+    {
+      question: "Do larger homes take longer?",
+      answer:
+        "They take a larger crew rather than a longer day. A bigger house finished in one stretch is better for everyone than one cleaner working into the evening.",
+    },
+    {
+      question: "Do you work around a family schedule?",
+      answer:
+        "Yes. School-hours visits are the most requested arrangement here and hold as a standing slot once set.",
+    },
+    {
+      question: "What about hardwood throughout the house?",
+      answer:
+        "Damp microfibre rather than a wet mop. Newton houses tend to have hardwood in most rooms, and moisture at the seams is what damages it over time.",
+    },
+    {
+      question: "Do you clean inside the oven and refrigerator?",
+      answer:
+        "On a deep clean, yes. On routine visits they are add-ons, since appliance interiors add real time to the visit.",
+    },
+    {
+      question: "How often do Newton clients book?",
+      answer:
+        "Weekly is more common here than in the city, largely because of house size. Biweekly suits smaller households.",
+    },
+    {
+      question: "Are your cleaners background-checked?",
+      answer:
+        "Every cleaner passes a background check before their first visit, with verified references and an in-person interview. That matters in a house you leave open during the day.",
+    },
   ],
   ctaTitle: "Book a Newton cleaning this week",
   ctaDescription: "Tell us the village, bedrooms, bathrooms, and any finished spaces. An upfront quote and open times come back within the hour.",

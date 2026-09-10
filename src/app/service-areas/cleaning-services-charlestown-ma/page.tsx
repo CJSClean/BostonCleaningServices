@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes. Move-out cleans cover inside cabinets and closets and are aimed at the landlord walkthrough. First-of-month dates book up quickly, so reserve early.",
     },
+    {
+      question: "Do you clean Charlestown's historic rowhouses?",
+      answer:
+        "Yes. The Federal and Greek Revival rowhouses around the Training Field and up the hill are a large part of our work here, alongside the Navy Yard condos.",
+    },
+    {
+      question: "Can you manage steep stairs and tight landings?",
+      answer:
+        "Yes. Charlestown rowhouses are narrow and vertical, so our cleaners bring a compact kit rather than equipment that cannot turn at a landing.",
+    },
+    {
+      question: "What about original floors and trim?",
+      answer:
+        "Less water and gentler products. Old boards and painted trim in these houses do not tolerate the moisture that newer flooring shrugs off.",
+    },
+    {
+      question: "Is parking an issue?",
+      answer:
+        "It can be, and arrival windows here allow for it. Charlestown street parking is tight, particularly on the hill.",
+    },
+    {
+      question: "Do you clean roof decks?",
+      answer:
+        "Weather permitting, on request. Deck surfaces and railings collect grit and salt air, and they are worth doing seasonally rather than every visit.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes, lockboxes, and concierge handovers all work. Our cleaners are background-checked and we confirm arrival and completion by text.",
+    },
+    {
+      question: "Can you work around September 1?",
+      answer:
+        "Yes, with notice. Boston's move day compresses nearly every lease change into one week and those slots go weeks ahead.",
+    },
   ],
   ctaTitle: "Book a Charlestown cleaning this week",
   ctaDescription: "Tell us the street, home size, and how we get in. An upfront quote and open times arrive within the hour.",

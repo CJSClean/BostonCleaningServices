@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "A one-bedroom deep clean typically falls between $200 and $280. Larger townhouse floors and full homes are quoted individually after a few details about size and condition.",
     },
+    {
+      question: "Can you manage the narrow stairs?",
+      answer:
+        "Yes. Beacon Hill stairwells are among the tightest in the city. Our cleaners bring a compact kit rather than equipment that will not turn on a landing.",
+    },
+    {
+      question: "How do you treat original wide-plank floors?",
+      answer:
+        "Barely damp, never wet. Old pine and oak in these houses is often thinly finished, and standing water opens the seams and lifts boards.",
+    },
+    {
+      question: "What about plaster walls and mouldings?",
+      answer:
+        "Dusted, not scrubbed. Water and pressure open hairline cracks in old plaster, so marks get spot-treated instead of washed wall to wall.",
+    },
+    {
+      question: "Is parking a problem for your cleaners?",
+      answer:
+        "It can be, and we plan for it. Beacon Hill parking is genuinely difficult, so arrival windows here are a little wider than elsewhere in the city.",
+    },
+    {
+      question: "Do you clean working fireplaces?",
+      answer:
+        "The hearth, surround, and mantel, yes. Flues and chimneys are specialist work and we will tell you when something needs a sweep rather than a cleaner.",
+    },
+    {
+      question: "Do you clean small studio units?",
+      answer:
+        "Yes, and there are plenty here. Small units are quoted on size and condition like anything else rather than hitting a flat minimum.",
+    },
+    {
+      question: "How far ahead should I book?",
+      answer:
+        "Routine visits usually go in within the week. Anything around September 1 needs weeks of notice given how Boston's lease calendar bunches up.",
+    },
   ],
   ctaTitle: "Book a Beacon Hill cleaning this week",
   ctaDescription: "Send the street, unit size, and how we get in. An upfront quote and available times come back within the hour.",

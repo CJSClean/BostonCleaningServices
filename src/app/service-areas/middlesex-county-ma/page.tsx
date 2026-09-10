@@ -99,6 +99,41 @@ const content: AreaPageContent = {
       answer:
         "Two to three weeks for late-August and September 1 dates, which are the busiest of the year across Cambridge and Somerville.",
     },
+    {
+      question: "Do you charge more further from Boston?",
+      answer:
+        "No. The quote is based on the property and the service requested, not the distance. If an address falls outside our service area we will tell you before booking.",
+    },
+    {
+      question: "How much does cleaning cost in Middlesex County?",
+      answer:
+        "Size, bathroom count, and condition. The county spans compact Cambridge apartments through to large Newton homes, so each is quoted individually.",
+    },
+    {
+      question: "Do you handle university-area rentals?",
+      answer:
+        "Yes. Cambridge and Somerville turnover clusters around the academic calendar, and those weeks fill quickly, so book early if your dates are fixed.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes, and they are common across the county. Each floor is quoted as its own unit rather than as a share of the building.",
+    },
+    {
+      question: "Can you handle larger suburban homes?",
+      answer:
+        "Yes. Bigger properties get a larger crew so the visit finishes in a single stretch rather than running long.",
+    },
+    {
+      question: "What about older housing?",
+      answer:
+        "Much of the county is pre-war. Original hardwood, plaster, and period tile take less water and gentler products than newer surfaces.",
+    },
+    {
+      question: "How does September 1 affect bookings?",
+      answer:
+        "Significantly. The regional lease calendar puts most turnover into one week, so move-in and move-out slots need weeks of notice.",
+    },
   ],
   ctaTitle: "Book a cleaning in Middlesex County",
   ctaDescription: "Tell us the town, home size, and what you need. An upfront quote and available times arrive within the hour.",

@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes. We schedule around the clock, every day, and evening slots are popular in South Boston for residents who want the unit finished before they get home.",
     },
+    {
+      question: "Do you clean throughout South Boston?",
+      answer:
+        "Yes, across the triple-deckers on the older streets and the newer waterfront construction on the Seaport side.",
+    },
+    {
+      question: "Do you clean new waterfront buildings?",
+      answer:
+        "Yes. Those have concierge desks, controlled elevators, and vendor insurance requirements, all of which we set up with management once.",
+    },
+    {
+      question: "Can you provide a certificate of insurance?",
+      answer:
+        "Yes, at no charge. Several buildings on the waterfront require one before granting vendor access and we send it to management directly.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes. Each unit is quoted separately, since floors in the same building often differ in condition and layout.",
+    },
+    {
+      question: "What about salt air on the waterfront side?",
+      answer:
+        "Glass and metal fixtures film over faster near the water. Those get more frequent attention on the waterfront than they would a few streets inland.",
+    },
+    {
+      question: "How do you handle winter?",
+      answer:
+        "Entryways take salt and sand from December through March and get extra attention. Storm days get rescheduled rather than attempted.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes, fobs, and front desks all work. Our cleaners are background-checked and we text on arrival and completion.",
+    },
   ],
   ctaTitle: "Book a South Boston cleaning this week",
   ctaDescription: "Send the building or street, unit size, and preferred time. An upfront quote and open slots come back within the hour.",

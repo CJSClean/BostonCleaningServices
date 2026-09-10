@@ -7,7 +7,7 @@ import FAQ from "@/components/sections/FAQ";
 import QuoteForm from "@/components/ui/QuoteForm";
 import { ClockIcon, MailIcon, PhoneIcon, PinIcon } from "@/components/ui/Icons";
 import { SITE_CONFIG, SITE_URL } from "@/lib/constants";
-import { generateBreadcrumbSchema, generateContactPageSchema, SchemaScript } from "@/lib/schema";
+import { generateBreadcrumbSchema, generateContactPageSchema, SchemaScript, generateFAQSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "Contact Boston Cleaning Services",
@@ -37,6 +37,36 @@ const contactFaqs = [
     answer:
       "Text or call us at least 48 hours ahead and we will move it at no charge. Inside 48 hours a $75 fee applies, inside 24 hours half the booking, and same-day changes are billed in full. We do our best to find a swap.",
   },
+  {
+    question: "What do you need to give me a price?",
+    answer:
+      "The size of the place, the number of bathrooms, its rough condition, and how often you want service. Anything unusual — pets, a recent renovation, a room to skip — helps us get it right first time.",
+  },
+  {
+    question: "Is the quote binding?",
+    answer:
+      "The price is confirmed before you book and does not change afterwards. If the property turns out to be substantially different from the description, we talk to you before proceeding rather than adjusting the bill later.",
+  },
+  {
+    question: "Do you have same-week availability?",
+    answer:
+      "Routine cleans often, yes. Deep cleans and move-related work need more notice, especially anywhere near September 1.",
+  },
+  {
+    question: "How do I reschedule?",
+    answer:
+      "Get in touch with as much notice as you can and we move it. Recurring clients keep their slot and rate through a reschedule or a pause for travel.",
+  },
+  {
+    question: "What areas do you cover?",
+    answer:
+      "Boston and Greater Boston, including Cambridge, Somerville, Brookline, and Newton. If your address falls outside that we will say so rather than stretch.",
+  },
+  {
+    question: "What if I am unhappy with a visit?",
+    answer:
+      "Tell us within 24 hours and we return to re-clean the area at no charge. We would far rather fix it than have you quietly stop booking.",
+  },
 ];
 
 const details = [
@@ -51,6 +81,7 @@ export default function ContactPage() {
     <>
       <SchemaScript
         schema={[
+          generateFAQSchema(contactFaqs),
           generateContactPageSchema(),
           generateBreadcrumbSchema([
             { name: "Home", url: "/" },

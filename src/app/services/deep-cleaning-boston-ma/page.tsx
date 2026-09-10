@@ -123,6 +123,26 @@ const faqs = [
     answer:
       "Our standard kit is professional grade and residue-free once dry. We also carry a plant-based, fragrance-free line and will use it exclusively on request at no extra charge.",
   },
+  {
+    question: "When is the best time for a deep clean in Boston?",
+    answer:
+      "Late spring once the heating season ends, or early autumn before it starts. Both are natural reset points after months of radiators or open windows.",
+  },
+  {
+    question: "Do you clean inside radiators and vents?",
+    answer:
+      "Vent covers and the reachable surfaces of radiators, yes. Months of heating season leave dust baked onto surfaces a routine visit never touches.",
+  },
+  {
+    question: "What about old grout and period tile?",
+    answer:
+      "Grout is treated and scrubbed as part of the deep scope. Period tile takes a neutral cleaner rather than anything acidic, which strips old glaze permanently.",
+  },
+  {
+    question: "Do you move furniture?",
+    answer:
+      "We clean behind and beneath what two people can move safely. Anything heavy, fragile, or fixed stays put and we clean up to it.",
+  },
 ];
 
 export default function DeepCleaningPage() {

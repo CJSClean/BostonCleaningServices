@@ -9,7 +9,7 @@ import FAQ from "@/components/sections/FAQ";
 import CTABand from "@/components/sections/CTABand";
 import { checklist } from "@/lib/data/checklist";
 import { SITE_URL } from "@/lib/constants";
-import { generateBreadcrumbSchema, generateHowToSchema, SchemaScript } from "@/lib/schema";
+import { generateBreadcrumbSchema, generateFAQSchema, generateHowToSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "Boston House Cleaning Checklist",
@@ -54,6 +54,46 @@ const faqs = [
     answer:
       "Interior glass that can be reached from the floor or a two-step stool is included in deep and move cleans. Exterior windows and anything requiring a ladder are not something we offer.",
   },
+  {
+    question: "Is the checklist the same every visit?",
+    answer:
+      "Yes. The room-by-room scope runs identically each time, which is what stops results varying with whoever is scheduled.",
+  },
+  {
+    question: "Can I add or remove items?",
+    answer:
+      "Yes. Add-ons attach to any single visit, and rooms you would rather skip become a standing note on your account.",
+  },
+  {
+    question: "What is not included as standard?",
+    answer:
+      "Interior appliance cleaning, interior windows, and inside cabinets sit outside a routine visit and come with a deep clean or as add-ons. Exterior windows above ground floor and duct cleaning are specialist work.",
+  },
+  {
+    question: "Do you make beds or do laundry?",
+    answer:
+      "Beds on request. Laundry is not standard scope, though we will discuss it as an add-on for recurring clients.",
+  },
+  {
+    question: "Do you clean baseboards and walls?",
+    answer:
+      "Baseboards come with a deep clean and get spot attention on routine visits. Full wall washing is a separate job and quoted as one.",
+  },
+  {
+    question: "Does the checklist change for older buildings?",
+    answer:
+      "The list stays the same; the method changes. Original hardwood, plaster, and period tile take less moisture and gentler products than newer surfaces.",
+  },
+  {
+    question: "Do you use different products room to room?",
+    answer:
+      "Yes. Bathrooms, kitchens, stone, and hardwood each take different chemistry. One all-purpose product everywhere is how finishes get damaged over time.",
+  },
+  {
+    question: "What if something on the list is missed?",
+    answer:
+      "Tell us within 24 hours and we come back to re-clean it at no additional cost. The checklist is what we hold ourselves to, so a gap in it is ours to fix.",
+  },
 ];
 
 export default function ChecklistPage() {
@@ -61,6 +101,7 @@ export default function ChecklistPage() {
     <>
       <SchemaScript
         schema={[
+          generateFAQSchema(faqs),
           generateHowToSchema(
             checklist.map((c) => ({ name: c.room, steps: c.items.filter((i) => i.routine).map((i) => i.task) }))
           ),

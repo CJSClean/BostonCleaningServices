@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "We do, at no extra charge. Ask at booking and the preference is saved so every team that visits uses the fragrance-free line.",
     },
+    {
+      question: "Do you clean South End brownstones?",
+      answer:
+        "Yes. The Victorian bowfronts and the units carved out of them are the core of our South End work, including garden-level and upper-floor apartments.",
+    },
+    {
+      question: "Do you clean garden-level units?",
+      answer:
+        "Yes. Garden levels take more moisture and more street grit than upper floors, so entry areas and bathrooms usually want closer attention.",
+    },
+    {
+      question: "Can you manage walk-up buildings?",
+      answer:
+        "Yes. Most South End buildings have no elevator, so our cleaners bring a compact kit rather than a full cart.",
+    },
+    {
+      question: "What about original mouldings and marble?",
+      answer:
+        "Mouldings get dusted rather than washed, and marble mantels take a pH-neutral cleaner. Acidic products etch marble permanently.",
+    },
+    {
+      question: "Do you clean roof decks?",
+      answer:
+        "On request, weather permitting. Deck surfaces and railings collect grit through the year and are worth a seasonal pass.",
+    },
+    {
+      question: "Do you work with building management?",
+      answer:
+        "Yes. Where a building requires a certificate of insurance we provide it at no charge and follow whatever vendor rules apply.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes and lockboxes are routine here. Our cleaners are background-checked and we confirm arrival and completion by text.",
+    },
   ],
   ctaTitle: "Book a South End cleaning this week",
   ctaDescription: "Send the street, unit layout, and preferred day. An upfront quote and open times arrive within the hour.",

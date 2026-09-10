@@ -119,6 +119,31 @@ const faqs = [
     answer:
       "Yes, though a move-out clean is a separate, more thorough service that covers inside cabinets, appliances, and closets. See our move-out cleaning page for pricing and what it includes.",
   },
+  {
+    question: "Do you clean triple-deckers?",
+    answer:
+      "Yes, and they are a large share of the work across Somerville, Dorchester, and JP. Each floor is quoted as its own unit rather than a share of the building.",
+  },
+  {
+    question: "Can you handle buildings with a concierge?",
+    answer:
+      "Yes. Front desks, fobs, and freight elevator windows are routine in the newer towers, and we set access up with management once.",
+  },
+  {
+    question: "Do you provide a certificate of insurance?",
+    answer:
+      "Yes, at no charge. Many Boston buildings require one from vendors before granting access and we send it to management directly.",
+  },
+  {
+    question: "What if my building has no elevator?",
+    answer:
+      "Standard across most of the city and not a problem. Our cleaners bring equipment sized for walk-ups rather than hauling a cart up four flights.",
+  },
+  {
+    question: "Do you clean shared or roommate apartments?",
+    answer:
+      "Yes. Tell us which rooms are in scope and which are not, and it stays on the account so nobody has to explain it each visit.",
+  },
 ];
 
 export default function ApartmentCleaningPage() {

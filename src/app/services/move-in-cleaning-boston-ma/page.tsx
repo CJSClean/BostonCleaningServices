@@ -118,6 +118,31 @@ const faqs = [
     answer:
       "The checklist is nearly identical. The difference is purpose: a move-out clean is aimed at the landlord's inspection and deposit return, while a move-in clean is aimed at your own comfort in a space someone else just left.",
   },
+  {
+    question: "Why does September 1 matter so much?",
+    answer:
+      "Boston concentrates almost every lease change into that one week. Move-in and move-out slots around it book out weeks ahead, so get your date in early.",
+  },
+  {
+    question: "Should I clean before or after the movers?",
+    answer:
+      "Before. Cabinet interiors, closet shelves, and appliances are reachable exactly once, and that window closes the moment boxes arrive.",
+  },
+  {
+    question: "Do you clean inside closets and cabinets?",
+    answer:
+      "Yes, every one. Shelves, rods, and closet floors are part of the move-in scope, which they are not on a routine visit.",
+  },
+  {
+    question: "What if the previous tenant left it in poor shape?",
+    answer:
+      "Tell us what you are walking into and we quote for the actual condition. A neglected unit takes longer and is better priced honestly up front.",
+  },
+  {
+    question: "Can you work in a walk-up on move day?",
+    answer:
+      "Yes. Narrow stairs and no elevator are standard in Boston, and our kit is sized for it.",
+  },
 ];
 
 export default function MoveInCleaningPage() {

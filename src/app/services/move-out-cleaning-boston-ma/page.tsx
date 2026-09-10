@@ -123,6 +123,26 @@ const faqs = [
     answer:
       "Contact us within 24 hours of the cleaning and we will return to address the specific item at no cost. This is why we suggest cleaning a day before the walkthrough rather than the same morning.",
   },
+  {
+    question: "When should I schedule relative to my walkthrough?",
+    answer:
+      "After the movers finish and before the inspection. Give us the walkthrough date and we schedule to land ahead of it rather than the same morning.",
+  },
+  {
+    question: "What about marks where furniture stood?",
+    answer:
+      "Included. Carpet impressions, wall scuffs, and dust lines along baseboards are exactly what shows up in an empty unit under full light.",
+  },
+  {
+    question: "Do you handle carpet steam cleaning?",
+    answer:
+      "Vacuuming yes; extraction is specialist work. If your lease requires professional carpet cleaning, book that separately and schedule it before our visit.",
+  },
+  {
+    question: "How busy are you around September 1?",
+    answer:
+      "Very. It is the single busiest week in Boston cleaning, so book as far ahead as you can if your lease ends then.",
+  },
 ];
 
 export default function MoveOutCleaningPage() {

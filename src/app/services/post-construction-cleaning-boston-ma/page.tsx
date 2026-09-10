@@ -118,6 +118,26 @@ const faqs = [
     answer:
       "We ask about every new finish before the visit and match products to them. Unsealed stone, fresh grout, and oiled hardwood get specific treatment so nothing is etched or dulled.",
   },
+  {
+    question: "Why does it take more than one pass?",
+    answer:
+      "Drywall dust stays airborne for hours and resettles after the first wipe. The scope includes repeat passes so the space is genuinely finished rather than briefly clean.",
+  },
+  {
+    question: "Do you handle work in older buildings?",
+    answer:
+      "Yes, and it is common here. Renovations in pre-war buildings throw plaster dust as well as drywall dust, which is finer and travels further.",
+  },
+  {
+    question: "What about paint overspray and adhesive?",
+    answer:
+      "Overspray, sticker residue, and adhesive on glass and fixtures are in scope. Cured paint on a finished surface may need the contractor to correct.",
+  },
+  {
+    question: "How much notice do you need?",
+    answer:
+      "About a week. This work takes a larger crew and more equipment than a standard visit, so it is harder to place at short notice.",
+  },
 ];
 
 export default function PostConstructionCleaningPage() {

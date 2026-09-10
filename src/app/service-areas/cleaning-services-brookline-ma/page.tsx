@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Of course. Text your coordinator with the dates and your standing slot is held. The recurring discount stays in place for pauses of up to eight weeks.",
     },
+    {
+      question: "Do you clean throughout Brookline?",
+      answer:
+        "Yes, from Coolidge Corner and Washington Square out to Chestnut Hill, covering condos, triple-deckers, and single-family homes.",
+    },
+    {
+      question: "Do you clean triple-deckers?",
+      answer:
+        "Yes. Each floor is quoted as its own unit rather than as a share of the building, since the layouts and condition often differ floor to floor.",
+    },
+    {
+      question: "Can you work around a family schedule?",
+      answer:
+        "Yes. Plenty of Brookline clients want the visit during school hours. Tell us the window and we hold it as a standing arrangement.",
+    },
+    {
+      question: "What about homes with hardwood throughout?",
+      answer:
+        "Damp microfibre, not a wet mop. Most Brookline houses have hardwood in every room, and standing water at the seams is what ruins it over years rather than weeks.",
+    },
+    {
+      question: "Do you clean finished basements?",
+      answer:
+        "Yes. They are often skipped between visits and then need real work to recover, so most clients put them on a fixed rotation.",
+    },
+    {
+      question: "How do you handle winter?",
+      answer:
+        "Entry areas and stairs take salt and sand from December onward and get extra attention. Storm days get rescheduled rather than attempted.",
+    },
+    {
+      question: "Do I need to be home?",
+      answer:
+        "No. Door codes, lockboxes, and building fobs all work. Our cleaners are background-checked and we text on arrival and completion.",
+    },
   ],
   ctaTitle: "Book a Brookline cleaning this week",
   ctaDescription: "Send bedrooms, bathrooms, and your preferred schedule. An upfront quote and open times arrive within the hour.",

@@ -87,6 +87,41 @@ const content: AreaPageContent = {
       answer:
         "Yes, on a recurring turnover schedule with linen changes and restocking available. Tell us the booking calendar and we align visits to checkouts.",
     },
+    {
+      question: "How do you handle walk-up buildings?",
+      answer:
+        "On foot, with equipment sized for it. Four and five-storey walk-ups are the norm here, so our cleaners carry a compact kit rather than hauling a full cart up narrow Victorian stairs.",
+    },
+    {
+      question: "Can you work with a building concierge?",
+      answer:
+        "Yes. Doorman buildings along the water side of Beacon and in the newer towers are routine. We coordinate access once and provide a certificate of insurance to management at no charge.",
+    },
+    {
+      question: "What about original detail — mouldings and marble?",
+      answer:
+        "Period mouldings get dusted rather than washed, and marble mantels and thresholds take a pH-neutral cleaner. Acidic products etch marble permanently and it cannot be buffed back.",
+    },
+    {
+      question: "Do you clean bay windows?",
+      answer:
+        "Interior glass, sills, and the tracks, yes. Back Bay bay windows collect grit in the tracks that a routine pass will not reach, so they are worth including on a deep clean.",
+    },
+    {
+      question: "How do you deal with winter salt and sand?",
+      answer:
+        "Entry floors and hall runners take the worst of it from December through March. Those get extra attention through winter, since salt left on hardwood dulls the finish.",
+    },
+    {
+      question: "Do you clean radiators?",
+      answer:
+        "The exposed surfaces and behind them where reachable, yes. Steam radiators in these buildings collect dust that then bakes and circulates once the heat comes on.",
+    },
+    {
+      question: "Can you work around a September 1 move?",
+      answer:
+        "Yes, but book early. Boston's move day concentrates almost every lease change into one week, and move-in and move-out slots go weeks ahead.",
+    },
   ],
   ctaTitle: "Book a Back Bay cleaning this week",
   ctaDescription: "Send your address, unit size, and building details. An upfront quote and open times arrive within the hour, seven days a week.",

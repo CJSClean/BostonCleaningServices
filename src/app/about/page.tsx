@@ -7,10 +7,11 @@ import TrustStrip from "@/components/sections/TrustStrip";
 import { Section, SectionHeading } from "@/components/sections/Section";
 import ServiceAreas from "@/components/sections/ServiceAreas";
 import CTABand from "@/components/sections/CTABand";
+import FAQ from "@/components/sections/FAQ";
 import { CheckIcon } from "@/components/ui/Icons";
 import { allServiceAreas } from "@/lib/data/locations";
 import { SITE_URL } from "@/lib/constants";
-import { generateAboutPageSchema, generateBreadcrumbSchema, SchemaScript } from "@/lib/schema";
+import { generateAboutPageSchema, generateBreadcrumbSchema, generateFAQSchema, SchemaScript } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "About Boston Cleaning Services",
@@ -53,11 +54,65 @@ const promises = [
   "A coordinator you can actually reach, seven days a week",
 ];
 
+const faqs = [
+  {
+    question: "How long have you been cleaning in Boston?",
+    answer:
+      "Boston Cleaning Services is the Boston arm of a group running residential cleaning across several US cities. The local operation is kept at a size where consistency stays manageable.",
+  },
+  {
+    question: "How do you vet your cleaners?",
+    answer:
+      "A background check before the first day, an in-person interview, verified references, and hands-on training. You are handing over keys, so that step is not compressed.",
+  },
+  {
+    question: "Are you insured?",
+    answer:
+      "Yes. If something is damaged, tell us as soon as you notice and it gets resolved rather than argued about. That is largely why the insurance exists.",
+  },
+  {
+    question: "Do you use eco-friendly products?",
+    answer:
+      "We choose products for the surface rather than for marketing. If you want fragrance-free or plant-based products used throughout, it becomes a standing note on your account.",
+  },
+  {
+    question: "Do you clean commercial spaces?",
+    answer:
+      "Our scope is residential — houses, apartments, condos, and triple-deckers. Small offices are occasionally possible but it is not what the checklist is written for.",
+  },
+  {
+    question: "What makes you different from a booking app?",
+    answer:
+      "Apps match you with whoever is free. We run one team against one documented scope, which is why the same cleaner tends to come back and why results do not swing week to week.",
+  },
+  {
+    question: "How do you handle keys and building access?",
+    answer:
+      "However you prefer: door code, lockbox, fob with the front desk, or a key held securely. Access details are recorded once and not shared beyond the people who need them.",
+  },
+  {
+    question: "What is your guarantee?",
+    answer:
+      "If an included area was missed, tell us within 24 hours and we return to re-clean it at no additional charge. It applies to every visit, not just the first.",
+  },
+  {
+    question: "Which parts of Greater Boston do you cover?",
+    answer:
+      "Boston proper plus Cambridge, Somerville, Brookline, Newton, and the surrounding Suffolk, Middlesex, and Norfolk County communities.",
+  },
+  {
+    question: "Do you work year-round?",
+    answer:
+      "Yes. Winter storms occasionally force a reschedule, but the schedule runs through the year and recurring clients keep their slot through it.",
+  },
+];
+
 export default function AboutPage() {
   return (
     <>
       <SchemaScript
         schema={[
+          generateFAQSchema(faqs),
           generateAboutPageSchema(),
           generateBreadcrumbSchema([
             { name: "Home", url: "/" },
@@ -168,6 +223,8 @@ export default function AboutPage() {
         <MapEmbed query="Boston, MA" title="Based in Boston, working across the metro" />
 
         <ServiceAreas title="Where our teams work" areas={allServiceAreas} />
+
+        <FAQ title="About us questions" items={faqs} />
 
         <CTABand
           title="Want to see the difference for yourself?"
