@@ -45,7 +45,7 @@ const contactFaqs = [
   {
     question: "Is the quote binding?",
     answer:
-      "The price is confirmed before you book and does not change afterwards. If the property turns out to be substantially different from the description, we talk to you before proceeding rather than adjusting the bill later.",
+      "The price is confirmed before you book. Homes with heavy buildup or pets that shed heavily carry an additional fee, and we tell you that when we quote rather than after the visit. If the property turns out to be substantially different from the description, we talk to you before proceeding rather than adjusting the bill later.",
   },
   {
     question: "Do you have same-week availability?",
