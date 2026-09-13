@@ -58,12 +58,14 @@ export function generateWebsiteSchema() {
   };
 }
 
-export function generateLocalBusinessSchema(areaServed?: string[]) {
+// `name` lets a location page match its Google Business Profile listing name
+// (e.g. "Boston Cleaning Services - Brookline") while keeping the same entity.
+export function generateLocalBusinessSchema(areaServed?: string[], name = SITE_CONFIG.name) {
   return {
     "@context": "https://schema.org",
     "@type": ["LocalBusiness", "HousekeepingService"],
     "@id": BUSINESS_ID,
-    name: SITE_CONFIG.name,
+    name,
     image: LOGO_URL,
     url: SITE_URL,
     telephone: SITE_CONFIG.phone,

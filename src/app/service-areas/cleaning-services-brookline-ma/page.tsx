@@ -6,9 +6,9 @@ import { SITE_URL } from "@/lib/constants";
 const loc = getLocationByKey("brookline")!;
 
 export const metadata: Metadata = {
-  title: "Cleaning Services Brookline MA",
+  title: { absolute: "Cleaning Services Brookline MA | Boston Cleaning Services - Brookline" },
   description:
-    "House and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured local teams, upfront pricing, weekly to monthly plans.",
+    "Boston Cleaning Services - Brookline: house and apartment cleaning in Brookline, MA, from Coolidge Corner condos to Fisher Hill colonials. Insured local teams, upfront pricing, weekly to monthly plans.",
   alternates: { canonical: `${SITE_URL}${loc.href}` },
 };
 
@@ -19,11 +19,11 @@ const content: AreaPageContent = {
   eyebrow: "Brookline, Norfolk County",
   h1: "Professional Cleaning Services in Brookline, MA",
   subtitle:
-    "Brick apartment blocks in Coolidge Corner, Victorians in Brookline Village, and large family homes on Fisher Hill. One local team, one published checklist, pricing set before we arrive.",
+    "Boston Cleaning Services - Brookline covers brick apartment blocks in Coolidge Corner, Victorians in Brookline Village, and large family homes on Fisher Hill. One local team, one published checklist, pricing set before we arrive.",
   highlights: ["Family-home and condo experience", "Pet-friendly teams", "Weekly to monthly plans", "Same-week first visits"],
   introTitle: "Reliable cleaning for a town that runs on schedules",
   intro: [
-    "Brookline is a town of routines. School drop-offs at Runkle and Driscoll, Green Line commutes from Coolidge Corner and Washington Square, hospital shifts at Longwood a few blocks over the line. Households here plan their weeks carefully, and a cleaning service that shows up late or inconsistently does not last long. We built our Brookline operation around two-hour arrival windows we actually keep and a lead cleaner who stays with your home visit after visit.",
+    "Brookline is a town of routines. School drop-offs at Runkle and Driscoll, Green Line commutes from Coolidge Corner and Washington Square, hospital shifts at Longwood a few blocks over the line. Households here plan their weeks carefully, and a cleaning service that shows up late or inconsistently does not last long. We built Boston Cleaning Services - Brookline, run from our office on Harvard Street, around two-hour arrival windows we actually keep and a lead cleaner who stays with your home visit after visit.",
     "The housing is more varied than most people expect. North Brookline is dense with brick apartment buildings and condo conversions along Beacon Street and Harvard Street. Brookline Village and Pill Hill hold Victorians divided into two or three units. Fisher Hill, Chestnut Hill, and the streets south of Route 9 are single-family territory with four and five bedrooms, finished basements, and mudrooms that take a beating in winter. Our quoting accounts for all of it.",
     "Families are the core of our Brookline clientele, and family homes have a specific cleaning profile: kitchens that produce three meals a day, bathrooms shared by kids, playrooms, and floors that see cleats, boots, and paws. Weekly and biweekly plans are the norm here, and our checklist puts extra attention on high-touch surfaces like switch plates, cabinet handles, and the fridge door.",
     "Pets are nearly universal. Our teams are comfortable working around dogs and cats, know how to get fur out of upholstery and off stair runners, and carry an enzyme cleaner for the occasional accident. Tell us about the animals when booking and we will note anything that helps the visit go smoothly, including which room the cat hides in.",
@@ -38,7 +38,7 @@ const content: AreaPageContent = {
   zipCodes: loc.zipCodes,
   frequenciesTitle: "Recurring plans for Brookline households",
   frequenciesIntro: "Weekly and biweekly plans keep busy family homes in order, with the same team and a discount on every visit after the first.",
-  whyTitle: "Why Brookline families choose Boston Cleaning Services",
+  whyTitle: "Why Brookline families choose Boston Cleaning Services - Brookline",
   benefits: [
     {
       title: "Arrival windows we keep",
@@ -123,9 +123,10 @@ const content: AreaPageContent = {
         "No. Door codes, lockboxes, and building fobs all work. Our cleaners are background-checked and we text on arrival and completion.",
     },
   ],
-  ctaTitle: "Book a Brookline cleaning this week",
+  ctaTitle: "Book with Boston Cleaning Services - Brookline this week",
   ctaDescription: "Send bedrooms, bathrooms, and your preferred schedule. An upfront quote and open times arrive within the hour.",
   areaServed: ["Brookline, MA"],
+  businessName: "Boston Cleaning Services - Brookline",
 };
 
 export default function BrooklinePage() {

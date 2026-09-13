@@ -46,6 +46,8 @@ export interface AreaPageContent {
   ctaDescription: string;
   /** Areas served in schema */
   areaServed: string[];
+  /** Business name for this page's LocalBusiness schema, when the GBP listing name differs. */
+  businessName?: string;
   /** Optional override of the "other areas" list (county pages pass their towns). */
   relatedAreas?: { name: string; href: string }[];
   relatedTitle?: string;
@@ -56,7 +58,7 @@ export default function AreaPage({ c }: { c: AreaPageContent }) {
     <>
       <SchemaScript
         schema={[
-          generateLocalBusinessSchema(c.areaServed),
+          generateLocalBusinessSchema(c.areaServed, c.businessName),
           generateBreadcrumbSchema([
             { name: "Home", url: "/" },
             { name: "Service Areas", url: "/#areas" },
