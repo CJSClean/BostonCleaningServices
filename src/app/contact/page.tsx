@@ -132,7 +132,7 @@ export default function ContactPage() {
                 <p className="mb-6 mt-1 text-sm text-muted">
                   The more you tell us about the home, the more accurate the first number will be.
                 </p>
-                <QuoteForm submitLabel="Send my request" />
+                <QuoteForm />
               </div>
             </div>
           </div>

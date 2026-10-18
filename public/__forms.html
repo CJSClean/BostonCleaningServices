@@ -6,17 +6,20 @@
   <body>
     <form name="quote" data-netlify="true" netlify-honeypot="bot-field" hidden>
       <input name="bot-field" />
+      <input type="text" name="first_name" />
+      <input type="text" name="last_name" />
       <input type="text" name="name" />
-      <input type="email" name="email" />
       <input type="tel" name="phone" />
-      <input type="text" name="zip" />
+      <input type="email" name="email" />
+      <select name="city">
+        <option value="">Select your city</option>
+      </select>
       <select name="service">
-        <option value="">Choose a service</option>
+        <option value="">Select a service</option>
       </select>
       <select name="source">
-        <option value="">How did you find us?</option>
+        <option value="">Select…</option>
       </select>
-      <textarea name="message"></textarea>
     </form>
   </body>
 </html>
