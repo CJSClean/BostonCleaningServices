@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import QuoteForm from "./QuoteForm";
 import { CheckIcon, CloseIcon } from "./Icons";
 import { Button } from "./Button";
@@ -12,6 +13,8 @@ interface QuoteModalProps {
 }
 
 export default function QuoteModal({ open, onClose, defaultService }: QuoteModalProps) {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
   const [done, setDone] = useState(false);
 
   useEffect(() => {
@@ -25,25 +28,28 @@ export default function QuoteModal({ open, onClose, defaultService }: QuoteModal
     };
   }, [open, onClose]);
 
-  if (!open) return null;
+  if (!open || !mounted) return null;
 
   const close = () => {
     setDone(false);
     onClose();
   };
 
-  return (
+  return createPortal(
+    // The overlay scrolls rather than the panel, so a form taller than the
+    // viewport stays reachable instead of being clipped at both edges.
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-navy-deep/70 p-4 backdrop-blur-sm"
+      className="fixed inset-0 z-50 overflow-y-auto bg-navy-deep/70 p-4 backdrop-blur-sm"
       onClick={close}
       role="dialog"
       aria-modal="true"
       aria-label="Request a quote"
     >
-      <div
-        className="relative w-full max-w-lg rounded-2xl bg-paper p-6 shadow-2xl sm:p-8"
-        onClick={(e) => e.stopPropagation()}
-      >
+      <div className="flex min-h-full items-center justify-center">
+        <div
+          className="relative my-4 w-full max-w-lg rounded-2xl bg-paper p-6 shadow-2xl sm:p-8"
+          onClick={(e) => e.stopPropagation()}
+        >
         <button
           onClick={close}
           aria-label="Close"
@@ -72,9 +78,11 @@ export default function QuoteModal({ open, onClose, defaultService }: QuoteModal
               Takes about 30 seconds. We confirm pricing before anything is booked.
             </p>
             <QuoteForm compact defaultService={defaultService} onSuccess={() => setDone(true)} />
-          </>
-        )}
+            </>
+          )}
+        </div>
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }
