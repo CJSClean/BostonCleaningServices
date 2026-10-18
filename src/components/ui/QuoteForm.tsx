@@ -17,6 +17,7 @@ const SOURCES = [
   "Facebook",
   "Instagram",
   "Nextdoor",
+  "Reddit",
   "Thumbtack",
   "Yelp",
   "Friend / Family Referral",
