@@ -14,6 +14,7 @@ interface Section {
   heading: string;
   body?: string[];
   bullets?: string[];
+  outro?: string[];
 }
 
 const sections: Section[] = [
@@ -32,6 +33,22 @@ const sections: Section[] = [
       "Less than 48 hours' notice: $75 fee.",
       "Less than 24 hours' notice: 50% of the booking price.",
       "Same-day cancellation, no-show, or lockout: 100% of the booking price.",
+    ],
+  },
+  {
+    heading: "50% Off Initial Deep Cleaning with Recurring Service",
+    body: [
+      "New clients who come to us through Facebook or Instagram may receive 50% off their initial deep cleaning when they sign up for recurring cleaning service. To qualify for this discount:",
+    ],
+    bullets: [
+      "This promotion is available only to new clients who come to us through Facebook or Instagram. It cannot be redeemed by clients who reach us through any other channel.",
+      "You must book your initial deep cleaning and enroll in a recurring cleaning plan (weekly, bi-weekly, or monthly) at the same time.",
+      "You must complete at least three (3) recurring cleanings after your initial deep cleaning, on the recurring schedule you selected when booking (weekly, bi-weekly, or monthly). The initial deep cleaning does not count toward these three cleanings.",
+      "The 50% discount applies to the initial deep cleaning only. Recurring cleanings are billed at your recurring plan rate.",
+      "Our standard cancellation fees still apply to any recurring cleaning cancelled or rescheduled with less than 48 hours' notice.",
+    ],
+    outro: [
+      "If you cancel your recurring plan or otherwise fail to complete three (3) recurring cleanings on your selected schedule, you will be charged an amount equal to the 50% discount you received on your initial deep cleaning. For example, if your deep cleaning was priced at $400 and you paid $200 after the discount, a $200 charge will apply. This charge will be made to the payment method on file. If Boston Cleaning Services ends your service before your three recurring cleanings are completed, no charge will apply.",
     ],
   },
   {
@@ -198,6 +215,9 @@ export default function TermsPage() {
                       ))}
                     </ul>
                   )}
+                  {s.outro?.map((p, i) => (
+                    <p key={i} className="mt-3">{p}</p>
+                  ))}
                 </div>
               </div>
             ))}
