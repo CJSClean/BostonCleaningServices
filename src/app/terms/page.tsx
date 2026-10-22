@@ -27,7 +27,7 @@ const sections: Section[] = [
   {
     heading: "Cancellation and Rescheduling Fees (48-Hour Notice Required)",
     body: [
-      "We schedule cleaners and travel around your appointment, so we ask for at least 48 hours' notice to cancel or reschedule at no charge. Shorter notice is billed as follows:",
+      "We schedule cleaners and travel around your appointment, so we ask for at least 48 hours' notice to cancel or reschedule at no charge. Shorter notice is billed to the card on file as follows:",
     ],
     bullets: [
       "Less than 48 hours' notice: $75 fee.",
